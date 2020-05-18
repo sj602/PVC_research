@@ -1,0 +1,2388 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE RestingECG SYSTEM "restecg.dtd">
+<RestingECG>
+   <MuseInfo>
+      <MuseVersion>7.1.0</MuseVersion>
+   </MuseInfo>
+   <PatientDemographics>
+      <PatientID>35817639</PatientID>
+      <PatientAge>61</PatientAge>
+      <AgeUnits>YEARS</AgeUnits>
+      <Gender>MALE</Gender>
+      <HeightCM>0</HeightCM>
+      <WeightKG>0</WeightKG>
+      <PatientLastName>Song</PatientLastName>
+      <PatientFirstName>Ok Nym</PatientFirstName>
+   </PatientDemographics>
+   <TestDemographics>
+      <DataType>RESTING</DataType>
+      <Site>1</Site>
+      <SiteName>AMC CARDIOVASCULAR CENTER</SiteName>
+      <AcquisitionDevice>MAC55</AcquisitionDevice>
+      <Status>CONFIRMED</Status>
+      <EditListStatus>Confirmed</EditListStatus>
+      <Priority>NORMAL</Priority>
+      <Location>6</Location>
+      <LocationName>CV</LocationName>
+      <AcquisitionTime>11:34:22</AcquisitionTime>
+      <AcquisitionDate>11-17-2008</AcquisitionDate>
+      <CartNumber>1</CartNumber>
+      <AcquisitionSoftwareVersion>009B.1</AcquisitionSoftwareVersion>
+      <AnalysisSoftwareVersion>239</AnalysisSoftwareVersion>
+      <EditTime>08:31:14</EditTime>
+      <EditDate>02-01-2010</EditDate>
+      <OverreaderID>7</OverreaderID>
+      <EditorID>2</EditorID>
+      <TestReason>129833</TestReason>
+      <ReferringMDLastName>CV</ReferringMDLastName>
+      <OverreaderLastName>NAM</OverreaderLastName>
+      <OverreaderFirstName>GI BYOUNG</OverreaderFirstName>
+      <AcquisitionTechLastName>KBH</AcquisitionTechLastName>
+      <EditorLastName>PARK</EditorLastName>
+      <EditorFirstName>MI KYUNG</EditorFirstName>
+      <HISStatus>0</HISStatus>
+   </TestDemographics>
+   <RestingECGMeasurements>
+      <VentricularRate>78</VentricularRate>
+      <AtrialRate>78</AtrialRate>
+      <QRSDuration>90</QRSDuration>
+      <QTInterval>428</QTInterval>
+      <QTCorrected>487</QTCorrected>
+      <RAxis>67</RAxis>
+      <TAxis>256</TAxis>
+      <QRSCount>13</QRSCount>
+      <QOnset>219</QOnset>
+      <QOffset>264</QOffset>
+      <TOffset>433</TOffset>
+   </RestingECGMeasurements>
+   <OriginalRestingECGMeasurements>
+      <VentricularRate>78</VentricularRate>
+      <AtrialRate>78</AtrialRate>
+      <QRSDuration>90</QRSDuration>
+      <QTInterval>428</QTInterval>
+      <QTCorrected>487</QTCorrected>
+      <RAxis>67</RAxis>
+      <TAxis>256</TAxis>
+      <QRSCount>13</QRSCount>
+      <QOnset>219</QOnset>
+      <QOffset>264</QOffset>
+      <TOffset>433</TOffset>
+      <ECGSampleBase>500</ECGSampleBase>
+      <ECGSampleExponent>0</ECGSampleExponent>
+      <QTcFrederica>487</QTcFrederica>
+   </OriginalRestingECGMeasurements>
+   <Diagnosis>
+      <Modality>RESTING</Modality>
+      <DiagnosisStatement>
+         <StmtText>Accelerated</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>Junctional rhythm</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>with frequent</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>Premature ventricular complexes</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>Left ventricular hypertrophy</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>with repolarization abnormality</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>Abnormal ECG</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>When compared with ECG of</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>21-MAR-2008 10:11,</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>Junctional rhythm</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>has replaced</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>Sinus rhythm</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>Vent. rate</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>has increased</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>BY  29 BPM</StmtText>
+      </DiagnosisStatement>
+   </Diagnosis>
+   <OriginalDiagnosis>
+      <Modality>RESTING</Modality>
+      <DiagnosisStatement>
+         <StmtText>Accelerated</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>Junctional rhythm</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>with frequent</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>Premature ventricular complexes</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>Left ventricular hypertrophy</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>with repolarization abnormality</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>Abnormal ECG</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>When compared with ECG of</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>21-MAR-2008 10:11,</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>Junctional rhythm</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>has replaced</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>Sinus rhythm</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>Vent. rate</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtText>has increased</StmtText>
+      </DiagnosisStatement>
+      <DiagnosisStatement>
+         <StmtFlag>ENDSLINE</StmtFlag>
+         <StmtText>BY  29 BPM</StmtText>
+      </DiagnosisStatement>
+   </OriginalDiagnosis>
+   <MeasurementMatrix>
+////f/9//3//f/9//3//f/9//3//f/9//3//fwAAAAAAAAAA////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/////f////3////9/////f////3//
+//9/////f////3////9/////f////3////9/////f////3////9/////f////3////9/
+////f////3////9/////f////3////9/////f////3////9/////f////3////9/////
+f////3////9/////f////3////9/////f////3////9/////f////3////9/////f///
+/3////9/////f////3////9/////f////3////9/
+   </MeasurementMatrix>
+   <QRSTimesTypes>
+      <QRS>
+         <Number>1</Number>
+         <Type>1</Type>
+         <Time>492</Time>
+      </QRS>
+      <QRS>
+         <Number>2</Number>
+         <Type>0</Type>
+         <Time>1456</Time>
+      </QRS>
+      <QRS>
+         <Number>3</Number>
+         <Type>1</Type>
+         <Time>1974</Time>
+      </QRS>
+      <QRS>
+         <Number>4</Number>
+         <Type>0</Type>
+         <Time>2706</Time>
+      </QRS>
+      <QRS>
+         <Number>5</Number>
+         <Type>0</Type>
+         <Time>3668</Time>
+      </QRS>
+      <QRS>
+         <Number>6</Number>
+         <Type>1</Type>
+         <Time>4202</Time>
+      </QRS>
+      <QRS>
+         <Number>7</Number>
+         <Type>0</Type>
+         <Time>4944</Time>
+      </QRS>
+      <QRS>
+         <Number>8</Number>
+         <Type>0</Type>
+         <Time>5976</Time>
+      </QRS>
+      <QRS>
+         <Number>9</Number>
+         <Type>1</Type>
+         <Time>6516</Time>
+      </QRS>
+      <QRS>
+         <Number>10</Number>
+         <Type>0</Type>
+         <Time>7730</Time>
+      </QRS>
+      <QRS>
+         <Number>11</Number>
+         <Type>1</Type>
+         <Time>8244</Time>
+      </QRS>
+      <QRS>
+         <Number>12</Number>
+         <Type>0</Type>
+         <Time>9176</Time>
+      </QRS>
+      <QRS>
+         <Number>13</Number>
+         <Type>1</Type>
+         <Time>9698</Time>
+      </QRS>
+      <GlobalRR>767</GlobalRR>
+      <QTRGGR>248</QTRGGR>
+   </QRSTimesTypes>
+   <Waveform>
+      <WaveformType>Median</WaveformType>
+      <WaveformStartTime>0</WaveformStartTime>
+      <NumberofLeads>8</NumberofLeads>
+      <SampleType>CONTINUOUS_SAMPLES</SampleType>
+      <SampleBase>500</SampleBase>
+      <SampleExponent>0</SampleExponent>
+      <HighPassFilter>16</HighPassFilter>
+      <LowPassFilter>150</LowPassFilter>
+      <ACFilter>NONE</ACFilter>
+      <LeadData>
+         <LeadByteCountTotal>1200</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>600</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>I</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>2364401519</LeadDataCRC32>
+         <WaveFormData>
+BgAGAAkABwADAAMAAwABAAEAAgADAAMAAwAEAAQAAgABAAEAAQADAAMAAgD//wEAAgAC
+AAIAAQABAAIAAgACAAIAAgABAAAAAAAAAAAAAQADAP////8BAAEAAgACAAAAAAACAAIA
+AgD//wEAAgACAAEAAQABAP//////////AAAAAAAAAQABAAAAAAAAAP///////////v/+
+//7//v8BAAEA/////wAAAAAAAP7/AAADAAEAAQABAAIAAgAAAAAAAAAAAAEAAQABAAEA
+AAD9////AQABAP//AQABAP///v/+//3//f/+//7//f/7//3//f/8//z//f/9//z//P/9
+//3//P/7//n/+f/7//z//v/8//z//P/8//z//P/7//v/+v/6//v/+//7//r/+P/6//z/
+/P/7//v//P/8//z/+//6//r/+v/7//v/+//7//n/+//9//3//P/7//v/+//8//z/+//6
+//r//P/9//3/+f/5//z//P/8//v/+//8//3//f/+//7//f/9//3//f/9//3//v//////
+/f/9////AQD+//v//f8AAP7//v/+//z//P//////AAAAAAQACAAOABQAFwAYABwAJQA1
+AEoAZAB9AJEApAC2AL4AsQCdAI8AfwBjAEcAOgAuAB0ADQAJAAgABgABAP7//f/6//b/
+9f/1//X/9v/3//f/9//3//f/+P/4//b/9P/2//f/9//3//n/+f/5//n/+v/6//r/+P/4
+//j/9v/4//r/+v/4//f/9//5//n/+v/6//z//P/5//j/+P/6//z/+v/6//r/+v/6//n/
++P/4//n/+f/4//j/+v/6//j/+P/6//r/+v/5//n/+f/5//n/+P/4//r/+v/6//r/+f/4
+//j/+P/3//f/+P/4//j/9//3//r//P/5//f/+f/5//n/+v/6//r/+v/7//v/+//4//r/
++v/5//n/+v/6//r/+v/5//j/+P/1//X/+P/4//j/9//3//j/+P/0//T/9f/1//X/9f/z
+//P/8//z//P/8f/v/+7/7v/w/+7/7v/v/+//7//v/+//7//v/+//8P/w//H/8//x//H/
+9P/3//j/+P/4//r/+v/6//v//v/+//7//v/+////AQABAAAAAAAAAAAA/v8AAAIAAgAC
+AAIAAgABAP//AQABAP//////////AQABAAAAAAAAAAAAAAAAAP7//v////////////z/
++f/9///////7//3////6//j//f/////////9//r//P/+//7//P/4//v/+//4//r//v/+
+//v/+//+//v/+//8//z//P/8//z//P/8//v/+P/7//3//f/9//3//v/+//7/AAD9//j/
++//9//3/+//9//3/+//7//z//P/9//3/+v/8/wAAAAD///3//P/7//v//v/+//r/+v/8
+//3//f/+//7//P/8//v/+v/6//3//f/9//3//f/9//3//f/6//7//v/8//z//P/5//f/
+/P//////+//9/wEA/v/7//v//v/+//7//v/9//r//P/+//7//v/8//r/AAACAP7/+/8A
+AAMA///9//3///////3///8DAAMAAwADAAIA
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>1200</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>600</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>II</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>2313093362</LeadDataCRC32>
+         <WaveFormData>
+AwABAP//AgADAAMAAgACAAQABAADAAAAAAACAAAAAAACAAIAAgAFAAUABAAEAAQAAwAD
+AAMAAwADAAMAAwADAAIAAgD///3/AAACAAIAAgACAAAAAAACAAIAAwADAAEAAAAAAAIA
+AwADAAMAAwADAAMAAwACAAEAAQACAAIAAgABAP//////////AAAAAAAA/f8AAAIAAgAC
+AAIAAQAAAAAAAQABAAEAAQAAAAAAAQACAAIAAgADAAMAAQD///3//f/9//3//f/+/wAA
+/f/7//v//f/9//3//f/9//3//f/7//r/+v/7//v/+v/6//v//P/8//z//P/8//r/+v/5
+//n/+v/6//j/+v/6//r/+v/6//r/+v/6//r/+//7//r/+v/8//r/+v/5//n/+f/7//v/
++//5//n/+v/6//r/+v/6//r/+v/7//v/+//7//v//P/8//v/+//6//r/+//7//v/+//7
+//v/+//9//3/+//7//z//v/+//3/+//+//7//v/+//7//f/9//////////7//v//////
+/f/9/wAAAgD///7//v/+//7//v/+//7/AAAAAAAAAAAAAAAA///5//T/8f/x//f/AwAY
+AC8ARgBiAIEAowDNAPoAJgFMAWoBgQGJAXwBXgE4AQ0B2gCiAHoAYQBIADIAHwAUAAsA
+BAD8//f/9P/x/+//7//v/+//8P/y//D/7//u/+7/7v/u/+7/7//v/+7/7v/t/+z/7P/s
+/+z/6v/s/+3/7f/t/+3/7f/r/+3/7f/t/+v/6//r/+v/6f/r/+3/7f/s/+v/6//r/+v/
+6//r/+r/6v/p/+n/6v/q/+n/6f/p/+r/6v/o/+b/5v/o/+b/5v/n/+j/6P/m/+b/6P/o
+/+b/5v/l/+T/4v/k/+T/4v/i/+P/4//j/+P/4f/g/+D/4//h/9//3//g/+H/4f/f/9//
+3//e/93/3P/c/9z/2//a/9r/2f/X/9f/2f/Z/9X/1P/U/9P/0v/S/9L/0v/P/87/zv/N
+/83/zv/O/83/y//J/8j/yP/J/8r/yv/L/8v/y//M/8z/zP/M/83/0P/R/9T/1v/X/9j/
+2f/d/+H/4//j/+b/6P/p/+v/7v/x//T/9f/2//f/+v/7//v//f/9//z//P///wAAAAAA
+AAAAAQABAAEAAQABAAAAAAABAAEAAQADAAQABAADAAEA//8CAP///////wAAAQABAP3/
++f/7///////+//7//f/9//3///////7//v/8//z//f8BAAEA/P/6//r/+//7//v/+//+
+////AAAAAP7/+//7//z//P/8//z//f/9//3//f/9//7//v/9//3//f/9///////8//r/
+/P/+//7//v/9//3//f/9//7//v/+//7//P/8////AAAAAAAA/v/8//v/+//8//z//v/+
+//7/AAAEAAIA/////wAAAAACAP//+//7//3//f/9//7//v/+/wIAAgAAAAAAAAD8//v/
++//+//////8BAAIAAwAEAAcACgAKAAkACQAJAAcABQADAAMAAwADAAMABgAGAAYABQAF
+AAUAAgACAAcABwAHAAgACAAIAAgACAAGAAQA
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>1200</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>600</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V1</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>53469768</LeadDataCRC32>
+         <WaveFormData>
+8f/v/+//7//w//L/9P/x//H/8f/w//D/8f/y//T/8v/w//D/8v/z//P/9P/0//T/9P/0
+//L/8v/1//X/9f/2//b/9f/1//T/9P/1//X/9f/1//P/8v/y//T/8v/y//P/8//z//T/
+9f/1//X/9f/3//f/9//3//f/9v/2//f/+f/5//n/+v/6//z//v/+//7///8CAAIAAgAC
+AAIAAgABAAEAAQABAAAAAAAAAP7//v/+//7//v/8//v/+v/6//j/9//3//r/+//7//n/
++f/5//n/+f/5//n/+f/5//n/+f/5//r/+v/6//r/+v/6//v/+//7//r/+v/6//z//P/8
+//3//f/7//v/+//6//r/+v/7//v/+//7//v/+//7//v/+//7//v/+//7//v/+v/6//z/
+/P/8//z//P/8//z//P/8//z//f/9//3//f/9//3//f/9//7//v/+//7///////7//v/+
+//7/////////////////////////////////////////AAAAAAAAAQABAAAA/////wAA
+AAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAAAAAAAAAAQABwALABMAJAA3AEUARQAz
+ABYA+v/f/8D/oP94/0n/IP/+/tz+wP65/sP+1/70/hr/Pv9a/2//hP+X/6n/uf/J/9j/
+5f/v//f//P8BAAUACAAMAA0ADwAQABEAEQASABIAEwAVABUAFAAUABQAFQAWABYAFgAX
+ABcAFwAXABgAGAAZABkAGQAaABoAGgAaABoAGgAaABoAGgAaABoAGwAbABwAHAAbABsA
+HAAdAB0AHAAcAB0AHQAfAB8AHwAfAB8AHwAgACAAIQAhACEAIQAhACMAIwAjACQAJAAk
+ACQAJAAkACUAJQAmACYAJwAnACgAKAApACkAKgAsAC0ALgAuAC0ALQAvADEAMgAzADQA
+NQA2ADYANwA5ADoAOwA8AD4APgBAAEEAQQBBAEIARABEAEQARQBFAEUARQBFAEUARgBG
+AEYARwBHAEgASABGAEYARgBGAEYARQBEAEMAQQA/AD4APAA6ADgANQAyADEALwAtACoA
+JwAjACEAIAAeABoAGAAXABQAEgARAA8ADgAMAAsACwAKAAoACQAIAAgACAAHAAcABwAH
+AAUABQAFAAUABQAFAAUABQAFAAQABAAFAAYABgAGAAcACAAIAAgACAAJAAkACAAIAAkA
+CQAJAAkACQAJAAgACAAIAAgABwAHAAgACAAIAAgACQAJAAkACQAKAAoADAAMAAoACgAK
+AAoACwAMAAwACAAGAAkACQAIAAgACAAGAAYABgAGAAYABgAGAAcABwAGAAUAAwAFAAUA
+BQAFAAUABQAFAAQABAAFAAUABAAEAAQAAgACAAQABAADAAMAAwADAAIAAQABAAIAAgAB
+AAEAAgACAAIAAQAAAAAAAQADAAEAAQABAAEAAQADAAAAAAABAAUAAwABAP///v/+////
+AQADAAQABQAHAAcABgAGAAgACwALAAwADQANAAwACwAIAAgACAAJAAkABwAGAAUABAAE
+AAQABQAFAAUABQAFAAUABgAGAAcABwAHAAkA
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>1200</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>600</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V2</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>1283228570</LeadDataCRC32>
+         <WaveFormData>
+4v/f/97/3v/e/97/3f/c/9z/3P/c/9v/2//b/9z/3P/a/9r/2//b/9z/3v/e/97/3//i
+/+P/5P/l/+f/6P/q/+v/6//s/+z/7//w//D/8P/w//D/8f/x//P/8//z//P/8//0//T/
+9f/2//b/9//6//z//P/8//3//v//////AAADAAMAAQABAAEAAwADAAAAAAD///7//f/9
+//3//f/9//3//f/9//v/+v/6//r/+v/7//v/+//7//v/+//7//v/+f/7//z//P/6//r/
+/P/6//r/+v/6//r//P/8//v/+//7//v/+//7//r/+f/4//j/+P/2//b/9//4//n/+v/6
+//r/+P/3//b/9v/3//f/9//5//n/+f/5//j/9//3//j/+P/4//n/+f/5//n/+P/2//j/
++P/4//j/+P/5//v/+f/5//j/+P/4//n/+f/5//n/+f/5//r/+v/5//n/+f/5//n/+f/6
+//r/+v/6//r/+v/6//r/+v/6//r/+v/8//z/+v/6//z//P/9//3//f/9//z//P/9////
+/f/9//3//f/9//3//f/+//7//v/+//z//P/9//7/AAACAAwAGgAtAEYAawCLAKIApgCV
+AHoAYwBGAB8A+P/Q/5r/Xf8d/93+q/6U/o7+mv6z/tD+7v4N/yr/RP9g/3v/kP+n/8H/
+1f/l//L/+v8CAAoAEAAWABoAGwAdAB8AHwAiACMAJAAlACYAJgAmACYAKAAoACkAKwAr
+ACsAKwArAC0ALgAuAC4ALwAvADAAMAAwADAAMAAxADEAMQAyADMANAA0ADQANAA0ADYA
+NwA3ADcAOAA4ADoAOwA7ADsAPAA8AD0APQA+AEAAQQBBAEEAQgBEAEUARQBFAEYASABJ
+AEoASgBMAE0ATwBQAFEAUgBSAFQAVQBXAFgAWQBbAF4AXgBiAGIAYwBkAGYAaABpAGsA
+bgBwAHAAcQByAHQAdQB5AHkAegB7AHwAfQB9AH4AfgB/AH8AfwB/AH8AfwB+AH0AfAB8
+AHsAeQB4AHYAdAByAHAAbQBsAGoAZgBkAGEAXQBXAFUAUQBPAEsARgBAAD0AOQA2ADMA
+MAArACYAIgAgAB0AGwAYABcAFgATABAADgANAAsACgAKAAcABgAGAAUABQAEAAQAAwAD
+AAMAAgACAAIAAgACAAIAAwADAAIAAgADAAQABQAGAAYABgAGAAYABgAHAAgACQAJAAoA
+CwAMAAwADAAMAAsACwALAAsACwALAAsACwALAAwADAANAA0ADQALAAsADAAMAAoACQAJ
+AAkACgAKAAkABgAGAAcABwAGAAYABgAEAAMAAgABAP////8AAAAA///+//z//P/9//3/
+/P/7//v/+v/6//n/+f/5//n/+P/2//b/9v/1//X/9v/2//X/9P/z//P/8v/y//L/8//z
+//H/8f/x//L/8v/x//D/8P/w/+//7//v//D/8P/w/+//7//v//D/8P/w/+7/7P/s/+3/
+7v/u/+7/7v/w//D/8P/w//L/8//z//P/9f/1//T/8//w/+//7//w//D/7//u/+3/7f/t
+/+3/7v/u/+7/7//w//D/8P/w/+//7v/t/+7/
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>1200</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>600</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V3</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>3287697135</LeadDataCRC32>
+         <WaveFormData>
+///+//3//f/9//3//f/8//z//f/9//3//v8AAAEAAQABAP///v/+////AAAAAAAAAgAD
+AAMABQAGAAcACAAKAAoACgAKAAoACgAKAAoACQAHAAYABgAGAAgACAAGAAUABQAFAAYA
+BwAIAAgACAAHAAcABwAHAAcABgAGAAYABwAHAAcABgAGAAYABgAGAAYABgAHAAcABwAH
+AAcABwAGAAYABwAHAAUABAAEAAMAAwAEAAQAAwADAAIAAgACAAEAAQABAAAAAAAAAP//
+///+//7//////////////////////////f/9//z//P/8//z//P/8//z//f/+//7//f/9
+//3/+//7//v/+//7//v/+//7//v/+v/6//r/+f/5//n/+f/5//n/+v/6//n/+f/5//n/
++f/5//n/+f/5//n/+P/4//n/+f/5//n/+f/5//n/+f/5//n/+v/6//r/+//7//r/+v/6
+//r/+//7//v/+v/6//r/+v/6//r/+v/7//v/+v/6//v/+//7//z//P/7//v/+//8//3/
+/f/9//3//f/9//3//f/+//7//v/+//7/////////AAADAAoAFwAnADsAVABxAIkAnQCr
+ALgAxQDNAMoAxgDBALIAlQBlACcA9P/R/7L/lf97/2D/Qv84/0X/WP9s/4L/lf+n/73/
+0f/f/+j/8f/5/wAABgALAA0AEQASABQAFAAVABYAFgAWABgAGQAZABkAGgAaABsAHAAd
+AB0AHQAdAB0AHgAeAB4AHwAfAB8AHwAgACAAIAAfAB8AHwAgACIAIgAiACIAIgAiACIA
+JAAkACQAJAAlACYAJwAnACcAJwAoACgAKQApACoALAAsACwALAAsAC4ALgAuAC8ALwAx
+ADIAMgAyADQANQA1ADcANwA3ADkAOgA8ADwAPQA/AEAAQQBCAEMAQwBFAEYASABJAEkA
+SwBNAE4ATgBQAFEAUgBTAFMAUwBUAFQAVgBWAFYAVgBVAFUAVQBVAFQAVABTAFEAUQBQ
+AE4ATQBLAEkASABGAEIAQQBAAD4APAA6ADgANAAyAC8ALQAsACoAJwAkACQAIgAgAB4A
+HQAbABkAGAAWABUAFAAUABMAEgARABAADwAOAA4ADQANAAwACwALAAsACQAJAAkACQAJ
+AAkACAAHAAcACAAIAAgACAAIAAgACAAIAAgACgAMAAwADAANAA0ADQANAA0ADQAOABAA
+EgASABIAEwATABMAEwAUABQAEwATABQAFQAVABYAFgAWABcAFwAXABYAFgAWABQAEwAT
+ABQAFgAWABQAEgASABMAEwASABEAEQAQABAAEAAPAA4ADgAPAA8ADgAOAA0ADQAOAA4A
+DQANAA0ADgAOAA4ACwALAAsACgAJAAkACQAJAAoACgAKAAkACAAIAAgABwAHAAcACQAJ
+AAcABgAGAAcABwAFAAUABgAGAAYABgAFAAUABgAGAAQABAAFAAcABwAHAAYABQAFAAYA
+BwAHAAcABwAJAAkABwAJAAsADQANAA0ADwAPAA4ACwALAAoACgAKAAoACgAKAAoACgAK
+AAoADAAMAAwADQAOAA4ADQAMAAwACwAKAAsA
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>1200</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>600</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V4</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>1297770724</LeadDataCRC32>
+         <WaveFormData>
+FwAVABUAFgAWABcAFwAXABcAGAAYABkAGQAZABkAGQAYABgAGQAaABoAGgAaABoAGgAb
+ABsAGwAbABwAHAAcABsAGgAZABgAFwAWABYAFAATABEADwAPAA8ADgANAAoACgAKAAoA
+CAAIAAcABgAFAAQABAADAAIAAgACAAIAAgACAAIAAQABAAEAAQD/////AwAEAAQABgAG
+AAYABAAEAAQABQAFAAIAAQAAAP///////////v/8//v/+v/6//r/+v/7//v/+v/4//j/
++P/4//f/9//6//v/+//6//r/+P/4//b/9v/2//b/9//3//f/9//2//b/9//3//b/9v/2
+//b/9v/2//b/+P/4//f/9//2//X/9f/1//X/9P/0//X/9f/1//X/9v/2//X/9P/0//X/
+9f/1//b/9v/2//X/9f/1//X/9f/1//X/9f/2//b/9v/2//n/+f/5//j/+P/4//j/+f/5
+//n/+f/5//j/+P/4//j/+f/5//n/+f/5//n/+v/6//r/+v/7//v/+//7//r/+v/8//z/
+/P/8//z//P/8//z//f/9//3//f/9//7/////////AAACAAcAEAAYACEALgA9AFAAawCP
+ALkA6QAWAT0BZAGQAbcBzwHKAaoBhgFlATEB5ACKACMAxv+R/4X/iP+R/5//qv+1/8T/
+0v/a/+D/6P/t//P/9//8//7///8AAAAAAAACAAMAAwADAAMAAwADAAMAAwADAAMAAwAG
+AAYABQAFAAYABgAFAAUABgAHAAcABwAHAAcABwAHAAcABwAHAAcABgAGAAYABAAEAAYA
+BwAHAAcABwAHAAgACAAJAAkACAAHAAcABwAIAAkACwALAAoACgALAAsADAAMAAwADAAN
+AA0ADQAOABAAEAAQABAAEQARABEAEgATABMAEwAUABQAFQAVABUAFQAVABYAFgAWABcA
+FwAZABkAGQAaABwAHAAcABsAGQAXABYAFgAWABUAFAATABAAEAAQAA8ADgANAAoACQAI
+AAQAAgACAAAA/f/6//f/9v/2//b/9v/1//X/8//x//H/8f/y//L/8f/x//L/8//z//b/
+9//4//n/+v/8//3///8AAAIAAwAEAAUABQAGAAcACAAIAAkACwALAAsACwALAAsACwAM
+AAwADAALAAsACwALAAsACwALAAsADAAMAAwADAAMAAwADAANAA0ADQANAA0ADQANAA4A
+DwAPAA8ADwAPAA8ADwAQABEAEQARABMAEwATABMAFAAUABQAFQAVABQAFAAUABMAEwAT
+ABMAFQAVABQAEwATABMAEwATABMAEgARABEAEAAQABAAEAAQABAAEAAPAA4ADgAPAA8A
+DQANAA4ADgAMAAsACwALAAsACgAJAAkACQAJAAkACQAIAAcABwAGAAYABQADAAUABgAG
+AAQABAAEAAQAAwADAAMAAwADAAMAAQABAAIAAwADAAIA//8CAAYABAADAAAAAAD/////
+AQABAAEAAQAFAAMAAAACAAQABQAFAAYABgAIAAUAAwADAAIAAQABAAEAAQABAAIAAgAB
+AAEAAgACAAMAAwAFAAUAAwADAAIAAQD/////
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>1200</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>600</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V5</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>2265128116</LeadDataCRC32>
+         <WaveFormData>
+CQAGAAUABQAFAAgACAAIAAgACAAIAAkACQAJAAgABgAFAAUABAAEAAQABAAFAAUABQAD
+AAMABAAGAAYABwAHAAUABAAEAAMAAwAEAAQAAwADAAIAAgADAAUABQAEAAQABAAEAAMA
+AgACAAIAAQAAAAAAAQADAAQABAAEAAIAAgACAAEAAQABAAEAAQAAAP////8AAAIAAgAC
+AAAA/////wAAAAAAAP///v/+//7//v/////////+//3//f/8//z//P/8//z//P/8//z/
+/P/8//r//P/8//z//P/8//z//P/8//v/+//7//r/+f/5//n/+v/6//r/+v/6//r/+v/6
+//r/+v/5//n/+f/5//n/+f/5//n/+f/5//n/+f/5//n/+f/5//n/+f/5//n/+P/4//j/
++f/5//j/+P/5//n/9//3//j/+P/4//j/+P/5//n/+f/6//v/+//7//v/+//6//r/+//7
+//v/+//7//v/+v/6//r/+//7//v/+//7//v/+//7//v//P/8//3//f/9//3//f/9//7/
+/v/9//3//f/9//3//f/9//3//v/+////AQD/////AAAAAAIABQAFAAMAAgACAAwAIwBH
+AHUAqwDlACABYAGxAQcCVAKHApwCngKPAlgC9wF3Ae0AdgAnAPj/3//T/87/zv/P/9P/
+1f/W/9j/2v/d/+L/5v/p/+r/6//s/+3/7f/t/+3/7f/t/+7/7v/u/+7/7v/u/+7/7v/v
+/+//7//v/+//7//v/+//7//v/+//7//w//D/7v/u/+3/7f/t/+7/7v/t/+3/7f/s/+z/
+7f/t/+3/7f/t/+3/7f/t/+z/7P/r/+v/7P/s/+z/7f/t/+v/6v/q/+v/6//r/+r/6v/q
+/+n/6f/q/+r/6v/q/+n/6f/o/+j/6f/p/+j/6P/o/+j/5//n/+b/5v/m/+b/5P/k/+T/
+5P/k/+P/4v/h/+H/4P/f/97/3P/b/9n/2P/X/9X/1f/S/9L/z//O/8z/yv/I/8X/xP/C
+/8D/v/+//7z/u/+5/7f/tv+2/7b/tf+0/7T/s/+z/7P/s/+1/7f/uP+5/7z/v//E/8n/
+y//P/9T/2P/a/93/4f/l/+r/7P/v//L/8//2//j//P/9//3/AAABAAIAAwAEAAQABQAF
+AAYABgAGAAYABgAGAAYABgAGAAYABgAGAAYABwAHAAYABAAEAAUABQAFAAUABgAGAAYA
+BgAGAAQAAwADAAQABAAGAAYABgAGAAcABwAHAAgACQAJAAoACgAJAAkACQAJAAgABwAH
+AAcACQAKAAoACAAIAAkACQAJAAkACAAIAAgACAAHAAcACAAIAAgACAAIAAcABwAJAAkA
+CQAJAAkACQAJAAgABQAHAAgACAAHAAcABwAHAAcACAAIAAcABwAHAAcABQAFAAUABgAG
+AAQABAAFAAYABgAHAAcABwAGAAUABQAGAAYABwAHAAUABQAFAAgACAAGAAUABAAEAAQA
+BQAFAAUABgAIAAgABgAGAAkACwALAAsADQAPAAwACgAKAAkACAAIAAkACQAJAAoACgAK
+AAsACwALAAoACgALAAwADAAKAAwADAAKAAsA
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>1200</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>600</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V6</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>2359035872</LeadDataCRC32>
+         <WaveFormData>
+BQADAAIAAgADAAMAAgACAAIAAwADAAMAAwAAAAAAAAAAAAAA/////wIAAgACAAAAAAAC
+AAIAAgACAAIAAgABAAAAAAAAAAAAAAAAAAAAAAAAAP7//v///wAAAAD/////////////
+AAACAAIAAAAAAAAAAQABAAEAAQABAAAAAAABAAIAAgABAAAAAAAAAAAAAQABAAAAAAAA
+AAAA/////wAAAgACAAAAAAAAAAAAAQABAAAAAAD//////////////v/9//3//f/9//3/
+/f/9//3//f/+//7//v/+//3//f/9//z/+//7//v/+//6//r/+v/7//v/+//7//v/+v/6
+//r/+//7//r/+v/6//r/+f/5//n/+f/6//r/+v/6//r/+//7//v/+v/6//n/+f/5//r/
++v/6//r/+v/7//v/+f/5//r/+v/6//r/+v/6//r/+//7//v//P/8//z//P/8//z//P/8
+//v/+//7//v/+//7//v//P/8//z//P/8//z//P/8//z//P/9//////////3//f/+//7/
+/v/+//7//v/+//7//v/+//7///////////8AAAAAAAAAAAAAAAD///n/8v/u//P/BQAi
+AEgAdACoANwAGAFkAbsBBAI7Al8CdwJ+AmICHALEAVwB/ACnAGcAQAAlABMACAAAAPf/
+7v/n/+T/5P/k/+b/6P/p/+n/6f/p/+n/6f/p/+n/6f/p/+n/6f/o/+j/6P/o/+j/6P/o
+/+j/6P/o/+j/6P/o/+j/6P/o/+j/6P/o/+j/6P/o/+b/5f/l/+b/5v/m/+b/5f/l/+X/
+5f/l/+X/4//j/+P/5P/k/+T/4v/h/+H/4v/i/+L/4v/i/+D/4P/g/+D/4P/e/97/3v/e
+/93/3f/e/97/3v/c/9z/3P/b/9v/2//b/9n/2P/Y/9j/2P/Y/9f/1v/W/9X/1f/U/9T/
+1P/U/9L/0f/Q/9D/z//O/8z/yv/J/8n/x//F/8X/xP/B/8D/wP++/73/vP+7/7j/t/+1
+/7P/sf+x/6//rP+s/6r/qv+q/6r/qf+p/6n/qP+o/6n/q/+s/67/r/+y/7T/t/+7/7//
+xP/G/8z/0P/U/9j/3P/e/+P/5//q/+3/7v/x//X/+P/5//v//f//////AAABAAIAAgAE
+AAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAADAAMAAwADAAQABQAFAAMA
+AQABAP/////+//3//f///////////wAAAAAAAAAAAAD///////////////////7//f/9
+//7/AAABAAEA/v/+/wAAAAABAAEAAAAAAAAAAAAAAAAAAQABAAEAAQABAAEAAQAFAAUA
+AgACAAIAAgADAAMAAgACAAMAAwACAAIAAgACAAIAAwADAAEAAAAAAAAA///8////AwAD
+AAAAAAABAAEAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAQABAAIAAgABAAAAAAAAAAEA
+AQACAAIAAwAEAAQABAAEAAYABgAGAAYACAAJAAkABwAGAAYABQAFAAYABgAEAAYABwAH
+AAkACQAJAAgACAAJAAkACAAIAAgABwAGAAcA
+         </WaveFormData>
+      </LeadData>
+   </Waveform>
+   <Waveform>
+      <WaveformType>Rhythm</WaveformType>
+      <WaveformStartTime>0</WaveformStartTime>
+      <NumberofLeads>8</NumberofLeads>
+      <SampleType>CONTINUOUS_SAMPLES</SampleType>
+      <SampleBase>500</SampleBase>
+      <SampleExponent>0</SampleExponent>
+      <HighPassFilter>16</HighPassFilter>
+      <LowPassFilter>150</LowPassFilter>
+      <ACFilter>NONE</ACFilter>
+      <LeadData>
+         <LeadByteCountTotal>10000</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>5000</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>I</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>4112215430</LeadDataCRC32>
+         <WaveFormData>
+/v/+//7//v/8//r/+P/2//T/8v/w/+7/8v/0//b/+P/7//z//f/+//r/+P/2//T/9f/2
+//f/+P/4//j/+P/4//X/9P/z//L/9P/2//j/+v/3//b/9f/0//b/9v/2//b/9v/2//b/
+9v/0//T/9P/0//b/9v/2//b/9P/0//T/9P/0//T/9P/0//b/9v/2//b/+f/6//v//P/5
+//j/9//2//T/8v/w/+7/8v/0//b/+P/6//r/+v/6//f/9v/1//T/8//y//H/8P/y//T/
+9v/4//X/9P/z//L/8f/w/+//7v/r/+r/6f/o/+j/6P/o/+j/6v/s/+7/8P/t/+z/6//q
+/+z/7P/s/+z/6v/q/+r/6v/t//D/8//2//X/9P/z//L/9P/0//T/9P/3//j/+f/6//3/
+/v///wAAAQACAAMABAABAAAA///+//z//P/8//z//f/+////AAAAAAAAAAAAAAAAAAAA
+AAAA/f/8//v/+v/7//z//f/+/wAAAgAEAAYABQAEAAMAAgD///7//f/8//3//v///wAA
++v/4//7//P/0//b//P8MAB4AJAAkABwAEgAQABIACAD+//b/6v/m/+r/3v/K/7j/pv+U
+/4T/dP9o/2D/XP9S/0b/Pv88/0T/TP9O/07/VP9m/3j/fv+E/5L/oP+o/7b/wv/K/9L/
+0v/M/9D/2v/k/+b/5v/m/+T/5v/o/+T/5v/o/+j/6v/u/+r/5v/q//T//P8CAAAAAgAG
+AAYABgAGAAYABwAIAAkACgAJAAgABwAGAAgACgAMAA4ADgAOAA4ADgAQABAAEAAQAA4A
+DgAOAA4AEAAQABAAEAATABQAFQAWABUAFAATABIAFAAUABQAFAAWABYAFgAWABkAGgAb
+ABwAHQAeAB8AIAAgACAAIAAgACMAJAAlACYAKQAqACsALAAtAC4ALwAwADEAMgAzADQA
+NwA4ADkAOgA9AD4APwBAAEEAQgBDAEQARwBIAEkASgBNAE4ATwBQAFIAUgBSAFIAVABU
+AFQAVABTAFIAUQBQAE8ATgBNAEwASQBIAEcARgBEAEIAQAA+ADsAOAA1ADIAMQAwAC8A
+LgAqACYAIgAeAB0AHAAbABoAGQAYABcAFgATABIAEQAQAA4ADAAKAAgABgAGAAYABgAF
+AAQAAwACAAMABAAFAAYABAACAAAA/v/8//z//P/8//3//v///wAAAAAAAAAAAAD+//7/
+/v/+/wAAAAAAAAAA/v/+//7//v/8//z//P/8//z//P/8//z//P/8//z//P/+//7//v/+
+//v/+v/5//j/+//8//3//v/9//z/+//6//r/+v/6//r/+v/6//r/+v/4//j/+P/4//n/
++v/7//z/+v/6//r/+v/5//j/9//2//f/+P/5//r/+P/4//j/+P/2//b/9v/2//f/+P/5
+//r/+f/4//f/9v/2//b/9v/2//j/+P/4//j/+P/4//j/+P/4//j/+P/4//r/+v/6//r/
+9//2//X/9P/2//j/+v/8//7//v/+//7//v/+//7//v/8//z//P/8//z//P/8//z///8A
+AAEAAgABAAAA///+//v/+v/5//j/7v/y//T/9P/0//T/9P/0//T/9P/0//T/9P/0//P/
+8v/x//D/8P/w//D/8P/y//L/8v/x//P/8v/y//P/8f/x//D/7v/x//T/9f/1//P/9P/0
+//T/8//y//L/8v/2//f/+P/5//b/9//4//f/9P/z//P/8//1//b/9v/2//T/9v/3//f/
+8f/x//T/9P/2//X/9f/2//X/9f/2//b/9//3//f/9//2//X/9f/1//b/9f/2//n/+f/2
+//P/9f/2//T/9P/0//X/9v/6//v/+P/6//z/AgAGAAoAEQAWABYAGQArAEIAWgBzAIUA
+lACkAKgAmwCJAIEAbwBRADcAMAAmABMABwADAAIAAAD///j/8//y/+7/6//t/+3/7v/x
+/+//7f/x//H/8v/0//L/8P/y//H/8f/x//P/8v/x//D/8P/u/+7/7P/s/+7/7P/u//D/
+8v/w/+//7//y//P/9f/2//X/9P/w/+7/8P/y//T/8v/y//L/8v/y//H/8P/w//H/8f/w
+//D/8v/y//D/8P/y//D/8P/v/+//7f/t/+3/7P/u//D/8P/w//L/8f/w//D/8v/x//H/
+8v/y//L/8f/x//T/9v/z//H/8v/x//D/8P/w//D/8P/x//P/8//w//L/8f/v/+7/7v/x
+//L/8//z//D/8P/t/+3/8P/w//D/7//t/+7/7v/q/+j/6f/p/+n/6v/p/+r/6//q/+n/
+5v/j/+T/4v/m/+b/4v/k/+T/5P/k/+L/4v/i/+L/5f/m/+f/6P/o/+j/6P/o/+j/6P/o
+/+j/6v/s/+7/8P/z//T/9f/2//f/+P/5//r/+P/4//j/+P/4//j/+P/4//r/+v/6//r/
++P/4//j/+P/5//r/+//8//j/9v/0//L/9v/4//r//P/6//r/+v/6//f/9v/1//T/9f/2
+//f/+P/4//b/+v8CAAgAEAAYABoAFgAOAA4ADAAGAAIA/v/0/+z/5v/W/8L/tv+o/5L/
+eP9g/1b/Uv9I/z7/Ov86/zb/Mv8w/zT/Pv9E/0z/Wv9m/27/eP+G/4z/lP+k/7T/vP/A
+/8j/zP/O/9j/4v/k/+D/4v/k/+T/4v/i/+L/5P/k/97/3v/i/+j/7v/0//T/+v8AAAIA
+AgAEAAQABAAEAAQABgAGAAYABgAHAAgACQAKAAsADAANAA4ADgAOAA4ADgAQABAAEAAQ
+AA0ADAALAAoADQAOAA8AEAARABIAEwAUABQAFAAUABQAFgAWABYAFgAZABoAGwAcAB0A
+HgAfACAAIAAgACAAIAAiACQAJgAoACkAKgArACwALQAuAC8AMAAyADQANgA4ADoAPAA+
+AEAAQQBCAEMARABFAEYARwBIAEsATABNAE4AUABQAFAAUABTAFQAVQBWAFcAWABZAFoA
+VwBWAFUAVABTAFIAUQBQAE8ATgBNAEwASABGAEQAQgA/AD4APQA8ADgANAAwACwAKQAo
+ACcAJgAjACIAIQAgAB0AHAAbABoAGgAaABoAGgAWABQAEgAQAA8ADgANAAwACwAKAAkA
+CAAEAAIAAAD+//z//P/8//z/+v/6//r/+v/4//j/+P/4//b/9v/2//b/+f/6//v//P/5
+//j/9//2//n/+v/7//z/+f/4//f/9v/3//j/+f/6//j/+P/4//j/+P/4//j/+P/2//b/
+9v/2//n/+v/7//z/+//6//n/+P/6//r/+v/6//r/+P/6//r/+v/6//r/+v/6//n/9v/0
+//P/8//3//n/+v/6//r//P/8//v/+//8//z//P/7//r/+v/6//n/+f/5//n/9//5//v/
++//6//n/+f/5//r/+v/5//j/9//4//j/9//2//f/+//8//z/+//7//z//P/7//v/+v/5
+//n/+f/5//v/+//8//3//P/5//j/+f/8//r/+P/7//3/+v/5//j/9//4//z//f/6//7/
+AgAEAAoAFAAZABgAGgAnADUASgBkAHsAjQCgALIAuACrAJMAhQB3AFkAOQAoAB4ADwAB
+AAEAAgD8//f/+P/9//7/+P/3//X/9f/4//f/9//1//f/+//8//n/9v/z//T/9f/1//X/
+9//5//n/+f/6//z//P/6//r/+P/2//j/+v/5//b/9P/z//X/9f/2//b/+f/6//j/+P/4
+//r//P/6//j/+P/4//j/9f/0//T/9f/2//b/9//6//f/9P/z//T/9//4//j/+f/5//n/
++f/4//b/+P/4//j/+v/5//j/+P/5//n/+v/8//z//P/7//v/+v/6//X/8f/0//X/9v/4
+//r/+v/6//v//f/9//r//P/6//n/+f/6//r/+v/6//n/9v/0/+//7f/y//L/8v/x//P/
+9P/0//D/8P/x//H/8f/w/+3/7P/r/+7/7//u/+3/6v/q/+z/6v/q/+v/6//r/+3/7f/t
+/+3/7f/u/+7/7//v/+3/7f/w//b/+P/5//r/+//6//n/+f/6//r/+v/6//v//f8AAAEA
+AAAAAAAAAAD8//7/AAAAAAAAAAAAAP//+//9//3/+//9//3//f///wEAAAAAAAAAAAAA
+AAAA/v8AAAEAAQABAP///P/5//3/AQABAP3///8BAPz/+v///wEAAQABAP///P/+/wAA
+AAAAAPz///////z//v8CAAIA/v/9////+//7//z//P/8//7//v/+//7////8////AQAA
+AP///v/+/wAAAAACAP///P///wEAAQD+/////v/7//3//v/+/////v/6//v//v//////
+/v/+//3//f8AAAAA+v/6//z//f/9//7//v/8//7//f/8//z/////////////////////
+//z/AAAAAP7//v/+//v/+f/+/wEAAQD9//7/AQD9//n/+//+//7//v///////f8AAAEA
+AAD///z/+v8AAAIA/v/8/wIABgADAAMAAwAFAAUAAwAFAAkACQAJAAkABgAGAAUABAAD
+AAIAAQAAAP///v/7//r/+f/4//r/+v/6//r/+P/4//j/+P/4//j/9//3//j/+P/5//n/
+9//2//T/9v/6//r/+f/5//r/+v/6//n/+P/4//j/+f/3//f/9//1//j/+//8//z/+//7
+//v//P/6//f/9P/y//j/+//9//v/+P/6//n/+P/5//n/+v/7//v//P/8//v//f/9//3/
+/f/7//z//f/9//v/+//9/////v/7//3/AAD8//z//P/6//r//f8BAP7/AAAGAAoADAAO
+AA8AEgAaACUANQBMAGgAgwCXAKIArACqAJcAiQCHAHUAUwA5ACwAHAAPAAcABQAIAAoA
+CQACAPv/+P/0//P/8f/x//b/+f/1//P/9f/x//T/9f/0//P/9v/1//X/9f/3//j/+f/6
+//z/+v/6//j/+P/6//j/+v/8//r/+P/3//f/+P/3//f/9v/5//r/+P/4//b/+P/6//j/
+9v/2//b/9v/4//j/+f/7//r/+P/3//j/+v/4//j/+v/4//j/9//3//X/9f/1//T/9f/4
+//n/+v/4//f/9v/2//b/9f/1//b/9f/0//L/8f/4//z/+//7//z/+//6//r/+v/6//r/
++//6//n/9f/2//j/9//3//j/+P/4//j/9//4//j/9f/1//f/9v/1//P/9P/2//f/9P/y
+//P/8//z//P/8f/x//H/8//z//H/7//u/+7/8P/u/+z/7f/t/+3/7f/x//H/7f/w//L/
+8v/y//L/8//0//X/9v/4//j/+P/4//r/+v/6//r/+v/6//r/+v/7//z//f/+//z//P/8
+//z/+v/6//r/+v/7//z//f/+//3//P/7//r//P/8//z//P/6//j/9v/0//b/+P/6//z/
+/P/8//z//P/7//r/+f/4//j/+P/4//j/+P/4//j/+P/2//b/9v/2//b/9v/+/wIAAgAK
+ABgAGAAOAAwACgACAPz/+P/u/+b/6v/m/9T/wP+w/6L/lP+A/2r/WP9O/0b/PP80/zD/
+Lv8u/zD/Mv8y/zb/Qv9Q/1j/ZP9w/4D/jv+W/5z/pP+s/7b/vP/G/9b/3v/g/+D/4P/g
+/+T/5P/i/+L/4P/i/+L/3v/a/97/4v/k/+r/9P/8//z/+P/6/wQABgAGAAYABgAHAAgA
+CQAKAAwADAAMAAwADgAOAA4ADgAMAAwADAAMAAwADAAMAAwADQAOAA8AEAASABIAEgAS
+ABQAFAAUABQAFgAWABYAFgAXABgAGQAaABsAHAAdAB4AIAAgACAAIAAhACIAIwAkACYA
+KAAqACwALAAsACwALAAwADIANAA2ADcAOAA5ADoAPAA+AEAAQgBFAEYARwBIAEoATABO
+AFAAUQBSAFMAVABWAFgAWgBcAFsAWgBZAFgAWwBcAF0AXgBdAFwAWwBaAFgAWABYAFgA
+VgBWAFYAVgBQAEwASABEAEMAQgBBAEAAPAA6ADgANgA0ADIAMAAuACoAKAAmACQAIgAg
+AB4AHAAbABoAGQAYABcAFgAVABQAEwASABEAEAAOAAwACgAIAAYABgAGAAYABAACAAAA
+/v/8//z//P/8//v/+v/5//j/+f/6//v//P/7//r/+f/4//n/+v/7//z//P/8//z//P/6
+//r/+v/6//j/+P/4//j/9v/2//b/9v/2//b/9v/2//b/9v/2//b/9v/2//b/9v/4//j/
++P/4//j/+P/4//j/9f/0//P/8v/4//z/+v/4//j/+P/4//r/+v/6//n/+P/2//X/9f/3
+//f/9v/0//T/9v/2//X/9//4//j/+P/1//T/9P/0//X/9f/1//X/9P/3//r/+//3//X/
+9P/z//b/+P/5//r/9//4//j/9//1//X/+P/4//b/9f/1//b/+f/5//r/+v/5//n/+f/5
+//n/+f/6//v//f/7//v//f/9//r/9//5//r/+P/4//j/+P/4//v/+//+//z//v8CAAwA
+FAAVABQAGgAjADEARABWAHEAjQCiALYAxADDAK8AnQCTAIEAYwBMADoAIwARAAsACgAC
+AP3//v/9//z/+v/1//X/9f/0//P/8f/z//X/9f/0//P/8P/t/+7/8v/z//T/9//3//f/
+9//4//n/+v/5//r/+P/0//T/9P/2//T/8//z//P/8//0//T/+P/4//X/9P/2//j/+v/4
+//b/9v/2//b/9//2//b/9//3//b/9v/4//b/9P/0//b/9P/0//P/8//z//P/8//y//P/
+9v/3//j/+v/5//j/+P/3//X/9P/0//T/9P/z//P/9P/2//P/8f/0//X/9v/4//b/9v/2
+//f/+f/5//b/+P/2//X/9f/2//b/9v/2//X/8v/y/+//7//w//D/8P/v/+//8P/w/+z/
+7P/t/+3/7f/t/+v/6//r/+v/6//p/+f/5v/m/+j/5v/n/+n/6v/r/+r/6f/o/+f/6P/q
+/+v/7f/w/+//8P/0//b/9v/1//T/+P/4//j/+f/9//7///8AAP3//f/+//3//v/+//7/
+/v/6//z//v/+/wAAAAAAAP////8BAAEA///8//v/+v/7//v/+v/6//r//P/8//z/+v/4
+//n/+f/5//z/+v/4//3//f/9//n/+/////r/+P/9//////////3/+v/8//7//v/6//b/
++f/5//b/+P/8//z/+//7//7/+//7//z//P/8//z//P/8//z/+f/2//n/+//8//3//v8A
+AP7//v8AAP3/9v/5//v/+//7//3//f/7//v//P/8//3////8//7/AgABAP///P/6//v/
++//+//7//P/8//7//////wAAAAD+//z/+//6//r//f/9//3//f/9//3//f/9//r//v/+
+//z//P/8//n/9//8///////7//7/AwABAP///f8AAAAAAAD9//v/9//4//3//v////7/
++v8AAAIA/v/5//7/AQD9//v/+//9//3/+v/7//7//f8BAAEAAAD+/wAAAAAAAAAAAgAC
+AAIAAgACAAIAAgACAAUABgAHAAgABgAGAAYABgAGAAYABgAGAAMAAgABAAAA/P/6//j/
+9v/5//r/+//8//v/+v/5//j/+P/4//j/+P/4//j/+P/4//j/+P/4//j/+v/6//r/+v/6
+//n/+f/4//r/+//7//v/+P/2//j/+v/6//n/+f/6//r/+v/5//j/+P/4//n/+f/7//v/
++f/7///////+//3//P/7//v/+v/6//r/+//+//3//f/5//n//P/8//z/+//7//z//f/9
+//7//v/9//3//f/9//3//f/8//3//f/7//3///8BAP7/+//9/wAA/v/+//7//P/8//3/
+/f/8/wIABAAGAA4AEgARABQAHgAlAC8ASABmAH8AjwCiALgAvACpAJcAjQB9AGEASQA+
+ADAAGwANAAsACAAEAP//+v/7//j/8v/x//X/9f/0//X/9f/1//X/9//2//b/9P/y//T/
+9f/1//X/9//3//f/9//4//b/9v/0//T/9//2//n//P/6//j/9//3//n/+f/6//r/+v/6
+//f/9v/2//j/+v/4//n/+v/7//z/+v/4//f/9//1//T/9P/2//f/9v/3//r/9//2//T/
+8//0//X/9v/2//j/+v/6//r/+f/3//X/9P/2//X/9f/2//f/+P/4//n/+//8//j/9f/5
+//n/+f/6//r/+v/6//v/+f/5//b/+P/6//n/+f/6//z//P/8//v//P/8//n/+f///wAA
+AQABAP//AAAAAPz//v////////8BAP////////7//f/6//f/9f/0//X/8v/y//P/8//z
+//D/7//u/+3/8//w/+z/8P/u/+7/7v/u//H/8v/z//T/9v/2//b/9v/2//b/9v/2//j/
++P/4//j/+P/4//j/+P/5//r/+//8//z//P/8//z/+v/6//r/+v/6//r/+v/6//r/+v/6
+//r/+P/4//j/+P/6//r/+v/6//r/+v/6//r/+v/6//r/+v/4//j/+P/4//r/+v/6//r/
+/P/8//z//P/2//j//P8CAAoAEgASAA4ACgAMAA4ABgD8//j/7v/o/+j/3v/M/8D/tP+k
+/5L/fv9o/1j/Sv9A/zr/OP84/zb/MP8u/zL/PP9I/1b/ZP9s/3b/hP+O/5b/ov+u/7b/
+uv/A/8j/0P/W/9r/3P/c/9z/3v/g/+L/5P/m/+T/4P/g/+D/4v/i/+b/7P/0//j//P8A
+AAQABAAGAAQABAAEAAQABQAGAAcACAAJAAoACwAMAAsACgAJAAgACQAKAAsADAAPABAA
+EQASAA8ADgANAAwADwAQABEAEgAUABQAFAAUABQAFAAUABQAFQAWABcAGAAZABoAGwAc
+ABwAHAAcABwAHgAgACIAJAAnACgAKQAqACkAKAAnACYAKQAsAC8AMgA0ADQANAA0ADcA
+OgA9AEAAQQBCAEMARABFAEYARwBIAEoATABOAFAAUgBSAFIAUgBTAFQAVQBWAFYAVgBW
+AFYAVABUAFQAVABQAE4ATABKAEwATABMAEwASQBGAEMAQAA8ADoAOAA2ADMAMgAxADAA
+LAAqACgAJgAiACAAHgAcABgAFgAUABIAEAAQABAAEAANAAwACwAKAAkACAAHAAYABQAE
+AAMAAgAEAAQABAAEAAEAAAD///7/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v/+//7/
+/v/+//7//v/+/wAAAAAAAAAA/v/+//7//v8AAAAAAAAAAP///v/9//z//P/8//z//P/9
+//7///8AAP7//v/+//7//v/+//7//v/9//z/+//6//z//P/8//z/+v/6//r/+v/6//r/
++v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//j/+P/4//j/+P/4//j/+P/4//j/+P/4
+//n/+v/7//z/+v/6//r/+v/4//j/+P/4//r/+v/6//r/+f/4//f/9v/4//j/+P/4//n/
++v/7//z/+//6//n/+P/6//r/+v/6//j/+P/4//j/+v/6//r/+v/9//7///8AAP///v/9
+//z/+v/6//r/+v/4//j/+P/4//n/+v/7//z//P/2//j/+P/4//j/+v/6//r/+v/8//z/
+/P/8//r/+v/6//r/+v/6//r/+v/6//r/+v/6//z//P/8//z//P/8//z//P/8//z//P/8
+//r/+v/6//r/+P/4//j/+P/6//r/+v/6//r/+v/6//r//P/8//z//P/6//r/+v/6//z/
+/P/8//z/+//6//n/+P/4//j/+P/4//r/+v/6//r/+v/6//r/+v/6//r/+v/6//v//P/9
+//7//f/8//v/+v/6//r/+v/6//r/+v/6//r//P/8//z//P/9//7///8AAP3//P/7//r/
++//8//3//v/8//z//P/8//3//v///wAA/v/+//7//v/8//z//P/8//3//v///wAAAQAC
+AAMABAAEAAQABAAEAAcACAAJAAoABgAFAAMAAgAAAP///v/8//n/+v/7//r/+f/5//r/
++v/5//f/9f/0//T/9f/1//X/9f/z//X/9//5//j/9//3//f/+P/4//f/9v/2//j/+f/5
+//X/9f/4//b/9v/1//X/9v/3//f/+P/4//f/9//3//f/9//3//j/+v/7//r/+//6//v/
+9//z//j//P/7//z//P/6//r//f/7//r/+v/8/wQADAASABcAFgAWAB8ALwBEAF4AfQCX
+AKgAvADOAMUAsQCjAJEAewBjAFAAQgAzACEAEwAOAAwABwAAAPn/+P/2//P/8f/t//D/
+9f/3//X/8f/x//L/8v/w/+7/8P/y//P/9P/3//b/9f/0//T/9v/2//T/9P/y//D/8v/0
+//T/8v/x//H/8f/x//L/8v/2//b/8//y//D/8v/0//L/8//0//X/9v/0//L/8f/x//H/
+8P/w//L/9P/y//L/9P/2//b/9f/1//P/8//z//L/8f/y//H/8P/x//H/8f/y//H/7//u
+/+7/8P/w/+//7//z//b/9P/z//P/8//z//T/8//y//H/8f/z//P/8P/y//P/8//0//b/
+8//y//H/7//v//D/7v/v//T/9P/0//P/8P/w/+//6v/s/+3/7f/t/+3/6//r/+v/7f/t
+/+v/6f/s/+z/7v/r/+r/6f/o/+n/6v/r/+z/7P/s/+z/7P/s/+z/7P/s/+7/8P/y//T/
+9P/0//T/9P/3//j/+f/6//z//P/8//z//v/+//7//v8AAAAAAAAAAAEAAgADAAQAAQAA
+AP///v/+//7//v/+////AAABAAIAAQAAAP///v/+//7//v/+/wAAAAAAAAAA/v/+//7/
+/v/8//7//v8CAAoAEAASABgAHgAeABgAFgAWABIACAAAAPz/+v/w/9z/yP+4/6T/jP9w
+/1r/TP9E/zz/OP80/yj/JP8s/zD/Lv82/0j/Vv9c/2T/bv96/4T/lP+k/6z/tv++/8T/
+yv/S/97/5P/g/+D/6P/s/+r/6P/o/+b/4v/i/+T/5P/g/+T/7P/y//r/AgAEAAIABAAG
+AAkACgALAAwADgAOAA4ADgAOAA4ADgAOABAAEAAQABAAEQASABMAFAAUABQAFAAUABIA
+EgASABIAEwAUABUAFgAXABgAGQAaABwAHAAcABwAHAAcABwAHAAeAB4AHgAeACEAIgAj
+ACQAJwAoACkAKgAsACwALAAsAC0ALgAvADAAMQAyADMANAA2ADgAOgA8AD8AQABBAEIA
+RABEAEQARABIAEoATABOAE8AUABRAFIAVABUAFQAVABUAFQAVABUAFUAVgBXAFgAWABY
+AFgAWABWAFQAUgBQAE4ATgBOAE4ASgBIAEYARABCAEAAPgA8ADkAOAA3ADYAMQAuACsA
+KAAmACQAIgAgAB0AHAAbABoAGQAYABcAFgAUABIAEAAOAAwACgAIAAYACAAIAAgACAAG
+AAYABgAGAAYABgAGAAYACAAIAAgACAAHAAYABQAEAAIAAgACAAIAAgACAAIAAgAEAAQA
+BAAEAAQABAAEAAQABgAGAAYABgADAAIAAQAAAP7//v/+//7/AQACAAMABAAGAAYABgAG
+AAMAAgABAAAAAgACAAIAAgACAAIAAgACAAAAAAAAAAAAAAAAAAAAAAACAAIAAgACAAQA
+BAAEAAQAAgACAAIAAgAEAAQABAAEAAIAAgACAAIAAgACAAIAAgAAAAAAAAAAAAEAAgAD
+AAQABgAGAAYABgAHAAgACQAKAAsADAANAA4ADAAMAAwADAALAAoACQAIAAcABgAFAAQA
+AwACAAEAAAAAAAAAAAAAAP7//v/+//7//v/+//7//v/8//z//P/8//z//P/8//z//P/8
+//z//P/+//7//v/+//z//P/8//z//P/6//z//P/8//z//v/+//7//f////7//v////3/
+/f/8//r//P/+//7//f///wAAAAAAAAEAAAAAAAAA///////////9////AQABAAAA////
+////AAAAAP///v/+/wAAAQABAP////8CAAIAAgABAAEAAgABAAEAAgACAP//////////
+AQABAAIAAwABAP////8BAAMAAAD9////BAACAAIAAgAAAAAAAwADAAYACAAKAAwAEgAc
+AB8AGgAcACkAOQBMAGgAgQCVAKwAwADIALsAoQCPAIEAaQBJADgAMAAhAA0ABQAIAAYA
+/f/8//3/+P/2//v/+//5//r/+//9//3/+f/5//z//P/6//j/+v/7//v/+//9//3//f/9
+//7//P/8//r/+v/9//z///8CAAAA/v/9//3//////wAAAAAAAAAA/f/8//7/AAACAAAA
+AAAAAAAAAAD///7//v///////v/+/wAA/v/8//z//v8AAAAA/////wAAAQACAAIAAQAC
+AAEAAAD+//3//P/8//7//f/9//7/AAAAAP////8AAAIA///9/wEAAQABAAIABAAEAAQA
+BQADAAMAAAACAAAA/////wAA/v/+//7//f/+/wAA//8BAAMAAgABAP////8AAAAA/P/8
+//3//f/9//3/+//7//v/+f/5//f/9f/0//T/9v/0//L/9f/4//j/+P/4//j/9v/2//b/
+9v/0//T/9P/0//j/+v/8//7///8AAAEAAgACAAIAAgACAAQABgAIAAoACAAIAAgACAAI
+AAgACAAIAAYABgAGAAYACAAIAAgACAAGAAYABgAGAAgACAAIAAgACAAIAAgACAAGAAYA
+BgAGAAgACAAIAAgABwAGAAUABAAFAAYABwAIAAgADAAKAAwAEgAYAB4AIgAiABwAHgAe
+ABgAEgAOAAgAAAD4/+r/3P/U/8b/sv+e/4L/cv9q/2L/Wv9W/07/RP9C/0j/Tv9M/1D/
+Yv9w/3j/gP+M/5r/pP+q/7L/wP/O/9b/1v/W/+D/8P/2//L/9P/2//L/7v/y//b/9v/6
+//z/9v/u/+7/9P/4//r//v8EAAgAEAAWABAAEgASABIAEgASABIAEgASABQAFgAYABoA
+GAAYABgAGAAaABoAGgAaABoAGgAaABoAHAAcABwAHAAdAB4AHwAgACEAIgAjACQAJgAm
+ACYAJgAoACgAKAAoACgAKAAoACgAKQAqACsALAAwADIANAA2ADQANAA0ADQANwA4ADkA
+OgA9AD4APwBAAEEAQgBDAEQARgBIAEoATABNAE4ATwBQAFMAVABVAFYAWQBaAFsAXABf
+AGAAYQBiAGIAYgBiAGIAYgBiAGIAYgBkAGQAZABkAGEAYABfAF4AXABaAFgAVgBSAFAA
+TgBMAA==
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>10000</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>5000</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>II</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>1444751767</LeadDataCRC32>
+         <WaveFormData>
+8P/w//D/8P/u/+7/7v/u/+z/7P/s/+z/7P/s/+z/7P/s/+z/7P/s/+v/6v/p/+j/7P/u
+//D/8v/v/+z/6f/m/+b/5v/m/+b/5//o/+n/6v/n/+b/5f/k/+b/5v/m/+b/6P/o/+j/
+6P/n/+b/5f/k/+L/4v/i/+L/4P/g/+D/4P/e/9z/2v/Y/9r/3P/e/+D/4P/g/+D/4P/c
+/9r/2P/W/9j/2P/Y/9j/2P/Y/9j/2P/W/9b/1v/W/9L/0P/O/8z/z//Q/9H/0v/T/9T/
+1f/W/9L/0P/O/8z/yv/K/8r/yv/H/8b/xf/E/8L/wv/C/8L/w//E/8X/xv/E/8T/xP/E
+/8L/wv/C/8L/w//E/8X/xv/I/8r/zP/O/9H/0v/T/9T/1f/W/9f/2P/b/97/4f/k/+b/
+6P/q/+z/7v/w//L/9P/2//b/9v/2//T/9P/0//T/8v/y//L/8v/1//b/9//4//j/+P/4
+//j/9v/0//L/8P/z//T/9f/2//j/+P/4//j/9//2//X/9P/0//T/9P/0//L/8v/y//L/
+7v/y//r/8v/m/+T/6v/2/wAABAAEAAQABgAQABoAIAAmADAANgA6AEQARAA8ADYAMgAq
+ABQA+P/c/8r/tv+Y/3z/cv92/3T/bv9q/2z/cP+C/5j/oP+k/7D/uP+6/7z/vv+8/77/
+xP/E/8D/xv/O/87/zv/M/8r/zP/O/9D/0P/K/8r/0v/a/9r/2v/e/+T/6P/s/+7/8P/w
+/+7/7v/u/+7/7//w//H/8v/x//D/7//u//H/8v/z//T/9P/0//T/9P/0//T/9P/0//X/
+9v/3//j/9f/0//P/8v/1//b/9//4//b/9v/2//b/9v/2//b/9v/5//r/+//8//7//v/+
+//7//v/+//7//v/+//7//v/+//7//v/+//7/AgAEAAYACAAKAAoACgAKAAsADAANAA4A
+EAASABQAFgAXABgAGQAaABsAHAAdAB4AIAAiACQAJgAqACwALgAwADMANAA1ADYAOQA6
+ADsAPAA/AEAAQQBCAEIAQgBCAEIAQgBCAEIAQgBAAD4APAA6ADgAOAA4ADgANgA0ADIA
+MAAqACYAIgAeABsAGgAZABgAFAASABAADgALAAoACQAIAAYABAACAAAA///+//3//P/7
+//r/+f/4//b/9v/2//b/9v/2//b/9v/0//T/9P/0//b/9v/2//b/9P/0//T/9P/2//b/
+9v/2//j/+P/4//j/9//2//X/9P/0//T/9P/0//L/8v/y//L/9P/0//T/9P/0//T/9P/0
+//L/8v/y//L/9P/0//T/9P/0//T/9P/0//T/9P/0//T/9P/0//T/9P/0//T/9P/0//b/
+9v/2//b/9P/0//T/9P/y//L/8v/y//P/9P/1//b/9f/0//P/8v/0//T/9P/0//L/8v/y
+//L/8//0//X/9v/0//T/9P/0//T/9P/0//T/9//4//n/+v/8//7/AAACAAUABgAHAAgA
+BAACAAAA/v8AAAAAAAAAAAAAAAAAAAAA/f/8//v/+v/4//b/9P/y//L/8v/y//L/9f/2
+//f/+P/2//b/9v/2//X/9P/z//L/7P/w//D/8P/w//D/8v/y//L/8v/x//D/7//u//D/
+8P/w//D/8P/w//D/8P/w//D/8f/x//L/8v/0//L/8P/v/+//7//y//P/9P/z//L/8v/x
+//D/8f/y//P/9P/1//X/9f/1//T/9P/z//H/8v/y//P/9f/3//f/9//3//b/9f/2//X/
+9f/1//b/+P/4//f/9f/4//j/+P/4//j/+f/5//v/+//6//j/9//3//n/9//3//r/+v/3
+//b/9v/2//b/9v/2//f/+v/7//z/9v/4//z/+f/x/+r/6f/r//P///8UACsAQABcAH8A
+nwDHAPYAJAFQAXIBhQGLAX4BYAE4AQ0B2ACiAHoAXwBGAC4AFwAIAP//+v/y/+//8v/z
+/+3/6//p/+f/6P/r/+r/6v/q/+v/7P/t/+7/7P/r/+n/6P/n/+b/5v/m/+j/5v/o/+n/
+6f/p/+n/6f/o/+v/7P/t/+n/6f/p/+n/5f/n/+n/6f/q/+n/6f/p/+f/5//n/+b/6P/n
+/+f/6P/m/+X/5f/l/+f/6P/n/+b/5f/m/+P/4v/j/+T/5P/i/+T/5v/m/+T/5v/l/+T/
+4v/i/+L/4P/g/+H/4f/h/+H/4f/g/+D/4//h/9//3//g/9//3//d/93/2//a/9n/2P/a
+/9z/3f/e/93/2//Y/9f/2f/Z/9X/1P/U/9P/0v/S/9L/0v/P/87/zv/N/83/zv/O/83/
+y//J/8r/xv/J/8r/yP/J/8r/y//M/8r/yv/K/8r/zP/O/9D/0v/U/9T/1P/U/9b/2P/a
+/9z/3//i/+X/6P/r/+7/8f/0//b/+P/6//z//f/+////AAABAAIAAwAEAAYABgAGAAYA
+BgAGAAYABgAIAAgACAAIAAcABgAFAAQABQAGAAcACAAGAAYABgAGAAQABAAEAAQABQAG
+AAcACAAGAAYACAAGAAgADAAMAA4AFAAcACgANgA6AEIAUgBeAGAAYgBeAFQAUABQAEIA
+KgAQAPb/4P/K/67/mv+U/5T/jP+C/37/gP+C/4r/lv+g/6L/pv+u/7L/uP/A/8j/zP/Q
+/9r/4P/i/+L/5P/o/+j/6P/q/+7/7v/q/+z/8v/y/+7/7v/0//z//v/+/wQACgAKAAgA
+DgASABAAEAAQABAADgAOAA4ADgAQABIAFAAWABQAFAAUABQAFQAWABcAGAAWABYAFgAW
+ABgAGAAYABgAFgAWABYAFgAXABgAGQAaABoAGgAaABoAGQAYABcAFgAXABgAGQAaABoA
+GgAaABoAGwAcAB0AHgAeAB4AHgAeAB8AIAAhACIAIwAkACUAJgAnACgAKQAqACwALgAw
+ADIANAA0ADQANAA2ADgAOgA8AD0APgA/AEAAQQBCAEMARABIAEoATABOAFEAUgBTAFQA
+VABUAFQAVABUAFQAVABUAFcAWABZAFoAWABYAFgAWABXAFYAVQBUAE8ATABJAEYAQgA+
+ADoANgA0ADIAMAAuACoAKAAmACQAIAAeABwAGgAXABQAEQAOABAAEAAQABAADQAMAAsA
+CgAHAAYABQAEAAIAAAD+//z//P/8//z//P/8//z//P/8//r/+v/6//r//P/8//z//P/7
+//r/+f/4//v//P/9//7//P/8//z//P/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/
++v/6//v//P/9//7//v/+//7//v8AAAAAAAAAAP7/+v/8//z//P/8//z//P/9//3/+//6
+//v/+P/6//n/+f/5//z//f/+//3//f/+//7//v/8//z//P/8//3//f/9//3///8AAAAA
+///9//z//P/9//7///8AAAEAAAD//wAA////////AAACAAQAAwABAAQAAwACAAEAAAAB
+AAEAAwADAAEAAAAAAAEAAQD/////AgAEAAEAAAAAAP7//v/+//7/AQAEAAUABgAEAAQA
+BAADAP3/+P/3//X/9/8JAB4ANQBMAGgAiQCtANcAAgEqAVQBcgGJAZUBjgFyAUoBHwH0
+AL4AigBpAE4ANAAnAB4AEwAKAAAA+f/4//f/8//x//P/9f/y//L/8P/v/+7/7P/s/+z/
+7P/t/+3/7P/s/+z/7P/t/+7/7P/q/+z/7f/r/+v/6//r/+n/6//r/+v/6//r/+v/6//p
+/+v/7f/t/+z/6//r/+v/6v/p/+j/5v/n/+f/6P/q/+j/5//n/+f/6//s/+v/6v/n/+j/
+5f/k/+X/5v/m/+T/4v/k/+T/4v/l/+X/5f/k/+T/5P/i/+L/4v/h/+D/3//f/97/3v/h
+/9//3f/d/97/4P/h/+D/4f/e/9z/2v/Y/9j/2P/X/9b/1P/R/83/y//O/8//zP/M/83/
+zf/N/87/zP/M/8n/yP/H/8X/xP/E/8f/x//G/8X/xP/E/8X/xv/G/8f/x//H/8r/yv/K
+/8r/yf/M/83/0P/U/9X/1v/X/93/4f/j/+P/5v/o/+n/6//t/+//8f/x//T/9f/4//n/
+9//5//n/+P/4//v//P/8//z//P/9//3/+v/5//j/9v/3//n/+v/7//r/+v/5//f/+P/3
+//v/+f/7//v//P/9//3/+f/1//f/+//7//r/+v/3//f/9//5//r/+v/7//r/+P/5//3/
+/f/6//j/+P/5//f/9//3//r//f/+//7//P/3//f/+P/4//j/+P/5//n/+//7//v//P/8
+//v/+//7//n/+//7//j/9//6//3//v/9//v/+v/5//r//P/9//7//P/6//r//f8AAAAA
+AAD+//r/+f/5//r/+v/8//z//P/+/wIAAAD9//v//P/8//7//f/5//n/+//7//v//P/8
+//z/AAAAAP7//f/8//f/9f/4//z//v//////AAABAAIABwAMAA4ADwARABEADwANAAoA
+CQAIAAcABwAKAAoACgAGAAUABAAAAP3/AQAAAP//AgACAAIAAgACAPr/9v/6//v//P/9
+//7//P/8//z//P/6//j/9v/0//b/9v/2//b/9P/0//T/9P/2//f/9//2//T/9v/0//T/
+8//z//P/9f/1//X/8//z//b/9v/2//b/9P/0//T/9f/1//X/9f/1//f/+P/4//n/9//2
+//b/9f/y//H/8P/v//P/9//5//n/+P/4//n/+P/5//f/+v/6//j/+P/4//f/+f/7//v/
++//4//j/+f/5//f/9//6//z/+v/6//v//P/7//r/+f/4//j/+v/8//z//v/+//n/8//s
+/+n/6//1/wcAHAAzAFAAcACPALMA4QASAT4BXgF4AYsBhwFoAT4BGAHtALAAfABkAFMA
+OAAiABcACgABAPr/8v/v//D/7//r/+v/6//p/+7/8P/u/+3/7P/s/+z/7P/s/+v/6//q
+/+r/6v/q/+v/7P/q/+j/6v/r/+n/6f/p/+n/5f/n/+f/5//o/+n/6v/r/+j/6f/q/+n/
+5//l/+T/4//l/+f/6f/q/+f/5f/k/+T/5//n/+j/6f/o/+j/5v/k/+T/5v/k/+T/5f/m
+/+b/5P/k/+b/5v/k/+T/4//i/+D/4P/g/97/3v/i/+P/5P/l/+H/4P/g/+P/4f/f/9//
+4P/g/9//3P/b/9v/2v/Z/9j/2v/a/9n/2P/W/9X/0//T/9T/0//O/8z/zv/P/9D/0v/R
+/9D/zP/K/8r/yf/J/8r/yv/J/8f/xf/E/8T/xf/G/8b/x//H/8f/yv/M/8z/yv/O/9H/
+0v/T/9T/1v/Y/9r/3P/f/+D/4f/i/+T/5v/o/+r/7f/u/+//8P/0//b/+P/6//v//P/9
+//7//P/8//z//P/9//7///8AAP7//v/+//7//v/+//7//v/7//r/+f/4//v//P/9//7/
+/v/+//7//v/9//z/+//6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//j/9P/4//j/9v/8
+/wYABgAEAAgADgAUAB4AKAAyAD4ATgBUAFIAUABKAEYARAA4ACQADAD4/+j/1v+4/6L/
+mv+U/4r/hP9+/3z/gv+K/47/kv+c/6r/tP+0/7L/tv+8/77/wv/M/9b/2v/Y/9b/1P/Y
+/9r/3P/e/97/2P/Y/+D/4v/i/+T/5v/o/+r/8v/8//z/9v/4//z/+v/6//r/+v/7//z/
+/f/+//7//v/+//7/AAAAAAAAAAD///7//f/8//3//v///wAAAgACAAIAAgACAAIAAgAC
+AAMABAAFAAYABAAEAAQABAAEAAQABAAEAAUABgAHAAgABwAGAAUABAAIAAoADAAOABAA
+EAAQABAADgAOAA4ADgASABQAFgAYABoAGgAaABoAGwAcAB0AHgAfACAAIQAiACUAJgAn
+ACgAKwAsAC0ALgAxADQANwA6ADoAOgA6ADoAPAA+AEAAQgBDAEQARQBGAEcASABJAEoA
+SwBMAE0ATgBQAFAAUABQAFAAUABQAFAATgBMAEoASABDAEAAPQA6ADUAMgAvACwAKAAm
+ACQAIgAgAB4AHAAaABcAFAARAA4ACwAKAAkACAAIAAgACAAIAAUABAADAAIAAAD+//z/
++v/4//j/+P/4//b/9v/2//b/+P/4//j/+P/2//b/9v/2//j/+P/4//j/9//2//X/9P/0
+//T/9P/0//T/9P/0//T/9v/2//b/9v/2//b/9v/2//b/9v/2//b/+P/4//j/+P/4//j/
++P/4//b/9v/2//b/9P/0//T/9P/6//z/9v/2//b/9v/2//j/+P/5//n/9v/2//j/9v/3
+//f/+P/5//r/+f/4//X/9v/4//n/+v/5//j/9//2//f/9//3//f/9//4//j/9//3//b/
+9v/3//n/+//9////+//5//n/9//3//f/+P/6//r/+f/3//r//P/8//z//P/7//v//f/9
+//3//P/8//3//f/7//v//v8AAP3//P/8//7//v/+//7/+//8//v/+v/8//7//P/7////
+/P/z/+//9f///w4AIQA2AFIAbwCNALMA3AAIATABVAFxAX8BfAFmAUABFQHqALoAigBr
+AFAANAAjABgACwAEAAIA///0/+v/5//p/+f/6f/q/+r/6P/n/+b/6f/q/+v/7P/t/+3/
+7P/s/+v/6v/q/+r/6P/m/+j/6f/p/+n/6f/p/+f/6f/p/+n/5f/l/+X/5f/l/+f/6f/p
+/+j/5//n/+f/6f/p/+n/6P/q/+n/6f/q/+n/5//m/+X/5v/m/+T/4v/g/+L/4P/g/+P/
+5P/k/+L/4//m/+f/5v/l/+P/4f/e/+L/4v/g/+D/4f/h/+H/4f/f/97/3v/h/97/2//a
+/9r/3f/d/9v/2//b/9r/2f/Y/9j/2P/X/9b/1P/T/9H/0f/T/9P/z//O/8z/y//K/8r/
+yv/K/8f/xv/G/8X/xf/G/8j/x//F/8P/xP/E/8X/xv/E/8X/xf/F/8b/xv/G/8b/yv/O
+/9D/1P/Z/9v/3f/f/+L/5f/m/+X/6P/q/+v/7f/x//X/+f/7//r/+f/6//n/+//9//3/
+/P/5//v/+//6//v//P/+/////f/9//3//P/8//3//f/9//7//v/9//v/+v/5//3/+//5
+//n/+v/7//3/+f/1//f//f/9//z//P/9//3//f////7//P/7//j/+v/7///////5//b/
+9f/1//f/9//3//r/+//8//z/+v/5//n/+v/6//r/+v/7//v/+f/5//n/+v/6//n/+f/5
+//r//f/+//z/+f/6//v/+v/8//v/+//7//r/+v/5//j/+v/4//j/+//8//z//P/6//j/
+9//3//j/+P/6//r/+v/+/wIAAAD9//v//P/8//7/+//3//f/+f/5//n/+v/6//z/AAAA
+AP7/AAAAAPz/+//4//r/+v/5//3//v///wAAAQACAAAA/f/7//v/+f/3//b/9//4//n/
++//+//7//v/+////AAD+/wEABwAIAAkACAAIAAgACAAIAA4ADgAIAAgACAAIAAgACAAI
+AAgACAAEAAIAAAD+//z//P/8//z//P/8//z//P/9//7///8AAP///v/9//z/+v/4//b/
+9P/2//b/9v/2//T/9P/0//T/9P/0//T/9P/2//b/9v/2//b/9v/2//b/9v/2//b/9v/1
+//X/9P/0//j/9v/2//X/9f/1//f/9//3//X/9f/2//T/9P/0//T/9v/2//f/9//1//X/
+9f/2//f/9//4//j/9v/3//f/9//5//n/+f/5//n/+f/3//f/9v/4//j/9//1//j/+P/4
+//n/+v/6//v/+//7//v/+v/6//v/+//5//n//P/+//v//P/8//z//P/8//z//P/+//7/
+/v8AAAAA/P/3//P/7P/n/+3/9f/9/xIALwBMAGgAgQClANEA/gAqAUwBZgF9AYUBcgFU
+ASwB/QDGAI4AagBXAEAAKAAXABAABwD+//b/8f/w/+3/6f/r/+3/7f/w//D/7v/t/+z/
+6//q/+n/6P/s/+3/7f/u/+r/6P/n/+b/6P/m/+j/6f/p/+n/6f/p/+n/6//r/+v/5//n
+/+f/5//l/+f/6f/p/+r/6f/p/+n/6P/n/+b/5P/k/+P/4//k/+b/5f/l/+X/5f/k/+H/
+3v/h/+T/4//k/+P/5P/k/+L/4P/i/+L/4P/i/+H/4P/e/97/3v/c/9z/3f/d/93/3f/b
+/9r/2v/d/9z/2//c/97/3f/d/9v/2//e/97/3v/e/9//4P/g/+D/3v/d/9v/2//e/9//
+3P/c/9j/1f/S/9D/0v/U/9P/1P/U/9P/0//U/9H/z//M/8n/x//G/8b/xv/I/8n/yf/J
+/8r/yv/K/8r/yf/I/8v/0P/Q/9D/0P/Q/9X/2P/b/97/3//g/+H/4v/m/+j/6v/s/+3/
+7v/v//D/8//0//X/9v/5//r/+//8//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6
+//r/+P/4//j/+P/6//r/+v/6//r/+v/6//r/+P/4//j/+P/6//r/+v/6//j/+P/4//j/
++f/6//v//P/2//T/+P/4//r//P/+/wIABAAIABAAFgAgACwANAA+AEoAUABSAE4ARgBE
+AEQAOAAiAAoA8v/g/9D/uv+o/6D/lv+M/4j/hv+G/4z/lv+i/6r/tP++/8L/xP/G/8b/
+xv/M/9D/1P/W/9j/2P/a/9r/3v/i/+D/3v/i/+T/4v/i/+j/6v/q/+7/7v/u//b//v/+
+//7/AgACAAEAAAD///7//v/+//7//v8AAAAAAAAAAP7//v/+//7//v/+//7//v///wAA
+AQACAAAAAAAAAAAAAAAAAAAAAAADAAQABQAGAAQABAAEAAQABgAGAAYABgAIAAgACAAI
+AAgACAAIAAgACwAMAA0ADgAOAA4ADgAOABAAEAAQABAAEwAUABUAFgAYABgAGAAYABkA
+GgAbABwAHgAgACIAJAAnACgAKQAqAC4AMAAyADQANgA2ADYANgA6ADwAPgBAAEMARABF
+AEYASQBKAEsATABKAEoASgBKAE0ATgBPAFAATQBMAEsASgBIAEYARABCAD8APgA9ADwA
+OgA4ADYANAAwAC4ALAAqACUAIgAfABwAGwAaABkAGAAUABIAEAAOAA0ADAALAAoACAAI
+AAgACAAHAAYABQAEAAMAAgABAAAAAgACAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAgACAAIAAgAAAAAAAAAAAAIAAgACAAIA///+//3//P/9
+//7///8AAP7//v/+//7/AAAAAAAAAAD+//7//v/+/wAAAAAAAAAA/v/+//7//v/+//7/
+/v/+//7//v/+//7//P/8//z//P/+//7//v/+//3//P/7//r//f/+////AAD///7//f/8
+//z//P/8//z//v/+//7//v/8//z//P/8//3//v///wAA/f/8//v/+v/7//z//f/+/wAA
+AAAAAAAA/f/8//v/+v/7//z//f/+//z//P/8//z//P/8//z//P///wAAAQACAAEAAAD/
+//7//P/8//z//P/9//7///8AAP///v/9//z//v/8//z//P/8//z//P/8//z//P/+//7/
+/v/+//7//v/+//7//P/8//z//P/+//7//v/+/wAAAAAAAAAA///+//3//P/+//7//v/+
+//z//P/8//z/+v/6//r/+v/7//z//f/+//z//P/8//z//v/+//7//v/8//z//P/8//z/
+/P/8//z/+v/6//r/+v/8//z//P/8//z//P/8//z//P/8//z//P/8//z//P/8//7//v/+
+//7//P/8//z//P/8//z//P/8//7//v/+//7//v/+//7//v/+//7//v/+//v/+v/5//j/
++f/6//v//P/+//7//v/+/wEAAgADAAQAAgACAAIAAgACAAIAAgACAP///v/9//z//v/+
+//7//v8AAAAAAAAAAAIAAgACAAMAAQAAAAAAAgD///7//P/7//j/+f/4//f/9v/3//n/
++v/4//j/+P/4//j/+f/5//n/+//7//z//P/5//n/+P/4//f/9//3//f/+f/5//n/+//5
+//f/9//4//z//P/7//n/+v/6//r/+v/6//n/+f/7//v/+//6//r//P/9//z//f///wAA
+/P/6//z//P/8//z//P/8//7//v/6//r//P/8//3//f/2//H/8f/3/wMAGAAtAEQAXgB7
+AJsAwwDyAB4BQgFgAXcBfwFwAVABLgELAdYAlgBwAF0ASAAwABkADgAJAAAA+P/z//T/
+8f/v/+//7f/v//L/9P/y//H/8P/w//D/8P/w/+//7//u/+7/8P/w//H/8v/v/+z/7f/t
+/+v/6//r/+v/6//t/+3/7f/t/+3/7f/t/+v/7f/v/+//8P/v/+//7//s/+v/6v/o/+r/
+6f/p/+r/6//r/+z/7f/t/+z/6f/m/+j/6v/o/+j/5//o/+j/5v/m/+j/6P/m/+b/5f/k
+/+L/5P/k/+L/4v/j/+P/4//j/9//3v/e/+H/4f/f/9//4P/j/+P/4f/h/+H/4P/f/97/
+2//a/9j/1v/Z/9n/2P/Z/9n/2f/V/9T/1v/V/9T/1P/U/9T/0f/Q/9D/z//P/9D/0P/P
+/83/y//I/87/0P/P/87/zf/M/8z/zP/M/8z/zf/O/8//0P/R/9L/0//U/9b/2P/a/9z/
+3v/g/+L/5P/m/+j/6v/s/+7/8P/y//T/9v/4//r//P/+//7//v/+////AAABAAIAAAAA
+AAAAAAACAAIAAgACAAMABAAFAAYAAwACAAEAAAAAAAAAAAAAAAIAAgACAAIAAAAAAAAA
+AAACAAYABgAGAAYABAACAAQACgASABgAHgAqADQAPABKAFQAWgBeAFoAUgBWAFIAQgAm
+AAoA8v/a/8T/sP+k/5r/kP+K/4L/fv9+/4b/kv+a/57/pv+s/6z/sP+4/77/xP/M/9L/
+1v/a/+D/4v/c/9r/3v/g/+L/4v/k/+r/6v/m/+j/6P/m/+r/8P/y//j/AAAEAAIA/v8C
+AAUABgAHAAgACAAIAAgACAAGAAYABgAGAAcACAAJAAoADAAMAAwADAAMAAwADAAMAAwA
+DAAMAAwACgAKAAoACgALAAwADQAOAA4ADgAOAA4AEQASABMAFAASABIAEgASABMAFAAV
+ABYAGAAYABgAGAAZABoAGwAcAB4AHgAeAB4AIAAgACAAIAAiACQAJgAoACkAKgArACwA
+LQAuAC8AMAAzADQANQA2ADgAOgA8AD4APwBAAEEAQgBDAEQARQBGAEcASABJAEoASwBM
+AE0ATgBQAFAAUABQAE8ATgBNAEwASQBIAEcARgBEAEQARABEAEEAQAA/AD4AOQA2ADMA
+MAAuACwAKgAoACUAJAAjACIAHgAcABoAGAAXABYAFQAUABEAEAAPAA4ADAAMAAwADAAM
+AAwADAAMAAoACgAKAAoACQAIAAcABgAHAAgACQAKAAkACAAHAAYABAAEAAQABAAFAAYA
+BwAIAAgACAAIAAgABwAGAAUABAAEAAQABAAEAAIAAgACAAIABAAGAAgACgAIAAgACAAI
+AAYABAACAAAAAwAEAAUABgAHAAgACQAKAAcABgAFAAQABgAGAAYABgAGAAYABgAGAAQA
+BAAEAAQABAAEAAQABAAFAAYABwAIAAgACAAIAAgACgAKAAoACgAKAAoACgAKAAoACgAK
+AAoACgAKAAoACgAIAAgACAAIAAgACAAIAAgACQAKAAsADAAJAAgABwAGAAQABAAEAAQA
+AwACAAEAAAABAAIAAwAEAAIAAgACAAIAAAAAAAAAAAD+//7//v/+/wAAAAAAAAAAAgAC
+AAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgACAAIAAgACAAMAAwAEAAQABgAEAAIA
+AQABAAEABQAFAAUAAwADAAQABAAEAAQABAAEAAQABwAHAAcABwAFAAYABgAFAAUABAAE
+AAUABQAFAAUABQAHAAcACQAJAAcABwAIAAoACgAJAAcACgAIAAgACAAIAAcABwAJAAkA
+CwAKAAoACwAKAAcABgAIAAsACQAJAAoACgAKAAoACgAIAAoACgAKAAwADAAGAAcAAwD+
+//v/+//9/wcAGAAvAEgAYgCBAKkA0QD+ACoBTgFqAYcBlwGMAXIBTgElAfAAsgCEAGsA
+VgBAAC0AIAAbABQACAD9//r/+f/3//n/+//5//j/+v/4//f/9v/0//T/9P/0//X/9f/0
+//T/8f/w//D/8P/z//L/9f/3//b/9f/0//P/8v/1//b/9//y//H/8P/v/+//8f/z//P/
+8P/v/+//7//x//H/8f/w//L/8f/x//L/8f/v/+7/7f/u/+7/7P/q/+v/7v/t/+7/7//w
+//D/7v/t/+7/7f/q/+z/6//q/+j/6P/o/+b/5v/n/+f/5//n/+X/5P/k/+f/6P/n/+j/
+6v/o/+f/5P/j/+H/4P/f/97/3P/c/9v/2v/c/93/3f/f/9//3//b/9r/2v/Z/9j/2P/Y
+/9j/1f/U/9T/0//T/9T/1P/T/9H/z//Q/9D/0f/S/9b/1//W/9b/1v/W/9b/1f/U/9P/
+0v/T/9T/1f/W/9r/3v/i/+b/6P/q/+z/7v/x//L/8//0//j/+v/8//7/AAACAAQABgAE
+AAIAAAD+////AAABAAIAAwAEAAUABgAIAAgACAAIAAoACgAKAAoACQAIAAcABgAFAAQA
+AwACAAQABAAEAAQAAwACAAEAAAADAAQABQAGAAIABgAIAAYACAAKAAgACAAKABAAHgAo
+ACoALgA6AEwAVgBWAFAASgBKAEwARAA2AB4AAgDq/9j/wP+m/5b/jv+M/4L/dP9y/3z/
+iv+a/6L/pP+u/7r/vP+8/8D/xv/Q/9T/1v/c/+D/5P/o/+b/4v/e/97/4P/k/+b/5v/q
+//D/7v/q/+r/7v/0//T/8v/0//z/AgAEAAQAAgACAAIAAgAEAAQABAAEAAYABgAGAAYA
+BgAGAAYABgAIAAgACAAIAAYABgAGAAYACAAIAAgACAAJAAoACwAMAA4ADgAOAA4ADgAO
+AA4ADgAQABAAEAAQABEAEgATABQAEgASABIAEgAUABYAGAAaABgAGAAYABgAGgAaABoA
+GgAcAB4AIAAiACQAJgAoACoAKwAsAC0ALgAxADIAMwA0ADUANgA3ADgAPAA+AEAAQgBF
+AEYARwBIAEsATABNAE4ATwBQAFEAUgBVAFYAVwBYAFoAWgBaAFoAWQBYAFcAVgBTAFIA
+UQBQAA==
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>10000</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>5000</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V1</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>567959496</LeadDataCRC32>
+         <WaveFormData>
+4v/i/+L/4v/h/+D/3//e/+D/4P/g/+D/3f/c/9v/2v/Y/9j/2P/Y/9r/2v/a/9r/2//c
+/93/3v/f/+D/4f/i/+T/5v/o/+r/6//s/+3/7v/w//D/8P/w//H/8v/z//T/9v/4//r/
+/P/8//z//P/8////AAABAAIAAwAEAAUABgAJAAoACwAMAAwADAAMAAwADgAOAA4ADgAQ
+ABAAEAAQABIAFAAWABgAGgAaABoAGgAcABwAHAAcAB4AHgAeAB4AIQAkACcAKgAsACwA
+LAAsAC4ALgAuAC4AMQAyADMANAA3ADgAOQA6ADgAOAA4ADgAOAA4ADgAOAA3ADYANQA0
+ADMAMgAxADAALQAsACsAKgAnACYAJQAkACAAHgAcABoAFgAUABIAEAANAAwACwAKAAcA
+BgAFAAQAAgACAAIAAgABAAAA///+//z//P/8//z//P/8//z//P/+/wAAAgAEAAMAAgAB
+AAAA/v/+//7//v8BAAIAAwAEAAYABgAGAAYABAAEAAQABAACAAIAAgACAAAAAAAAAAAA
+BAAIAAoACAAGAAgABgACAP7//P/2//L/9P/2//j//v8GAA4AFgAiADQASgBeAHQAkACy
+ANYA+AAaAToBVAFmAXQBfgGIAY4BigGAAXIBXgFEAS4BHAEGAfAA3ADKALoAqACUAIYA
+hgCGAH4AfgCEAI4AlgCgAK4AtgC0ALYAugC4AK4AoACYAIwAdABWAEAAOAAuACAAHAAc
+ABsAGgAZABgAFgAUABIAEAAOAAwACgAIAAgACAAIAAgABwAGAAUABAADAAIAAQAAAAAA
+AAAAAAAAAAAAAAAAAAD///7//f/8//z//P/8//z/+v/6//r/+v/4//j/+P/4//X/9P/z
+//L/8f/w/+//7v/s/+r/6P/m/+P/4v/h/+D/3//e/93/3P/Y/9b/1P/S/9D/zv/M/8r/
+yP/G/8T/wv/A/77/vP+6/7j/tv+0/7L/sP+u/6z/qv+m/6T/ov+g/53/nP+b/5r/l/+W
+/5X/lP+W/5b/lv+W/5j/mP+Y/5j/nP+e/6D/ov+m/6j/qv+s/7D/tP+4/7z/v//C/8X/
+yP/M/9D/1P/Y/97/4v/m/+r/7//y//X/+P/8//7/AAACAAYACAAKAAwADgAQABIAFAAV
+ABYAFwAYABoAGgAaABoAGgAaABoAGgAcABwAHAAcABwAHAAcABwAGwAaABkAGAAZABoA
+GwAcABwAHAAcABwAHAAcABwAHAAbABoAGQAYABoAGgAaABoAHAAcABwAHAAZABgAFwAW
+ABgAGAAYABgAGAAYABgAGAAYABgAGAAYABYAFgAWABYAFgAWABYAFgAWABYAFgAWABYA
+FgAWABYAFQAUABMAEgAUABQAFAAUABIAEgASABIAFAAUABQAFAAUABQAFAAUABIAEgAS
+ABIAEAAQABAAEAAOAA4ADgAOAA8AEAARABIAFQAWABcAGAAcAB4AIAAiACMAJAAlACYA
+JQAkACMAIgAhACAAHwAeABsAGAAVABIADwAMAAkABgAGAAYABgAGAAQABAAEAAQABgAG
+AAYABgAIAAgACAAIAAgACAAIAAgACAAKAAoACgAKAAoACwAMAA0ADgAMAAwADAAMAAwA
+DAAMAAwADAAMAAwADAAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADQALAA0ADQANAA0ADQAN
+AA0ADQANAA0ADgAMAAwADAAMAA0ADgAPABEADwAPAA8AEAAQAA8ADwAPAA0ADgAOAA4A
+EAAQABAAEAAQABAAEAAQAA4ADgAOAA4ADQANAA0ADgAPAA8ADwAQABEAEQARABEAEQAR
+ABEAEAAOAA8ADwAPABEAEQARABEADwARABcAHgAkACwAOwBQAFwAWABAAB8ABQDq/8v/
+q/+B/1D/J/8F/+P+y/7E/s7+4P79/iP/S/9n/3z/kf+m/7b/wv/Q/+P/9P/+/wgADQAS
+ABYAGQAbABwAHAAfACAAIAAhACMAJAAmACYAIwAjACMAJAAjACMAIwAkACYAJgAmACcA
+JwAoACgAKAAnACcAJwAnACUAJQAlACUAJgAnACgAKgAoACkAKQAoACgAKQAqACoAKQAp
+ACoAKgAqACoAKgAqACwALAAtAC0ALAAsACwALAAsAC4ALgAuAC8ALwAvAC8ALwAvADAA
+MAAxADEAMgAyADMAMwA0ADQAMwA1ADYANwA5ADgAOAA6ADoAOwA8AD0APAA9AD0APgBA
+AEEAQgBDAEcARwBJAEoASgBKAEsATQBNAE0ATgBOAFAAUABQAFAAUgBTAFQAVgBWAFcA
+VwBVAFMAUwBXAFkAVgBTAFIAUQBQAE0ATABLAEoARgBEAEIAQAA9ADwAOwA6ADYAMgAu
+ACoAKAAmACQAIgAeABwAGgAYABUAFAATABIAEQAQAA8ADgANAAwACwAKAAkACAAHAAYA
+BgAGAAYABgAGAAYABgAGAAYABgAGAAYABgAGAAYABgAGAAYABgAGAAQABAAEAAQABgAG
+AAYABgAEAAgACAACAPz/+P/y//L/9P/y/+z/7v/y//T/+P8AABAAIgA2AE4AZAB+AKIA
+yADqAA4BMAFOAWYBeAGCAYwBlgGaAZYBjAGAAWwBUgE6ASgBFAEAAeoA1AC+AKYAkgCG
+AIQAhACAAIIAigCUAKAAqACsAK4AsgC2ALgAsgCkAJIAggBsAE4ALgAaAAoAAgAAAPz/
++v/6//j/9v/0//L/8P/u/+z/6v/p/+j/5//m/+X/5P/j/+L/4P/g/+D/4P/f/97/3f/c
+/9v/2v/Z/9j/1//W/9X/1P/S/9L/0v/S/9D/0P/Q/9D/z//O/83/zP/L/8r/yf/I/8f/
+xv/F/8T/wv/A/77/vP+6/7j/tv+0/7H/sP+v/67/rP+q/6j/pv+k/6L/oP+e/5v/mP+V
+/5L/jv+M/4r/iP+E/4L/gP9+/3r/eP92/3T/cv9w/27/bP9q/2j/Zv9k/2L/Yv9i/2L/
+Yv9i/2L/Yv9k/2b/aP9q/27/cv92/3r/gP+E/4j/jP+T/5j/nf+i/6b/qv+u/7L/tv+4
+/7r/vP+//8D/wf/C/8L/wv/C/8L/x//K/83/0P/T/9b/2f/c/9//4v/l/+j/6v/s/+7/
+8P/z//T/9f/2//f/+P/5//r/+P/4//j/+P/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6
+//r/+v/6//v//P/9//7//v/+//7//v/+//7//v/+/wAAAAAAAAAA/v/+//7//v/+//7/
+/v/+//7//v/+//7/AAAAAAAAAAD///7//f/8//z//P/+//7//v/+////AAABAAIA///+
+//3//P/9//7///////3////////////////////9//3//f/+////AAABAAIAAAAAAAAA
+AQADAAMAAwAEAAQAAwADAAMAAwAEAAQABAACAAIAAgACAAQABAAEAAQAAwACAAEAAAAC
+AAMABAAGAAYABQAEAAQAAgABAAAA//8AAAEAAgACAAEAAQAAAP///////////////wEA
+BQAGAAgAEAAdAC4APgBAAC4AFwD//+b/yf+r/4X/WP81/xf/8f7P/sT+0P7k/gH/Jf9D
+/1n/cP+D/5j/rv/A/87/3f/o//D/9v/9/wIABAAHAAsADAAMAA8AEAAQABEAEAAQABEA
+EAAQABEAEgAUABUAFQAVABYAFgAWABYAFwAVABYAFgAWABkAGQAZABkAFwAXABcAFwAZ
+ABkAGQAaABwAHQAdABwAGgAbABwAHAAbABsAHAAcAB4AHgAeAB4AIAAgACEAIQAgACAA
+IAAgACIAJAAkACQAJwAnACcAJwAnACcAKAAoACcAJwAoACgAKgArAC0ALgAuAC8ALwAv
+AC0ALAAsAC4ALgAvADAAMQAzADUANgA4ADoAOwA8AD0APgA9AD4APgBAAEAAQQBDAEMA
+QwBEAEQARQBGAEcASABJAEkASQBKAEgASQBJAEcARwBHAEcARwBIAEcARgBEAEAAPwA9
+ADsAOQA2ADMAMgAwAC4AKwAoACIAIAAfAB0AGgAZABkAFwATABIAEAAPAA8ADgAOAA0A
+DwAOAA0ADQALAAoACgAKAAwACgAKAAoACgAKAAoACgALAAwADAANAAwADQANAA0ADgAP
+AA8ADwAPABAAEAAPABEAEgASABIAEgASABIAEQAPAA8ADwAOAA4ADwAPAA8ADwAQABAA
+EAAQABEAEQATABMAEQARABEADwAQABEAEQAPAA0AEAAQABEAEQARAA8ADgANAAwACwAN
+AA0ADgAOAAsACgAIAAoACgAKAAoACgAMAAwACwALAAwADAALAAsACwAJAAkACwAJAAgA
+CAAIAAoACQAIAAgACQAJAAgACAAHAAcABwAGAAUABQAGAAgABAAEAAQABAAGAAgABQAF
+AAQACAAGAAQABAADAAMABAAEAAYABwAIAAsADAAMAA0AEAAUABUAFwAaABoAGQAYABMA
+EwATABQAEgAQAA8ADgAKAAcABAACAP///v/9//z/+//7//r/+v/8//r//v/+//z//P/8
+//z///8AAAEAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIA
+AgACAAEAAQADAAMAAwADAAUABQAFAAUAAwADAAQABAAEAAQABAAEAAIAAgADAAMABQAF
+AAYABgAEAAMAAgABAAMABAAFAAYABAAEAAQABAAEAAQABAAEAAYABgAGAAcABQAFAAYA
+BgAHAAYABgAHAAUABQAFAAUABwAHAAYABgAFAAUABQAFAAcABwAJAAsACQALAA4AFAAi
+ADkASgBQAEYALgANAPH/1v+5/5n/cf9C/xn/9/7X/sX+xv7Q/ub+B/8x/1f/bf+C/5n/
+rP+4/8b/1P/h/+7/+v8CAAcACgAOABMAEwAUABoAGQAaABoAGwAZABoAHAAcAB0AHQAd
+AB4AHQAdAB0AHgAcABwAHAAdAB0AHgAeAB4AIQAhACEAIQAfAB8AHwAfAB8AHwAfACAA
+HgAfAB8AHgAeAB8AIAAgACEAIQAiACIAIwAiACEAIAAgACAAIQAhACIAIgAiACIAIgAk
+ACQAJAAlACUAJQAlACMAIwAkACQAJQAlACYAJgApACkAKgAqACkAKwAsAC0ALwAuAC4A
+MAAwADEAMgAzADQANQA1ADYANgA3ADgAOQA5ADkAOwA8AD4APgA/AEEAQgBDAEUARgBF
+AEQAQwBCAEMAQwBDAEQARgBHAEcARQBEAEMAQgBBAEAAPwA+ADwAOgA3ADMALwAwAC4A
+LAAqACgAJAAiACAAHgAbABgAFQASAA8ADgANAAwACgAIAAYABAADAAIAAQAAAP7//v/+
+//7//f/8//v/+v/6//r/+v/6//r/+v/6//r/+P/4//j/+P/4//j/+P/4//j/+P/4//j/
++P/4//j/+P/6//r/+v/6//r/+v/6//r/+v/6//r/+v/8//z//P/8//z//P/+//r/8v/u
+/+z/6v/q/+r/6v/o/+j/7P/y//b//P8IACAANgBKAGIAfgCcAL4A5AAIASYBPgFUAWQB
+cgF6AXwBfAF6AXIBYgFOATYBIAEKAe4A1ADCALAAmgCGAHQAagBqAG4AcAB0AHgAggCO
+AJgAmgCcAKIAogCYAIwAggB2AGYARgAmABIABAD4//D/6v/m/+b/4//i/+H/4P/f/97/
+3f/c/9n/2P/X/9b/0//S/9H/0P/O/87/zv/O/83/zP/L/8r/yP/I/8j/yP/F/8T/w//C
+/8D/wP/A/8D/vv++/77/vv+7/7r/uf+4/7X/tP+z/7L/sP+w/7D/sP+t/6r/p/+k/6P/
+ov+h/6D/nP+a/5j/lv+U/5L/kP+O/4z/iv+I/4b/gv+A/37/fP95/3b/c/9w/2v/aP9l
+/2L/X/9e/13/XP9Y/1b/VP9S/0//TP9J/0b/Rf9E/0P/Qv9A/0D/QP9A/0L/Qv9C/0L/
+Rf9I/0v/Tv9U/1j/XP9g/2f/bP9x/3b/ev9+/4L/hv+K/47/kv+W/5j/mv+c/57/oP+g
+/6D/oP+h/6L/o/+k/6j/rP+w/7T/t/+6/73/wP/C/8T/xv/I/8v/zP/N/87/z//Q/9H/
+0v/S/9L/0v/S/9L/0v/S/9L/1P/U/9T/1P/U/9T/1P/U/9b/1v/W/9b/1P/U/9T/1P/W
+/9b/1v/W/9b/1v/W/9b/2P/Y/9j/2P/Y/9j/2P/Y/9r/2v/a/9r/2P/Y/9j/2P/W/9b/
+1v/W/9j/2P/Y/9j/2v/a/9r/2v/a/9r/2P/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a
+/9r/2v/Z/9n/2//b/9v/2f/Z/9n/2f/Z/9n/2f/a/9z/3P/c/9z/3P/c/9z/3f/b/9v/
+2//c/9z/2//b/9v/3f/e/97/3v/c/9z/3P/c/9z/3P/c/9z/3P/c/9z/3P/f/9//3//g
+/93/2//Z/9j/2//b/9v/2//Z/9n/2f/Y/9n/2//c/93/2//b/9v/2//Z/9f/2f/e/+L/
+6v/3/wgAHAAiABYA+//j/8z/rf+F/1v/LP///t3+tf6P/oL+kP6k/sX+8f4P/yf/Qv9V
+/2b/fP+Q/57/r/++/8r/0P/V/9r/4P/j/+X/6P/o/+f/6P/o/+n/7P/u//H/8v/u/+3/
+7P/s/+7/7//w//L/8P/w//D/8f/y//T/9f/2//f/9//3//f/9//3//f/9//3//f/9//4
+//j/+f/5//j/+v/7//z//P/7//v//P/8//7//v/+//7//v/+//////8CAAIAAgACAAQA
+BgAGAAYABgAFAAQAAwAEAAUABwAIAAsACwAMAAwACwALAAwADAANAA8AEAARABEAEAAQ
+ABIAFgAXABgAGQAaABsAGwAcABwAHQAeAB8AIwAjACUAJgAoACgAKQArACsAKwAsACwA
+LQAuAC8AMAAzADMAMwA0ADQANQA1ADMAMQAxADEAMQAwAC8ALgAsACgAJwAlACMAIAAc
+ABgAFgAUABIADwAMAAYABAADAAEA///9//z/+f/5//j/9v/1//H/8P/w/+//7//u/+3/
+7f/u/+7/7//w//L/8P/w//D/8P/w//D/8P/y//L/8f/x//D/8f/x//H/8P/x//H/8f/y
+//T/9f/1//X/9v/2//b/9v/2//b/9f/1//X/9f/0//b/9//3//f/9//4//j/+P/2//f/
+9//5//v/+f/5//n/+f/6//v/+//3//X/+P/4//b/9f/0//H/8v/z//T/9f/1//X/9v/2
+//f/9v/0//b/9P/0//T/9P/0//T/8//z//T/9P/z//P/8//x//H/8//z//L/8v/y//L/
+8f/w//D/8f/x//D/8P/z//P/8//y/+//7//w//L/8v/y//L/8v/y//T/8f/x//L/9v/0
+//L/8P/v/+//8P/y//T/9f/2//b/9v/1//X/9v/4//f/9//3//b/9P/y//D/8f/y//T/
+9v/0//P/8v/1//f/+f/8//7/AAACAAQABQAHAAgACgAIAAoADAAKAAYABAACAAAA/P/4
+//T/8P/v/+7/7f/s/+z/7P/s/+z/6v/q/+r/6v/s/+7/8P/y//L/8v/y//L/9P/0//T/
+9P/y//L/8v/y//P/9P/1//b/9P/0//T/9P/2//b/9v/2//j/+P/4//j/+P/4//j/+P/4
+//j/+P/4//j/+P/4//j/9//1//T/9f/2//f/+P/5//n/+f/5//n/9//4//j/+P/4//j/
++P/4//n/+//8//3/+//8//z/+//7//v/+//8//r/+v/6//r//P/8//z//P/+//7//v/+
+//7//v////////8AAAAA///+//7///////3//f/9//3////+//7/////////////////
+AQABAAMABQAIAAgAEAAjADYAQgBEADYAFwD3/9r/v/+j/3v/Tv8n/wP/4f7J/sL+yv7e
+/vn+G/9D/1//dP+H/5z/qv+4/8r/2//o//D/9v/7/wAABAAHAAkADAAOAA0ADgAOAA8A
+DwAQABIAEgATABMAEwAUABQAEwASABIAFAAUABQAFQAVABYAFgAWABUAFQAVABUAFwAX
+ABcAFwAVABUAFQAWABQAFQAVABQAFAAVABYAFgAVABUAFgAWABoAGgAaABoAGgAaABsA
+GwAcABwAHAAcABoAHAAcABwAHwAfAB8AHwAdAB0AHgAeAB0AHQAeAB4AIQAhACIAIgAl
+ACcAKAApACkAKAAoACoALgAvADAAMQA0ADUANQA2ADkAOwA9AD8AQQBBAEMARABCAEIA
+QwBFAEIAQQBBAEAAPQA6ADcANAAyADEAMAAwADIAMwAzADEAMwAzADMAMwA0ADMAMgAw
+ADAALwAtACsAKQAmACUAJAAhACAAHwAeABoAGAAWABQAEQAQAA8ADgALAAoACQAIAAcA
+BgAFAAQAAgACAAIAAgAEAAQABAAEAAEAAAD///7/AAAAAAAAAAD+//7//v/+/wAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAEAAgADAAQABgAGAAYABgAGAAYABgAGAAgACAAIAAgA
+CgAKAAoACgAMAAoACgAIAAQAAAD8//7/AAD8//j//P/+/wIACAAMABQAJAA6AFIAaAB+
+AJgAuADcAAABJAFCAVwBcAGCAYwBkgGUAZQBjAF6AWIBSAEyARgBAAHqANQAwgCyAKIA
+kACCAHwAegB6AIAAiACOAJYApgCwALQAtgC4ALoAtACoAJwAkAB6AFwAPAAqACIAGAAQ
+AAwACgAGAAMAAgABAAAA/f/8//v/+v/3//b/9f/0//P/8v/x//D/8P/w//D/8P/v/+7/
+7f/s/+n/6P/n/+b/5v/m/+b/5v/m/+b/5v/m/+T/4v/g/97/3P/c/9z/3P/a/9r/2v/a
+/9f/1v/V/9T/0f/Q/8//zv/M/8r/yP/G/8X/xP/D/8L/vv+8/7r/uP+1/7T/s/+y/6//
+rP+p/6b/ov+g/57/nP+Z/5b/k/+Q/4z/iv+I/4b/g/+A/33/ev95/3j/d/92/3T/cv9w
+/27/bP9s/2z/bP9u/27/bv9u/3H/dP93/3r/fP9+/4D/gv+H/4r/jf+Q/5X/mP+b/57/
+ov+m/6r/rv+y/7b/uv++/8T/yP/M/9D/1f/Y/9v/3v/i/+T/5v/o/+r/7P/u//D/8f/y
+//P/9P/1//b/9//4//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/
++v/4//j/+P/4//n/+v/7//z//v/+//7//v/8//z//P/8//r/+v/6//r//P/8//z//P/6
+//r/+v/6//j/+P/4//j/+v/6//r/+v/4//j/+P/4//j/+P/4//j/9v/2//b/9v/2//b/
+9v/2//T/9P/0//T/9P/0//T/9P/2//b/9v/2//j/+P/4//j/9v/2//b/9v/0//T/9P/0
+//T/9P/0//T/9P/0//T/9P/0//T/9P/0//L/8v/y//L/9P/0//T/9P/y//L/8v/y//L/
+8v/y//L/8f/w/+//7v/w//D/8P/w/+7/7v/u/+7/7v/u/+7/7v/s/+z/7P/s/+7/7v/u
+/+7/7f/s/+v/6v/o/+j/6P/o/+n/6v/r/+z/6v/s/+z/7P/s/+z/6v/q/+r/6v/q/+r/
+6v/q/+r/6v/q/+r/6P/o/+j/6P/o/+j/6P/o/+j/6P/o/+j/5v/m/+b/5v/m/+b/5v/m
+/+T/5P/k/+T/5v/m/+b/5v/k/+T/5P/k/+T/5P/k/+T/4v/i/+L/4v/i/+L/4v/i/+L/
+4v/i/+L/4v/i/+L/4v/i/+L/4v/i/+D/4P/g/+D/4v/i/+L/4v/g/+D/4P/g/+L/4v/i
+/+L/4P/g/+D/4P/e/97/3v/e/97/3v/e/97/3v/e/97/3v/c/9z/3P/c/97/3v/e/97/
+4P/g/+D/4P/g/+D/4P/g/+H/4v/j/+T/5//o/+n/6v/s/+z/7P/s/+v/6v/p/+j/4//g
+/93/2v/X/9b/1f/U/9T/1P/U/9T/1v/W/9b/1v/Y/9j/2P/Y/9n/2f/b/9v/2//b/9v/
+2//Z/9n/2f/Z/9r/2v/a/9r/2P/Y/9j/2P/b/9v/2//b/9z/3P/b/9v/2//b/9z/3P/c
+/9z/3P/c/9v/2v/Z/9j/2f/a/9v/3P/c/93/3f/d/9z/3P/b/9r/3P/d/93/3f/b/9v/
+2//b/9z/3P/d/93/3f/d/93/3f/d/93/3//h/+b/7P/0/wUAHAAuAC4AGAD1/9X/tv+P
+/2n/P/8O/+H+vf6d/of+gv6O/qT+wf7p/hP/M/9I/13/dP+G/5T/qP+5/8T/zv/Y/93/
+3v/k/+n/6//u//L/9f/2//b/9//1//b/+P/4//f/9//3//j/+v/7//z//v/9//z/+//7
+//v//P/8//z///////////////////////3//f/9//7///8BAAIAAgAAAAEAAgACAAMA
+AwAEAAQABAAEAAQABAAEAAQABQAFAAYABgAGAAYABAAGAAYABgAIAAkACgALAAkACQAK
+AAoADQANAA4ADgANAA0ADgAOAA0ADwAQABEAEwASABIAFAAUABUAFgAXABgAGQAZABoA
+HAAdAB4AHwAhACEAIwAkACQAJAAlACcAKQApACoAKgArACwALQAuAC8ALwAvADAAMAAx
+ADEALwAvAC8AMgAxADAALwAuAC0ALAArACoAKAAmACQAIgAgAB4AHAAaABYAFAASABAA
+DQAKAAcABAAAAP7//P/6//f/9v/1//T/8f/w/+//7v/s/+z/7P/s/+r/6v/q/+r/6v/q
+/+r/6v/o/+j/6P/o/+j/6P/o/+j/6P/o/+j/6P/q/+r/6v/q/+r/6v/q/+r/6v/q/+r/
+6v/q/+z/7P/s/+j/5P/e/9b/1P/W/9b/1P/U/9r/4v/k/+z/+v8MACAAOABQAG4AkgC4
+ANwAAAEgATwBUgFiAW4BdgF6AXoBdgFsAVwBQgEoARIBAgHuANgAxACuAJoAggBwAGoA
+aABmAGYAagB0AH4AigCUAJgAmACeAKIAngCSAIgAegBoAEwAKgAQAAIA9v/u/+r/5v/i
+/+H/4P/f/97/2//a/9n/2P/X/9b/1f/U/9P/0v/R/9D/z//O/83/zP/M/8z/zP/M/8v/
+yv/J/8j/yP/I/8j/yP/H/8b/xf/E/8P/wv/B/8D/wP/A/8D/wP+9/7z/u/+6/7n/uP+3
+/7b/tf+0/7P/sv+u/6z/qv+o/6f/pv+l/6T/ov+g/57/nP+Y/5b/lP+S/4//jv+N/4z/
+iv+I/4b/hP+C/4D/fv98/3n/dv9z/3D/bf9s/2v/av9n/2b/Zf9k/2P/Yv9h/2D/YP9g
+/2D/YP9j/2T/Zf9m/2n/av9r/2z/b/9y/3X/eP98/4D/hP+I/43/kP+T/5b/mv+e/6L/
+pv+q/67/sv+2/7z/wP/E/8j/zf/Q/9P/1v/a/9z/3v/g/+L/5P/m/+j/6v/q/+r/6v/s
+/+7/8P/y//T/9P/0//T/9v/2//b/9v/2//b/9v/2//T/9P/0//T/9v/2//b/9v/4//j/
++P/4//b/9v/2//b/9P/0//T/9P/1//b/9//4//b/9v/2//b/+P/4//j/+P/4//j/+P/4
+//j/+P/4//j/+v/6//r/+v/8//z//P/8//v/+v/5//j/+v/6//r/+v/4//j/+P/4//j/
++P/4//j/+v/6//r/+v/8//z//P/8//7//v/+//7///8AAAEAAgAFAAYABwAIAAkACgAL
+AAwADAAMAAwADAAIAAYABAACAP3/+v/3//T/9P/0//T/9P/0//T/9P/0//X/9v/3//j/
++v/6//r/+v/6//r/+v/6//j/+P/4//j/+v/6//r/+v/6//r/+v/6//r/+v/6//r//P/8
+//z//P/6//r/+v/6//z//P/8//z//P/8//7//v/+//7//v/+//7//v/+//7//v/+//z/
+/P/8//v//P///wAAAQAAAP///v/9//3//f/9//7///8AAAEAAgAAAAAAAAABAAEAAQAB
+AAIAAgABAAEAAQABAAIAAgACAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAUABQAFAAYA
+BgAFAAQABAAHAAcABwAHAAkACQAJAAgABgAHAAcABwAFAAUABQAFAAcACQAJAAwAEAAW
+ACMANgBIAE4ARAArAA8A9P/T/7X/k/9o/0H/If/9/t/+1P7a/ur+Af8f/0X/Z/94/4f/
+nP+y/8D/zv/d/+7/+P/+/wEABgAMAA8AEwAYABgAGQAaABoAGwAbABwAHgAeAB0AHQAd
+AB4AHwAfAB8AIAAgACAAIAAhACEAIgAiACIAIQAhACEAIQAjACMAIwAjACUAJQAlACYA
+JAAlACUAJAAkACUAJgAmACMAIwAkACQAJwAoACkAKgAoACgAKQApACwALAAsACwAKgAs
+ACwALAAtAC0ALQAtAC4ALwAxADIAMgAxADEAMAAzADMANAA0ADMANQA2ADcAOQA4ADgA
+OgA6ADsAPAA9AD4APwA/AEAAQgBDAEQARQBFAEUARwBIAEgASABJAEsATQBNAE4ATgBQ
+AFAAUABQAFEAUQBRAFIAUgBTAFMAUQBTAFMAUwBTAFAATwBMAEoASgBKAEoARwBGAEUA
+RABCAEAAPgA8ADoAOAA2ADQAMAAuACwAKgAoACYAJAAiACEAIAAfAB4AHQAcABsAGgAY
+ABgAGAAYABgAGAAYABgAFgAWABYAFgAYABgAGAAYABgAGAAYABgAGgAaABoAGgAaABoA
+GgAaABwAHAAcABwAGgAaABoAGgAcABwAHAAcABwAHAAeABwAGgAWABAACAAGAAQABAAI
+AA4AFAAWABgAIAAuAD4AVgByAIoApADCAOQABgEoAUgBZAF6AYYBjAGSAZoBmAGMAYAB
+dAFeAUABKgEYAQIB6gDcAM4AugCkAJIAigCKAIoAhACEAIwAlACeAKgAsACuALAAtAC4
+ALgArgCiAJoAigBsAE4APAAwACYAHgAaABoAGQAYABcAFgAUABIAEAAOAAsACgAJAAgA
+BQAEAAMAAgACAAIAAgACAAAAAAAAAAAA/v/+//7//v/8//z//P/8//r/+v/6//r/+v/6
+//r/+v/3//b/9f/0//P/8v/x//D/7//u/+3/7P/p/+j/5//m/+L/4P/e/9z/2//a/9n/
+2P/X/9b/1f/U/9L/0P/O/8z/x//E/8H/vv+9/7z/u/+6/7f/tP+x/67/rP+q/6j/pv+k
+/6L/oP+e/5v/mv+Z/5j/l/+W/5X/lP+U/5T/lP+U/5f/mP+Z/5r/nP+e/6D/ov+n/6r/
+rf+w/w==
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>10000</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>5000</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V2</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>1999789632</LeadDataCRC32>
+         <WaveFormData>
+DAAMAAwADAAOAA4ADgAOABAAEgAUABYAGAAYABgAGAAaABoAGgAaABoAGgAaABoAGwAc
+AB0AHgAgACAAIAAgACEAIgAjACQAJgAmACYAJgAoACgAKAAoACkAKgArACwALQAuAC8A
+MAAxADIAMwA0ADcAOAA5ADoAOwA8AD0APgA/AEAAQQBCAEQARgBIAEoATABMAEwATABN
+AE4ATwBQAFQAVgBYAFoAXABeAGAAYgBlAGYAZwBoAGsAbABtAG4AcQByAHMAdAB3AHgA
+eQB6AHoAegB6AHoAegB6AHoAegB6AHoAegB6AHcAdgB1AHQAcQBwAG8AbgBrAGgAZQBi
+AF4AWgBWAFIATQBKAEcARABBAD4AOwA4ADMAMAAtACoAJQAiAB8AHAAYABYAFAASABEA
+EAAPAA4ADAAKAAgABgAFAAQAAwACAAEAAAD///7//v/+//7//v8AAAAAAAAAAP///v/9
+//z//P/8//z//P/8//z//P/8//3//v///wAA/v/+//7//v/+//7//v/+//7//v/+//7/
+AgAEAAIAAAACAAYACAAIAAoADAAMAAwADAAOABgAJAAyAEIAVgByAJQAtADQAPAAFAE6
+AVoBfAGeAbwBygHOAcoBxAG8AbIBoAGGAW4BVAE2ARoBAgHqANIAugCoAJ4AjgB2AGQA
+ZgBuAHAAeACKAJwAqAC4AMYAyAC+ALQAsACiAIQAZABMADQAHAAGAPz//P/8//j/+P8A
+AP7//v/+//7//P/6//j/9v/z//L/8f/w/+7/7v/u/+7/7f/s/+v/6v/o/+j/6P/o/+f/
+5v/l/+T/5P/k/+T/5P/i/+L/4v/i/+T/5P/k/+T/4v/i/+L/4v/i/+L/4v/i/+H/4P/f
+/97/3f/c/9v/2v/Z/9j/1//W/9T/1P/U/9T/0//S/9H/0P/O/8z/yv/I/8X/xP/D/8L/
+wP++/7z/uv+5/7j/t/+2/7P/sP+t/6r/p/+m/6X/pP+i/6D/nv+c/5n/mP+X/5b/lP+U
+/5T/lP+W/5b/lv+W/5f/mP+Z/5r/nv+g/6L/pP+o/6r/rP+u/7L/tv+6/77/wv/E/8b/
+yP/L/87/0f/U/9f/2v/d/+D/5P/m/+j/6v/r/+z/7f/u/+//8P/x//L/8v/y//L/8v/w
+//D/8P/w//D/8P/w//D/7//u/+3/7P/s/+z/7P/s/+r/6v/q/+r/6P/o/+j/6P/q/+r/
+6v/q/+r/6v/q/+r/6f/o/+f/5v/k/+T/5P/k/+T/5P/k/+T/5v/m/+b/5v/k/+T/5P/k
+/+T/5P/k/+T/4v/i/+L/4v/k/+T/5P/k/+P/4v/h/+D/4v/i/+L/4v/g/+D/4P/g/+D/
+4P/g/+D/3v/e/97/3v/e/97/3v/e/9z/3P/c/9z/3P/c/9z/3P/e/97/3v/e/93/3P/b
+/9r/2P/Y/9j/2P/a/9r/2v/a/9z/3P/c/9z/3v/e/97/3v/i/+T/5v/o/+j/6P/o/+j/
+5v/m/+b/5v/j/+L/4f/g/93/3P/b/9r/1//W/9X/1P/S/9L/0v/S/9H/0P/P/87/0P/Q
+/9D/0P/Q/9D/0P/Q/9D/0P/Q/9D/zP/M/8r/yv/K/8r/y//M/83/zv/M/8z/zP/M/8r/
+yv/K/8r/zP/M/8z/zP/M/8v/yv/K/8v/y//L/8z/zP/M/8z/y//L/83/zf/N/83/zf/O
+/9D/zP/M/8v/y//L/8z/zP/M/87/zv/O/8//zf/M/8z/zP/M/8z/zP/N/83/zf/N/83/
+zf/N/83/zf/P/8//z//R/9H/z//P/9H/0f/S/9L/0v/S/9H/0f/S/9T/0v/S/9L/0v/S
+/9L/0v/T/9P/0//T/9L/0//V/9f/1//b/+n/+/8OACcASgBoAHcAcwBaAD8ALAATAO7/
+y/+l/2//Mv/0/rb+hv5r/mf+c/6M/q3+zf7s/gn/I/8//1r/a/+A/5z/sv/A/83/2f/h
+/+n/8f/3//n//P/+/wAAAAADAAYABwAIAAkACwALAAsADQANAA4AEAAQABIAEgASABQA
+FQAVABUAFgAWABcAFwAXABkAGQAaABoAHAAdAB4AHwAfAB8AHwAfACMAJAAkACQAJwAn
+ACkAKgAsACwALQAtADAAMAAxADMANAA0ADQANQA5ADoAOgA6AD0APwBAAEEAQwBFAEYA
+SABLAEwATQBNAE8AUABSAFMAVgBYAFsAWwBfAF8AYABhAGMAZQBmAGgAawBtAG0AbgBt
+AG8AcAB0AHUAdwB5AHsAfAB8AH0AfQB8AHwAfAB8AH4AfgB9AHwAfQB9AHwAegB5AHcA
+dQBzAHEAbABtAG0AaABkAGIAYABeAFkAVgBTAFAATABIAEQAQAA9ADoANwA0AC4AKgAm
+ACIAHwAcABkAFgASABAADgAMAAkACAAHAAYABQAEAAMAAgD///7//f/8//v/+v/5//j/
++P/4//j/+P/3//b/9f/0//b/9v/2//b/+P/4//j/+P/4//j/+P/4//j/+P/4//j/+v/6
+//r/+v/4//7/AAD+//z//P/8//7/AAAAAP7/BgAOABQAIAA2AFYAdgCWALoA3AAAASoB
+TgFyAZoBvgHYAegB7AHkAdoB1gHMAbgBoAGMAXABTgEwARoBAgHoANIAwACwAJwAhgB4
+AHgAggCIAJQAqgDAANIA5ADoAN4A1ADIALgAmgByAEwAMAAUAPj/6v/s/+j/6P/u//L/
+7v/u/+v/6v/p/+j/5v/k/+L/4P/f/97/3f/c/9n/2P/X/9b/1P/U/9T/1P/S/9L/0v/S
+/9L/0v/S/9L/0P/Q/9D/0P/O/87/zv/O/8z/zP/M/8z/zP/M/8z/zP/M/8z/zP/M/8r/
+yv/K/8r/x//G/8X/xP/B/8D/v/++/7z/vP+8/7z/uv+4/7b/tP+y/7D/rv+s/6j/pv+k
+/6L/oP+e/5z/mv+W/5T/kv+Q/4z/iv+I/4b/g/+C/4H/gP99/3z/e/96/3r/ev96/3r/
+ev96/3r/ev9+/4D/gv+E/4j/jP+Q/5T/mf+e/6P/qP+u/7L/tv+6/73/wP/D/8b/yv/M
+/87/0P/R/9L/0//U/9f/2P/Z/9r/3P/e/+D/4v/k/+T/5P/k/+X/5v/n/+j/6v/q/+r/
+6v/q/+r/6v/q/+f/5v/l/+T/5P/k/+T/5P/k/+T/5P/k/+T/5P/k/+T/5P/k/+T/5P/i
+/+L/4v/i/+T/5P/k/+T/5P/k/+T/5P/i/+L/4v/i/+L/4v/i/+L/4v/i/+L/4v/k/+T/
+5P/k/+L/4v/i/+L/4//k/+X/5v/j/+L/4f/g/+L/4v/k/+T/5P/k/+b/5f/k/+T/5P/j
+/+L/4v/k/+T/5P/j/+P/5f/l/+X/4//j/+T/5v/i/+L/4f/h/+P/5P/k/+T/4v/i/+L/
+4//j/+L/4v/i/+T/5P/k/+X/4//j/+P/4//h/+H/4f/h/+P/4//j/+X/5f/j/+P/5f/l
+/+b/5v/m/+b/5f/l/+b/5//k/+P/4v/k/+T/5P/k/+T/4//i/+H/4f/h/+L/4//h/+X/
+7f/7/w4AKQBOAHQAkQCZAIYAaQBUADkAEADl/7X/e/8+//r+sv58/mX+Yf5r/ob+of67
+/tz+A/8f/zv/Wv9z/4z/pP+4/8b/0//f/+P/6f/x//n/+//+//7/AAAAAAMAAwADAAMA
+AwAEAAUABgAJAAcACAAKAAoADAAMAAwADgANAA0ADQAOABAAEQARABEAEQARABIAEgAS
+ABMAFAAVABMAEwATABMAFwAYABgAGAAbABsAHQAeABwAHAAdAB0AHgAeAB8AIQAkACQA
+JAAlACcAKAAoACgAKwAtAC4ALwAuAC8ALwAwADMANAA1ADUAOQA6ADwAPQA+AEAAQwBD
+AEUARQBGAEcARwBJAEoATABPAFEAUQBSAFMAVQBWAFoAWQBZAFkAWQBaAFoAWwBbAFwA
+XABcAFwAXABcAFsAWgBZAFkAWABWAFMAUQBPAE0ASwBIAEcARQBBAD8APAA4ADIAMAAs
+ACoAJwAjAB4AHAAWABMAEAANAAgAAwD///3//P/6//f/9v/3//T/8f/v/+7/7P/r/+v/
+6f/p/+r/6v/q/+n/6f/o/+r/6v/p/+n/6P/n/+b/5f/o/+j/5//n/+r/6//s/+3/6//r
+/+v/6//r/+z/7f/u/+z/7f/u/+//8f/x//H/8P/w//D/8P/w/+7/7v/u/+7/8f/x//L/
+8v/w/+7/7v/v/+//7f/s/+z/7P/t/+3/7P/r/+v/7P/s/+v/6//r/+n/5v/l/+T/4v/k
+/+X/5f/k/+H/3//f/+D/4f/h/+H/4v/f/9//3v/e/97/3v/d/9v/2//b/9r/2v/b/9v/
+2v/Z/9j/2P/X/9f/2f/a/9r/2P/W/9b/1//X/9j/1//X/9f/1P/U/9T/1f/V/9X/1P/U
+/9T/1f/V/9X/1f/T/9P/1P/V/9X/1f/V/9n/2f/Z/9n/3P/e/9//4P/k/+T/4//i/97/
+3P/b/9v/2f/Y/9f/1v/T/9L/0f/R/9D/z//P/8//zf/N/83/zP/J/8j/yf/K/8r/yv/K
+/8r/zP/M/8z/zP/L/8r/yf/I/8b/xv/G/8b/xv/G/8b/xv/G/8b/x//J/8j/x//H/8b/
+xv/G/8X/w//H/8f/x//H/8f/yP/K/8j/yP/H/8f/x//G/8b/xv/G/8T/xP/F/8X/xf/G
+/8f/yP/H/8b/xv/F/8b/x//I/8n/yP/H/8b/xf/F/8X/x//H/8X/xf/H/8f/yP/I/8j/
+yP/J/8n/yv/M/8j/yP/I/8j/yP/I/8j/yf/J/8n/yf/H/8f/yP/L/83/0f/Z/+n//v8d
+AEIAWgBlAF0ASAAxAB4A///a/7f/j/9X/xj/2P6c/nT+Yf5b/mv+iP6r/s3+6v4F/yH/
+O/9Q/2H/eP+M/6D/sP+9/8P/yf/R/9f/2f/b/+D/4P/i/+L/5f/k/+X/5v/n/+n/6f/p
+/+v/6f/q/+z/7P/q/+r/6v/s/+3/7f/t/+7/7v/v/+//7//v/+//8P/w/+7/7//w//H/
+8f/x//H/8f/z//T/9P/0//T/8//0//T/9P/0//X/9f/2//b/9//5//r/+v/6//v//f/+
+//7//v/9////AAABAAEAAwAEAAYABwAIAAkACQANAA4AEAARABAAEgAVABUAGQAZABoA
+GwAfACEAIgAkACUAJwAnACgAJwApACoALgAwADEAMgAzADYANgA3ADcAOAA4ADgAOAA4
+ADgANwA2ADMAMwAyADAAMAAvAC4ALQApACYAJQAjAB0AGwAYABQAEAAMAAgABAAAAP3/
++v/3//T/7v/q/+b/4v/d/9r/1//U/9H/zv/L/8j/xf/C/7//vP+5/7j/t/+2/7T/tP+0
+/7T/tP+0/7T/tP+2/7b/tv+2/7b/tv+2/7b/uP+4/7j/uP+4/7j/uP+4/7n/uv+7/7z/
+vP+8/7z/vP+9/77/v//A/8H/wv/D/8T/x//I/8n/yv/L/8z/zf/O/9D/zv/U/9b/1P/S
+/9b/1v/Y/9r/3P/e/+T/7P/4/wgAIAA6AFgAegCaAL4A4gAIATABWgF8AZYBpgGyAbgB
+uAGuAZ4BkAGCAWwBUAE2AR4BBgHuANQAvgCuAKAAigBqAFIATgBWAGQAdgCMAJwArADC
+ANAAygC+ALYApACGAGIAQgAmAAoA7v/e/9r/2P/Y/9z/3v/e/+L/3//e/93/3P/b/9r/
+2f/Y/9X/1P/T/9L/0f/Q/8//zv/O/87/zv/O/83/zP/L/8r/yv/K/8r/yv/J/8j/x//G
+/8j/yP/I/8j/xv/G/8b/xv/E/8T/xP/E/8P/wv/B/8D/vv++/77/vv+9/7z/u/+6/7n/
+uP+3/7b/s/+y/7H/sP+t/6z/q/+q/6f/pv+l/6T/oP+e/5z/mv+Y/5b/lP+S/47/jP+K
+/4j/hP+C/4D/fv98/3r/eP92/3T/cv9w/27/bv9u/27/bv9w/3D/cP9w/3P/dP91/3b/
+ev98/37/gP+F/4r/j/+U/5v/oP+l/6r/sP+0/7j/vP/A/8L/xP/G/8j/yv/M/87/0f/S
+/9P/1P/W/9j/2v/c/9//4P/h/+L/4v/i/+L/4v/l/+b/5//o/+r/6v/q/+r/6P/o/+j/
+6P/m/+b/5v/m/+b/5v/m/+b/6P/o/+j/6P/q/+r/6v/q/+v/7P/t/+7/7v/u/+7/7v/w
+//D/8P/w//L/8v/y//L/8v/y//L/8v/0//T/9P/0//b/9v/2//b/9P/0//T/9P/0//T/
+9P/0//L/8v/y//L/8//0//X/9v/2//b/9v/4//j/+P/4//j/9//2//b/+f/5//n/+v/8
+//z//P/7//n/+//7//v//f/9//7/AAAAAAAA/////wEAAgACAAIAAgACAAIAAwAFAAQA
+BAAEAAYABgAGAAcABwAHAAcABwAJAAkACQAJAAkACQAJAAsACwAJAAkACwALAAwADAAM
+AAsACQAIAAgADAAKAAoACgAIAAgACAAIAAsACwALAAsACQAJAAoACwAJAAkAEQAfADIA
+SwBwAJwAvwDLALoAnQCEAGcAPgARAN//pf9q/yr/4v6o/pP+l/6d/rT+1/7r/gL/J/9F
+/13/ev+X/7D/zP/i//L///8LABMAGwAhACcAKwAsACwALgAuADEANAA1ADYANwA1ADUA
+NQA3ADkAOgA8ADwAOgA6ADoAPAA+AD8AQABCAEIAQwBDAEMAQwBDAEQARABEAEUARgBH
+AEkASQBJAEkATQBOAE4ATgBNAE0ATwBQAFIAUgBTAFMAVABUAFUAVwBWAFYAVgBXAFsA
+XABcAFwAWwBdAF4AXwBhAGMAZABmAGUAZgBnAGcAaQBqAGwAbQBwAHIAdQB1AHcAdwB4
+AHkAfAB/AIEAhACGAIcAhgCGAIcAiQCKAI4AjACNAI4AjwCSAJIAkwCTAJIAkgCSAJIA
+lACUAJMAkgCRAJEAkACOAIsAiQCHAIUAgQB+AH0AewB3AHUAcgBuAGgAZgBiAGAAWgBV
+AE8ATABIAEUAQgA/ADoANQAxAC8ALAAqACcAJgAnACQAIQAfAB4AHAAbABsAGgAZABkA
+GAAYABcAFwAWABgAGAAXABcAGQAZABkAGQAYABgAFwAXABgAGQAaABsAGQAZABkAGQAb
+ABwAHQAeAB0AHQAdAB0AHQAdAB0AHAAaABoAGgAaABwAHAAcABwAHQAdAB4AHgAeABwA
+HAAdAB0AGwAaABoAGgAbABsAGgAXABcAGAAYABUAFQAVABMAFAATABIAEAAQABEAEQAQ
+AA8ADQANAA4ADAALAAoACgALAAsACgAKAAoACgAJAAcABwAHAAYABgAHAAcABgAFAAIA
+AgABAAEAAQACAAIAAAAAAAAAAQABAAAA/////////v/+//7//////////v/+//7/////
+/////f/7//v//P/9//3//f/9//3//f/9//3//v/+//3//P/8//z/+//6//n/+P/4//n/
++v/6//r/+v/9//7///8BAAIAAwAFAAcACQAJAAkACAAJAAYABwAEAAIAAAD+//z/+f/4
+//f/9v/0//T/9P/0//T/9P/0//T/8v/w/+7/7P/u//D/8v/0//P/8v/x//D/7v/u/+7/
+7v/t/+z/6//q/+z/7P/s/+z/6//q/+n/6P/q/+r/6v/q/+z/7P/s/+z/7P/s/+z/6//q
+/+r/6//r/+n/6v/q/+r/6P/n/+X/5//p/+n/6f/p/+j/6v/o/+j/5//n/+f/6P/o/+j/
+6P/o/+n/6//s/+z/6v/q/+r/6v/q/+v/6//r/+n/6f/p/+n/6//r/+v/6//p/+v/6//p
+/+f/6f/p/+r/7P/s/+z/6//q/+r/6//o/+j/6P/o/+j/6P/o/+n/6f/r/+v/6f/p/+r/
+6f/p/+3/9/8DABAAKQBQAHAAgQCHAH4AZQBKAC0ACgDp/8H/jf9Q/xD/0P6k/on+f/6L
+/qL+u/7d/vz+F/8z/0//ZP93/47/pv+6/8r/1f/d/+X/6f/v//X/9//6//z//v/+/wEA
+AAABAAIAAwADAAMAAwAFAAQABAAFAAQABgAGAAYACAAHAAcABwAIAAYABwAHAAcACQAJ
+AAoACgAIAAkACgALAAkACQAJAAkACwAMAAwADAANAA0ADwAQABAAEAARABEAEgASABMA
+FQAVABQAEwATABUAFgAWABYAFwAZABoAGwAZABsAHAAeAB0AHgAfAB8AIQAiACQAJQAm
+ACgAKwArAC8ALwAwADEANQA3ADgAOgA/AEEAQQBCAEYASQBLAFAAUABRAFIAUwBUAFQA
+VQBVAFQAVABUAFQAUABOAEsASABGAEUAQwBAAD0AOwA5ADcAMwAwAC8ALQApACcAJAAg
+ABkAFgARAA4ADAAFAAEA/v/6//j/9v/0/+//7P/p/+b/4//g/93/2v/X/9T/0f/O/8v/
+yv/J/8j/x//G/8X/xP/D/8L/wf/A/73/vP+7/7r/vP+8/7z/vP+6/7r/uv+6/7z/vP+8
+/7z/u/+6/7n/uP+4/7j/uP+4/7r/uv+6/7r/vP+8/7z/vP+8/7z/vP+8/77/vv++/77/
+wP/A/8D/wP/A/8L/xP/G/8b/xP/E/8T/xv/G/8j/zv/S/9r/6v/6/w4AJgBEAGIAggCi
+AMYA6gASAToBVgFsAXgBhAGMAYoBfgFsAV4BTAEwARIB9gDeAMQAqACOAHoAagBaAEgA
+MAAiAB4AJAAuAD4AUABeAGwAfgCOAIwAggB+AHIAWgA+ACIABADk/8b/tP+u/7D/sP+w
+/7L/tP+0/7P/sv+x/7D/rv+s/6r/qP+l/6T/o/+i/6H/oP+f/57/nv+e/57/nv+c/5z/
+nP+c/5r/mv+a/5r/mv+a/5r/mv+a/5r/mv+a/5n/mP+X/5b/lv+W/5b/lv+U/5T/lP+U
+/5P/kv+R/5D/j/+O/43/jP+L/4r/if+I/4b/hv+G/4b/hP+C/4D/fv99/3z/e/96/3j/
+dv90/3L/bv9s/2r/aP9m/2T/Yv9g/17/XP9a/1j/VP9S/1D/Tv9L/0r/Sf9I/0f/Rv9F
+/0T/RP9E/0T/RP9F/0b/R/9I/0z/Tv9Q/1L/Vf9Y/1v/Xv9h/2T/Z/9q/27/cv92/3r/
+f/+C/4X/iP+N/5D/k/+W/5n/nP+f/6L/pv+o/6r/rP+t/67/r/+w/7H/sv+z/7T/tP+0
+/7T/tP+2/7b/tv+2/7T/tP+0/7T/tP+0/7T/tP+y/7L/sv+y/7L/sv+y/7L/sP+w/7D/
+sP+w/7D/sP+w/7L/sv+y/7L/sP+w/7D/sP+y/7L/sv+y/7H/sP+v/67/sP+w/7D/sP+u
+/67/rv+u/6z/rP+s/6z/rP+s/6z/rP+s/6z/rP+s/6v/qv+p/6j/qP+o/6j/qP+o/6j/
+qP+o/6b/pv+m/6b/pP+k/6T/pP+m/6b/pv+m/6X/pP+j/6L/ov+i/6L/ov+g/6D/oP+g
+/6D/oP+g/6D/nv+e/57/nv+e/57/nv+e/57/nv+e/57/oP+g/6D/oP+e/57/nv+e/5z/
+nP+c/5z/nP+c/5z/nP+e/57/nv+e/5z/nP+c/5z/nv+e/57/nv+c/5z/nP+c/57/nv+e
+/57/nv+e/57/nv+e/57/nv+e/57/nv+e/57/nv+g/6D/oP+g/6D/oP+g/6D/oP+g/6D/
+oP+g/6D/oP+g/6D/ov+i/6L/ov+i/6L/ov+i/6T/pP+k/6T/pP+k/6T/pP+m/6b/pv+m
+/6T/pP+k/6T/pv+m/6b/pv+o/6j/qP+o/6r/qv+q/6r/qv+q/6r/qv+s/6z/rP+s/6z/
+rP+s/6z/rP+s/6z/rP+u/67/rv+u/7D/sP+w/7D/sP+w/7D/sP+y/7L/sv+y/7T/tP+0
+/7T/tP+0/7T/tP+0/7T/tP+0/7b/tv+2/7b/t/+4/7n/uv+6/7r/uv+6/7v/vP+9/77/
+wP/A/8D/wP/B/8L/w//E/8f/yP/J/8r/zP/M/8z/zP/O/87/zv/O/9D/0P/Q/9D/z//O
+/83/zP/J/8j/x//G/8T/xP/D/8L/xP/F/8X/xf/I/8j/yP/I/8j/x//K/8v/yf/J/8n/
+yv/O/8z/zP/L/8z/zf/P/9D/0v/S/9L/0v/W/9f/1//Y/9r/2v/a/9r/3f/d/93/3f/e
+/9//4P/h/+P/4//j/+P/6P/p/+j/6f/s/+3/7//w//L/8v/x//H/8//2//X/9v/3//j/
++f/6//z//f/9//3//v/9//7/AAABAAMACQARACEANgBRAHIAkACjAKMAigBtAFgAOwAS
+AO//y/+f/2b/KP/u/sb+s/6z/r/+1v7x/g3/Jv87/1P/c/+M/6H/vP/W/+r/9v8FAA8A
+FwAfACcAKwAvADIANAA2ADYAOQA6ADsAPAA9AD0APQA9AD8AQABCAEUARgBEAEQARABG
+AEgASQBKAEwATABNAE0ATQBLAEsATABMAE4ATwBQAFEAUwBTAFMAUwBTAFQAVABUAFcA
+VwBZAFoAWgBaAFsAWwBcAFwAXQBfAGAAYABgAGEAZQBmAGYAZgBlAGcAaABpAGcAaQBq
+AGwAbgBwAHIAcwB1AHYAeAB5AHgAegB9AH0AgQCBAIIAgwCHAIkAigCMAI8AkQCRAJIA
+kQCTAJQAmACYAJkAmgCbAJ4AngCfAJ8AogCiAKIAogCkAKQAowCiAKQApQClAKQApACj
+AKIAoQChAKAAogCfAJ4AnQCcAJgAlgCUAJIAjwCMAIkAhgCCAIAAfgB8AHkAdgBzAHAA
+awBoAGUAYgBeAFwAWgBYAFQAUgBQAE4ASwBKAEkASABHAEYARQBEAEIAQgBCAEIARABE
+AEQARABCAEIAQgBCAEQARABEAEQARABEAEQARABFAEYARwBIAEgASABIAEgASgBKAEoA
+SgBMAE4ATgBQAFAAUABQAE4AUABUAFYAVgBaAGYAdgCEAJwAvADeAAIBJAFIAW4BkgG0
+AdgB/gEiAjoCRAJEAj4COAIyAiICDAL6AeQBwgGiAYgBcAFWAUABLgEcAQwB9gDiANoA
+4ADoAPQABAEaATABQgFQAUwBPAEyASgBEAHuAMoAqACIAGgAUgBMAFAATgBOAFIAUABO
+AEsASgBJAEgARQBEAEMAQgBAAD4APAA6ADkAOAA3ADYANQA0ADMAMgAwADAAMAAwAC8A
+LgAtACwAKgAqACoAKgApACgAJwAmACUAJAAjACIAIAAgACAAIAAdABwAGwAaABcAFgAV
+ABQAEgASABIAEgAOAAwACgAIAAUABAADAAIA///+//3//P/4//b/9P/y/+7/7P/q/+j/
+5v/k/+L/4P/c/9r/2P/W/9H/zv/L/8j/xv/E/8L/wP++/7z/uv+4/7j/uP+4/7j/tv+2
+/7b/tv+4/7r/vP++/8H/wv/D/8T/yf/M/8//0v/X/9r/3f/g/+b/6v/u//L/9f/4//v/
+/v8CAAYACgAOABIAFgAaAB4AIQAkACcAKgAtAC4ALwAwADMANAA1ADYANAA0ADQANAA1
+ADYANwA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADYANgA2ADYAOAA4ADgAOAA4ADgA
+OAA4ADgAOAA4ADgAOgA6ADoAOgA6ADoAOgA6ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4
+ADgAOAA4ADgAOgA6ADoAOgA6ADoAOgA6ADgAOAA4ADgANgA2ADYANgA0ADQANAA0ADYA
+NgA2ADYANgA2ADYANgA2ADYANgA2ADgAOAA4ADgAOgA6ADoAOgA7ADwAPQA+AEAAQABA
+AEAAQABAAEAAQAA9ADwAOwA6ADYANAAyADAALQAsACsAKgAoACgAKAAoACgAKAAoACgA
+JgAmACYAJgAmACYAJgAmACUAJAAjACIAIgAiACIAIgAkACQAJAAkACIAIgAiACIAJAAk
+ACQAJAAkACQAJAAkACIAIgAiACIAIAAgACAAIAAgACAAIAAfAB4AHgAfAB8AHwAgAB4A
+HgAeAB0AHAAfACAAIQAgAB8AHwAgAB4AHgAdAB0AHwAgACAAIAAgACAAIAAhAB8AHgAe
+AB4AIAAgACAAIQAfAB8AHwAfAB0AHQAdAB0AHQAdAB0AHwAeABsAGgAbAB0AHgAeAB4A
+HQAbABoAGgAeABwAHAAcABoAGgAaABoAGwAbABsAGwAXABcAGAAZABkAGwAhAC0APgBV
+AHYAmgC1AMMAvAClAIoAawA+ABUA7/+9/4D/Pv/6/sL+of6X/p/+tv7P/u/+GP8z/0n/
+Z/+G/5n/rv/I/+D/8v/9/wUADQAXABsAIwApACgAKgAsACwALwAwADEAMgAzADMAMwAz
+ADUAMwA0ADYANgA2ADYANgA4ADcANwA3ADgANgA3ADcANwA3ADcAOAA4ADYANwA4ADkA
+NwA3ADcANwA5ADoAOgA6ADkAOQA7ADwAPgA+AD8APwA/AD4APgA/AEAAQABAAEEAQQBC
+AEIAQgBFAEcASABJAEkASwBMAE4ATgBOAE4ATQBPAFAAUgBTAFQAVgBZAFkAWwBbAFwA
+XQBdAF8AYABiAGUAZwBnAGgAaQBrAGwAcABwAHEAcgBzAHIAcgBzAHMAcgByAHIAcgBz
+AHQAdAB0AHUAdQB0AHIAbwBtAGsAaQBpAGYAZQBjAGEAXQBYAFYAVABSAFAASwBIAEUA
+QgA9ADoANwA0AC8ALAApACYAIQAeABsAGAAWABQAEgAQAA4ADAAKAAgABgAEAAIAAAD+
+//7//v/+//z//P/8//z/+v/6//r/+v/6//r/+v/6//r/+v/6//r//P/8//z//P/8//z/
+/P/8//3//v///wAAAAAAAAAAAAAAAAAAAAAAAAIABAAGAAYABgAGAAQAAgACAAQABAAI
+ABAAHAAqADgATgBsAIwArgDSAPQAGAE+AWIBiAGwAdIB6gH2AfYB7gHoAeIB1AG6AaIB
+kAFwAUoBMAEeAQIB6ADWAMgAtACaAIIAegB+AIQAiACUAKYAuADIANoA5gDeANAAygDE
+ALIAkABuAFQAOAAYAAIA/v/+//z//P/8/wAA///+//3//P/5//b/8//w/+7/7v/u/+7/
+7f/s/+v/6v/o/+j/6P/o/+b/5v/m/+b/5P/k/+T/5P/i/+L/4v/i/+T/5P/k/+T/5P/k
+/+T/5P/i/+L/4v/i/+H/4P/f/97/3v/e/97/3v/d/9z/2//a/9n/2P/X/9b/0//S/9H/
+0P/P/87/zf/M/8r/yP/G/8T/wv/A/77/vP+6/7j/tv+0/7D/rv+s/6r/p/+m/6X/pP+i
+/6D/nv+c/5v/mv+Z/5j/mP+Y/5j/mP+Y/5j/mP+Y/5v/nP+d/57/oP+i/6T/pv+q/67/
+sv+2/w==
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>10000</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>5000</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V3</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>4222200373</LeadDataCRC32>
+         <WaveFormData>
+JAAkACQAJAAmACYAJgAmACkAKgArACwALAAsACwALAAsACwALAAsAC4ALgAuAC4ALgAu
+AC4ALgAvADAAMQAyADIAMgAyADIANAA0ADQANAA0ADQANAA0ADYANgA2ADYANwA4ADkA
+OgA8ADwAPAA8ADwAPAA8ADwAPgA+AD4APgA/AEAAQQBCAEMARABFAEYASABIAEgASABI
+AEgASABIAEoATABOAFAAUQBSAFMAVABXAFgAWQBaAFwAXABcAFwAXQBeAF8AYABhAGIA
+YwBkAGIAYgBiAGIAYgBiAGIAYgBgAGAAYABgAF8AXgBdAFwAWQBYAFcAVgBUAFIAUABO
+AEsASABFAEIAQAA+ADwAOgA3ADYANQA0ADEAMAAvAC4ALAAqACgAJgAlACQAIwAiACIA
+IgAiACIAIQAgAB8AHgAdABwAGwAaABgAGAAYABgAGAAYABgAGAAaABoAGgAaABkAGAAX
+ABYAGAAYABgAGAAXABYAFQAUABUAFgAXABgAFwAWABUAFAAUABQAFAAUABIAEgASABIA
+FgAaABgAFAAUABoAHgAgACYAKgAqACwALgA4AEgAXAB2AJIAtADcAAYBLAFOAXIBmAG4
+AcQBxgHKAcwBugGcAX4BYAFAASAB/gDWALoAqACSAIIAdgBwAGYAXABYAFgAUABCADQA
+NgA8AD4AQgBMAFgAZABuAHgAdgBqAF4AVgBIADIAHAAOAAIA9v/u/+7/9v/8//7/AgAG
+AAgACAAIAAgABgAEAAIAAAD///7//f/8//z//P/8//z/+v/6//r/+v/4//j/+P/4//b/
+9v/2//b/9v/2//b/9v/2//b/9v/2//j/+P/4//j/9v/2//b/9v/4//j/+P/4//f/9v/1
+//T/8v/y//L/8v/w//D/8P/w/+7/7v/u/+7/7v/u/+7/7v/t/+z/6//q/+j/6P/o/+j/
+5v/m/+b/5v/k/+T/5P/k/+P/4v/h/+D/3v/e/97/3v/c/9z/3P/c/97/3v/e/97/3v/e
+/97/3v/h/+L/4//k/+f/6P/p/+r/7f/u/+//8P/y//T/9v/4//v//P/9//7//v/+//7/
+/v8AAAAAAAAAAAIAAgACAAIAAAAAAAAAAAD///7//f/8//r/+v/6//r/9//2//X/9P/z
+//L/8f/w/+7/7v/u/+7/7f/s/+v/6v/q/+r/6v/q/+j/6P/o/+j/6P/o/+j/6P/q/+r/
+6v/q/+j/6P/o/+j/5v/m/+b/5v/m/+b/5v/m/+b/5v/m/+b/5v/m/+b/5v/l/+T/4//i
+/+T/5P/k/+T/4v/i/+L/4v/i/+L/4v/i/+H/4P/f/97/3//g/+H/4v/g/+D/4P/g/+L/
+4v/i/+L/4P/g/+D/4P/g/+D/4P/g/97/3v/e/97/3v/e/97/3v/e/97/3v/e/9z/3P/c
+/9z/3P/c/9z/3P/c/9z/3P/c/97/3v/e/97/3//g/+H/4v/k/+b/6P/q/+r/6v/q/+r/
+6P/o/+j/6P/l/+T/4//i/+D/4P/g/+D/3f/c/9v/2v/Y/9j/2P/Y/9f/1v/V/9T/1v/W
+/9b/1v/Y/9j/2P/Y/9f/1v/V/9T/0v/Q/87/zv/O/87/z//Q/9H/0v/Q/9D/0P/Q/87/
+zv/O/87/0P/Q/9D/0P/Q/9D/z//P/8//z//P/8//0v/S/9H/0f/T/9P/0//T/9P/0//T
+/9P/0v/S/9P/0//V/9X/1f/V/9f/1//X/9f/2P/Y/9j/2f/Z/9j/2P/Y/9r/2//b/9v/
+2v/a/9r/2v/c/9z/3P/d/93/3P/c/93/3//f/+D/4P/h/+H/4f/i/+P/4//j/+P/5f/l
+/+X/5f/m/+b/5v/m/+f/6f/q/+v/7P/v//r/CwAbAC8ASgBjAHUAhQCPAJwArwC7ALoA
+tgCzAKIAgwBRABUA4P+7/5z/f/9r/1T/OP8q/zn/TP9g/3b/hf+V/63/wf/N/9b/3//p
+//D/9v/7//3///8CAAQABAAFAAQABAAEAAYABQAFAAUABgAEAAUABgAHAAcABwAHAAcA
+BgAGAAYABwAFAAUABQAGAAQABAADAAMABQAGAAgACAAGAAYABgAGAAYACAAIAAgACAAJ
+AAoACwALAAsACwAMAA4ADwAPABAAEgASABIAEgASABQAFAAUABMAEwAVABYAGAAYABoA
+GwAdAB8AHwAfAB8AIAAiACIAIwAlACYAJwAoACkAKQArACwALgAvAC8AMQAzADQANAA0
+ADUANgA3ADgAOQA7ADwAPAA8ADwAPAA7ADsAOwA7ADoAOgA5ADcAOQA4ADYANQAzADEA
+MAAuACwAKwAqACoAJgAkACIAIAAeABwAGgAYABYAFAASABAADgANAAwACwAKAAYABAAC
+AAAAAAAAAAAAAAD///7//f/8//z//P/8//z/+v/6//r/+v/4//j/+P/4//b/9v/2//b/
+9v/2//b/9v/0//T/9P/0//b/9v/2//b/9v/2//b/9v/0//T/9P/0//T/9P/0//T/9P/0
+//T/9P/2//j//P/8//z//v8AAAYADAAMAA4AHAAsADwAVAB4AKQAzgD0ABoBQAFkAYIB
+kgGYAZ4BoAGaAYoBcgFSATYBIgEGAeQAxACwAKAAigB4AGwAYgBWAEwASABCADoAMAAo
+ACoANAA2AD4ATABaAGYAcgByAGYAXABQAEIAMAAYAAAA8P/m/9z/2v/i/+b/7P/0//T/
+9P/2//P/8v/x//D/7//u/+3/7P/s/+z/7P/s/+r/6v/q/+r/6P/o/+j/6P/m/+b/5v/m
+/+b/5v/m/+b/5P/k/+T/5P/k/+T/5P/k/+T/5P/k/+T/4v/i/+L/4v/i/+L/4v/i/+T/
+5P/k/+T/4//i/+H/4P/e/97/3v/e/97/3v/e/97/3f/c/9v/2v/Y/9j/2P/Y/9b/1v/W
+/9b/1P/U/9T/1P/S/9L/0v/S/9H/0P/P/87/0P/Q/9D/0P/O/87/zv/O/9H/0v/T/9T/
+1f/W/9f/2P/c/97/4P/i/+X/6P/r/+7/8v/2//r//v8CAAQABgAIAAoACgAKAAoACgAK
+AAoACgAIAAgACAAIAAYABgAGAAYACAAIAAgACAAHAAYABQAEAAYABgAGAAYABAAEAAQA
+BAACAAIAAgACAAAAAAAAAAAA/v/+//7//v8AAAAAAAAAAAIAAgACAAIABAAEAAQABAAE
+AAQABAAEAAYABgAGAAYABgAGAAYABgAIAAgACAAIAAgACAAIAAgABgAGAAYABgAIAAgA
+CAAIAAoACgAKAAoADAAMAAwADAAKAAoACgAKAAoACgAMAAwADAAMAA0ADgAOAA8ADQAN
+AA0ADQAQABAADwAPAA8ADwAPAA8AEQARABEAEQAQABAAEQARABEAEQARABEAEwATABMA
+EwAUABQAFAAVABUAFAAUABQAEgATABMAEwASABIAEgASABIAEgASABMAEwASABIAEwAV
+ABUAFgAWABUAFQAVABYAFgAVABQAEwATABMAEwATABIAEgASABIAEgATABMAEwAWABcA
+HgApADsAUQBwAJEArwDFANMA3ADnAO8A6ADgANUAwACdAGcAIQDq/8n/qP+F/23/UP8y
+/zT/Tf9g/3T/jv+l/73/0//l//H/+v8FAA0AEgAWAB0AIQAjACQAJgAmACcAJgAmACYA
+KAArACsAKwAsACwALQAuAC8AMQAxADEAMQAwADAAMAAxADMAMwAzADQANAA0ADMAMwAz
+ADQANgA2ADYANgA2ADYAOAA6ADoAOgA6ADsAPAA9ADwAOwA6ADoAPAA9AD0APgBAAEAA
+QABAAEAAQgBCAEIARQBFAEcASABGAEYASABJAEkASwBLAEsATwBQAFIAUgBTAFUAVgBX
+AFgAWQBZAFsAWwBcAFwAWwBfAGEAYgBiAGIAYwBkAGUAZABjAGMAYgBkAGQAZABkAGMA
+YwBjAGMAYABgAF8AXQBbAFoAWABXAFMAUQBQAE4ASABHAEYARABCAEAAPgA6ADgANQAz
+ADIAMgAvACwALAAoACYAJAAjAB8AHQAcABoAGwAaABoAGQAWABUAFAATABIAEgARABEA
+EAAPAA8ADwANAA0ADQANAA8ADwAOAA0ADAAMAAsACgALAAwADQAOAA4ADgAQABIAEAAQ
+ABEAEQARABEAEQARABAAEgAUABQAFAAVABUAFQAVABYAFgAVABUAFgAXABcAGAAYABgA
+GQAXABcAFgAWABYAFAATABMAFAAWABYAFAASABIAEwATABQAEwATABIAEAAQAA8ADgAO
+AA8ADwAOAAwACwALAAwADgANAA0ADQAMAAwADAAJAAkACQAIAAcABQAFAAUABgAIAAgA
+BwAGAAQABAADAAMAAwAFAAUAAwACAAIAAwADAAMAAwAEAAQAAgACAAEAAQACAAIAAAAA
+AAEAAwADAAMABAADAAMABAADAAMAAwADAAYABwAGAAkADQAPAA8ADwATABMAEgAPAAwA
+CgAJAAgABgAGAAYABgADAAIAAQACAAAAAAABAAIAAAD///7//v/7//z//f/8//z//P/8
+//z//f/+////AAD9//z/+//6//j/+P/4//j/+P/4//j/+P/6//n/+f/5//f/9//3//j/
++P/3//f/9//4//n/+v/7//v/+//7//r/+v/7//v/+//5//n/+f/5//n/+f/5//r/+v/6
+//v/+//4//j/+P/4//r/+//8//z/+v/6//r/+v/6//r/+//7//r/+v/7//v/+//8//z/
++//9//3//v//////////////AAABAAIABAAEAAQABAAEAAUABwAHAAoADQAWACUANQBN
+AGwAgwCVAKUAtQDGANUA2QDUANIAywCyAIkATwATAOT/vf+U/3n/Z/9S/0D/Qv9V/2z/
+gv+S/6P/tf/J/9v/6//2//3/AwAKAA4AEQAVABkAGgAcABwAHQAcABwAHAAeACAAIQAi
+ACQAJAAlACYAJwAlACUAJQAlACgAKAAoACkAKwArACsALAAsACwAKwArACsALAAuAC4A
+LgAuAC4ALgAuADAAMAAwADAAMQAyADMAMwAzADMANAA2ADcANwA4ADoAOgA6ADoAPAA+
+AD4APgA9AD0APwBAAEIAQgBEAEUAQwBFAEUARQBHAEgASgBKAEwATwBRAFMAVABVAFUA
+VwBYAFoAWwBbAF0AXwBgAGAAYABhAGIAYwBlAGUAZgBmAGgAaABoAGgAaQBpAGkAaQBm
+AGYAZQBjAGMAYgBgAF8AXwBdAFwAWgBUAFMAUgBQAEwASgBIAEQAQAA9ADsAOgA6ADYA
+NAAyADAALgAsACoAKAAmACQAIgAgAB0AHAAbABoAFwAWABUAFAATABIAEQAQAA4ADgAO
+AA4ADAAMAAwADAAKAAoACgAKAAgACAAIAAgACAAIAAgACAAGAAYABgAGAAgACAAIAAgA
+BgAGAAYABgAGAAYABgAGAAgACAAIAAgACgAKAAoACgAMAAwADAAMAA4ADAAQABQAEgAS
+ABQAGAAcACIAJgAsADYARABWAHIAlAC4AOAABAEkAUwBdAGWAa4BugHAAb4BsgGgAY4B
+dgFUAS4BDAHyANQAuACmAJgAjgCGAH4AeAB0AHIAZABKADIALgA2AEAATABeAGgAcgCC
+AIwAhAB2AGoAWABEADAAHAAOAAIA9v/y//b/+P8AAAYACAAIAAoACAAIAAgACAAHAAYA
+BQAEAAQABAAEAAQAAwACAAEAAAACAAIAAgACAAAAAAAAAAAAAAAAAAAAAAD+//7//v/+
+//7//v/+//7//v/+//7//v/+//7//v/+//z//P/8//z//v/+//7//v/9//z/+//6//r/
++v/6//r/+f/4//f/9v/0//T/9P/0//P/8v/x//D/7f/s/+v/6v/o/+j/6P/o/+f/5v/l
+/+T/4//i/+H/4P/f/97/3f/c/9v/2v/Z/9j/2f/a/9v/3P/f/+D/4f/i/+X/5v/n/+j/
+7P/u//D/8v/2//r//v8CAAYACgAOABIAFAAWABgAGgAcABwAHAAcABoAGgAaABoAGAAY
+ABgAGAAWABYAFgAWABYAFgAWABYAFQAUABMAEgASABIAEgASABEAEAAPAA4ACwAKAAkA
+CAAHAAYABQAEAAIAAgACAAIAAgACAAIAAgAAAAAAAAAAAAAAAAAAAAAA/v/+//7//v/8
+//z//P/8//z//P/8//z/+v/6//r/+v/4//j/+P/4//j/+P/4//j/9//2//X/9P/y//L/
+8v/y//H/8P/v/+7/7v/u/+7/7v/u/+z/7P/s/+z/7P/s/+v/6v/o/+f/6f/p/+n/6f/p
+/+j/5v/l/+P/4//j/+P/4f/h/+H/4f/g/+D/4f/h/+H/4f/h/+H/3//f/9//3//e/97/
+3v/f/93/3P/c/9z/3P/d/93/3f/a/9r/2v/a/9z/3P/c/93/2//a/9r/2//d/93/3v/e
+/9z/2//a/9r/2//b/9v/2//b/9v/2//b/9z/3P/c/9z/3P/d/93/3f/c/9v/4P/v////
+EQAuAE8AbQCFAJMAmACfAKUAogCcAJUAiABxAEkACwDU/7n/pv+H/2P/Qv8e/wr/Gf8s
+/zz/VP9r/3//lf+p/7f/xP/N/9X/2v/i/+f/6f/p/+j/6v/q/+v/7f/u/+//8v/x//H/
+8f/y//T/9f/2//f/9f/1//X/9f/3//j/+f/7//v/+//7//z//P/8//v/+//9//7/AAAA
+AAAAAAAAAAAAAgAEAAQABAACAAMABAAFAAcABwAHAAgACAAJAAkACgAMAAwADAAMAA4A
+EAAQABAADwAPABEAEgASABIAFAAVABUAFwAXABcAGQAaABwAHAAbAB0AHgAfACAAIQAh
+ACMAJAAmACcAJwAnACkAKgAqACoAKwAsAC0AKwArACwALAAuAC4ALgAuACsAKwArACsA
+KgAqACkAJwAnACYAJAAjACEAHwAeABwAGAAXABYAFAAUABIAEAAMAAwACQAHAAYABgAD
+AAAAAAD///7//f/9//v/+f/4//b/9f/0//T/8//0//P/8v/x//D/8P/v/+//7v/t/+3/
+7f/s/+3/7v/v/+//7//u/+3/7//w//D/8P/w//D/8P/w/+7/7v/w//L/8P/w//H/8f/z
+//P/8//z//L/9P/2//b/9P/1//X/9f/1//b/9v/1//X/9v/3//f/+P/4//j/+f/7//v/
++v/6//r/+P/3//f/+P/6//r/+P/2//b/9//3//b/9f/1//T/9P/0//P/8v/0//X/9f/0
+//T/8//z//T/9P/z//P/8//0//T/9P/x//P/8//y//H/8f/x//H/8v/w//D/7//u/+7/
+7v/t/+3/7//x//H/7//s/+z/7f/t/+v/6//s/+z/7v/u/+3/7f/u/+7/7P/s/+3/7//v
+/+//7P/r/+v/7P/v/+//7//v/+//7//t/+//8P/x//D/7//x//H/8P/t/+7/7v/v//D/
+8P/w//D/8P/z//T/9f/4//v//P/+/wAAAgABAAAAAAD///7//f/8//v/+v/5//j/9//2
+//X/9P/y//L/8v/y//T/9P/0//T/8v/w/+7/7P/u//D/8v/0//L/8v/y//L/8f/w/+//
+7v/s/+z/7P/s/+3/7v/v//D/7v/u/+7/7v/u/+7/7v/u/+//8P/x//L/8v/y//L/8v/x
+//H/8f/x//H/8f/y//L/8f/x//H/8f/z//P/8//z//P/8//y//L/8//z//P/8//z//P/
+8//z//X/9f/2//b/9P/1//X/9P/0//T/9P/1//X/9f/0//T/9v/2//b/9v/2//f/9//2
+//b/9//3//f/+f/6//r/+//6//r/+v/5//n/+f/5//n/+f/5//r/+v/8//z//P/9//3/
++//8/wEACAATAB0AMQBOAGcAfQCRAKUAtADBAMkAyADGAMEAsgCVAGMAIwDy/83/pv+F
+/23/UP86/zL/Qf9U/2j/ev+N/5//s//J/9X/3v/n/+//9v/6////AQAFAAYACAAIAAkA
+CgAKAAoADAANAA0ADQAOAA4ADwAQABEAEQARABEAEQASABIAEgATABIAEQAQABAAEgAS
+ABEAEQAPABAAEgASABIAEgASABIAEAASABIAEgASABMAFAAVABUAFQAVABYAFgAXABcA
+GAAYABgAGAAYABYAGAAYABgAGwAbAB0AHgAeAB4AIAAhAB8AIQAhACEAIwAkACYAJgAp
+ACsALAAtAC4ALwAvADEANAA2ADcANwA6AD0APwBAAEMARQBHAEkASQBJAEoASgBKAEoA
+SgBKAEkASQBJAEkARgBGAEUAQwBBAD4AOgA3ADUAMwAyADAAKgApACgAJgAiACAAHgAa
+ABcAEwAQAA4ADAAJAAYABAABAAAA///+//z/+v/4//b/8//y//H/8P/u/+z/6v/o/+b/
+5v/m/+b/5f/k/+P/4v/g/+D/4P/g/9//3v/d/9z/3P/c/9z/3P/c/9z/3P/c/9z/3P/c
+/9z/2v/a/9r/2v/Y/9j/2P/Y/9r/2v/a/9r/3P/c/9z/3P/c/9z/3P/c/97/3v/e/97/
+4P/g/+D/4P/k/+T/5P/q/+z/6v/q/+7/8v/0//j/AgAQABwAMgBQAHAAkgC0ANYA+AAe
+AUQBZAF6AYQBhAF8AW4BXgFOATYBDgHmAMgAsACWAHwAbgBkAFgATABEAD4AOgA0ACYA
+EgAEAAAABgAOABoAJAAuADgARgBSAE4ARAA+ADIAIgAQAPz/6v/c/9D/yv/M/9T/2v/e
+/+L/5v/m/+X/5P/j/+L/4P/g/+D/4P/f/97/3f/c/9r/2v/a/9r/3P/c/9z/3P/a/9r/
+2v/a/9r/2v/a/9r/2v/a/9r/2v/c/9z/3P/c/9r/2v/a/9r/3P/c/9z/3P/c/9z/3P/c
+/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2f/Y/9f/1v/W/9b/1v/W/9X/
+1P/T/9L/0f/Q/8//zv/N/8z/y//K/8r/yv/K/8r/x//G/8X/xP/E/8T/xP/E/8T/xP/E
+/8T/xf/G/8f/yP/L/8z/zf/O/9L/1P/W/9j/2v/c/97/4P/j/+T/5f/m/+j/6v/s/+7/
+8f/y//P/9P/1//b/9//4//n/+v/7//z//P/8//z//P/6//r/+v/6//r/+v/6//r/+P/4
+//j/+P/4//j/+P/4//b/9v/2//b/9P/0//T/9P/0//T/9P/0//b/9v/2//b/9v/2//b/
+9v/2//b/9v/2//b/9v/2//b/+P/4//j/+P/4//j/+P/4//j/+P/4//j/+v/6//r/+v/4
+//j/+P/4//j/+P/4//j/+P/4//j/+P/6//r/+v/6//j/+P/4//j/+P/4//j/+P/4//j/
++P/4//b/9v/2//b/9v/2//b/9v/3//j/+f/6//n/+P/3//b/9v/2//b/9v/0//T/9P/0
+//X/9v/3//j/+P/4//j/+P/4//j/+P/4//j/+P/4//j/+v/6//r/+v/6//r/+v/6//r/
++v/6//r/+v/6//r/+v/8//z//P/8//r/+v/6//r//P/8//z//P/6//r/+v/6//z//P/8
+//z//P/8//z//P/6//r/+v/6//r/+v/6//r/+P/6//r/+v/6//r/+v/6//r/+v/4//j/
++P/4//b/9v/2//b/+P/4//j/+P/2//b/9v/2//b/9v/2//b/9P/0//T/9P/2//b/9v/2
+//X/9P/z//L/8v/y//L/8v/w//D/8P/w//D/8P/w//D/7v/u/+7/7v/u/+7/7v/u/+3/
+7P/r/+r/6v/q/+r/6v/o/+j/6P/o/+j/6P/o/+j/5v/m/+b/5v/l/+T/4//i/+T/5P/k
+/+T/5P/k/+T/5P/i/+L/4v/i/+D/4P/g/+D/4P/g/+D/4P/g/+D/4P/g/+L/4v/i/+L/
+4v/i/+L/4v/i/+L/4v/i/+P/5P/l/+b/5v/m/+b/5v/m/+b/5v/m/+T/5P/k/+T/5P/k
+/+T/5P/g/97/3P/a/9n/2P/X/9X/0//T/9P/0//T/9T/1P/T/9H/0f/R/9H/z//P/8//
+z//P/87/zv/P/83/zf/N/83/y//L/8v/y//N/87/zv/O/83/zf/M/8z/zP/M/83/zf/N
+/8z/zP/M/8r/yv/K/8r/zf/N/8z/zP/P/8//z//Q/87/zf/N/83/zv/P/8//z//P/8//
+z//P/9H/0v/S/9L/0P/Q/9H/0f/T/9T/2f/e/+v/+/8NACIAOwBRAGMAbwB6AIkAlQCY
+AJoAnQCcAIkAYQAvAAQA7f/W/7n/nf94/07/Mv8v/z7/VP9o/3n/jf+j/7P/v//K/9P/
+2f/i/+r/7//x//X/9v/4//j/+f/8//z//P/+/////////wAAAQADAAUABwAGAAUABAAD
+AAUABgAHAAkACQAJAAkACgAKAAoACQAJAAcACAAKAAoACwAMAA0ADgAMAA4ADgAOAA4A
+DwAQABEAEQARABEAEgASABMAEwAUABQAFAAUABQAFAAWABYAFgAVABUAFwAYABgAGAAa
+ABsAHQAfAB8AHwAfACAAIgAiACMAJQAmACcAKAApACkAKwAsAC4ALwAvADEAMwA0ADQA
+NgA3ADgAOQA7ADsAPAA8AD4APgA+AD4APwA/AD8APwA/AEAAQAA/AEEAQAA+AD0APQA7
+ADoAOAA4ADcAOAA1ADQAMwAyAC8ALgAtACwAKgAoACYAJAAjACIAIQAgAB0AHAAbABoA
+GQAYABcAFgAUABQAFAAUABMAEgARABAADwAOAA0ADAAKAAoACgAKAAoACgAKAAoACAAI
+AAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAKAAoACgAKAAgACAAIAAgACAAIAAgA
+CAAIAAgACgAOABAAEgASABQAGAAeACIAKgA4AEoAYAB+AKoA1AD6ACIBTAFuAY4BogGm
+AaYBqgGsAaIBjgF0AVgBQAEmAQYB5gDQAMAArACWAIoAfgB0AGwAZgBiAFwAVABIAEQA
+SgBQAFYAYABuAHoAhACMAIgAdgBqAGIAUgA8ACYAFAAGAPr/9P/4/wAABgAMAA4ADgAO
+AA0ADAALAAoACgAKAAoACgAIAAgACAAIAAYABgAGAAYABgAGAAYABgAEAAQABAAEAAIA
+AgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIABAAEAAQABAACAAIAAgACAAAAAAAA
+AAAAAgACAAIAAgD///7//f/8//r/+v/6//r/+v/6//r/+v/5//j/9//2//X/9P/z//L/
+8P/w//D/8P/v/+7/7f/s/+n/6P/n/+b/5v/m/+b/5v/k/+T/5P/k/+X/5v/n/+j/6v/q
+/+r/6v/u//D/8v/0//X/9v/3//j/+v/8//7/AAACAAQABgAIAAoADAAOABAAEAAQABAA
+EAARABIAEwAUABUAFgAXABgAGQAaABsAHAAbABoAGQAYABgAGAAYABgAFwAWABUAFAAS
+ABIAEgASABIAEgASABIAEgASABIAEgAQABAAEAAQAA4ADgAOAA4ADgAOAA4ADgAOAA4A
+DgAOAAwADAAMAAwADAAMAAwADAAMAAwADAAMAAoACgAKAAoACgAKAAoACgAIAAgACAAI
+AAgACAAIAAgACAAIAAgACAAIAAgACAAIAAYABgAGAAYABgAGAAYABgAEAAQABAAEAAIA
+AgACAAIABAAEAAQABAAGAAYABgAGAAgACAAIAAgACAAIAAgACAAJAAoACwAMAAwADAAM
+AAwADAAMAAwADAALAAoACQAIAAcABgAFAAQAAwACAAEAAAD///7//f/8//z//P/8//z/
++v/6//r/+v/4//j/+P/4//b/9v/2//b/9v/2//b/9v/4//j/+P/4//b/9v/2//b/+P/4
+//j/+P/4//j/+P/4//j/+P/4//j/+P/4//j/+P/4//j/+v/6//n/+f/5//n/+f/5//j/
++P/3//f/+f/5//n/+f/3//f/9//3//b/9v/3//f/+f/5//n/+f/5//n/+f/5//j/+P/4
+//n/+//6//r/+v/4//n/+f/5//r/+v/6//r/+P/4//j/+f/3//b/9v/3//n/+f/6//r/
+9//3//f/+P/5//n/+f/5//f/9//3//f/+P/4//j/+P/3//f/9v/1//j/+/8AAAkAGQAp
+AEAAWwB3AI8AoQCuALsAvwC4ALIAsQCkAIkAXQAdAOD/uf+Y/33/Zf9M/zT/LP8z/z7/
+Vv9w/4H/kf+l/7v/y//W/93/5f/u//L/+f///wEAAgAEAAQABQAGAAYABgAIAAkACQAJ
+AAoACAAJAAoACwALAAsACwALAAwADAAMAA0ADQANAA0ADgAOAA4ADQANAA0ADgAQABAA
+DgAOAA4ADgAQABIAEgASABAAEQASABMAFQAVABUAFgAUABUAFQAWABgAGAAYABgAGAAa
+ABoAGgAcAB0AIAAiACIAIgAkACUAIwAlACUAJQAnACgAKgAqACsALQAuAC8AMAAxADEA
+MwA0ADYANwA3ADkAOwA8ADwAQABBAEIAQwBDAEMARABEAEQARABEAEQAQwBDAEMAQwBD
+AEQARABDAEMAQgBAAD8APQA7ADoAOAA2ADUANAAyADAALgAqACcAJgAlACQAIgAgAB4A
+HAAZABgAFwAWABMAEgARABAADwAOAA0ADAALAAoACQAIAAgACAAIAAgABwAGAAUABAAE
+AAQABAAEAAIAAgACAAIAAAAAAAAAAAACAAIAAgACAAIAAgACAAIABAAEAAQABAAEAAQA
+BAAEAAUABgAHAAgACgAKAAoACgAKAAoACgAKAAwADAAQABIAFAAWABYAGAAcACAAJAAs
+ADoATgBkAIAApADMAPIAGgFGAWwBjAGoAbYBwAHKAc4BxgG0AZwBfAFiAUgBKgEGAewA
+3ADKALQApACeAJIAhACAAH4AdgBmAFQATgBWAFwAXABgAGoAdgCAAIwAlACKAHwAdABq
+AF4ASAAyACIAFgAKAAQABgAMABAAFgAYABoAGgAaABoAGgAZABgAFwAWABYAFgAWABYA
+FAAUABQAFAAUABQAFAAUABQAFAAUABQAEgASABIAEgAUABQAFAAUABUAFgAXABgAGAAY
+ABgAGAAYABgAGAAYABgAGAAYABgAGgAaABoAGgAaABoAGgAaABgAGAAYABgAFgAWABYA
+FgAYABgAGAAYABYAFgAWABYAFQAUABMAEgASABIAEgASABEAEAAPAA4ADgAOAA4ADgAM
+AAwADAAMAA4ADgAOAA4ADwAQABEAEgATABQAFQAWABgAGgAcAB4AIQAiACMAJAAmACgA
+KgAsAA==
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>10000</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>5000</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V4</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>2182061718</LeadDataCRC32>
+         <WaveFormData>
+/v/+//7//v8AAAAAAAAAAAMABAAFAAYABAAEAAQABAADAAIAAQAAAAAAAAAAAAAAAgAC
+AAIAAgACAAIAAgACAAIAAgACAAIAAAAAAAAAAAACAAIAAgACAAQABAAEAAQABgAGAAYA
+BgAGAAYABgAGAAgACAAIAAgABgAGAAYABgAHAAgACQAKAAoACgAKAAoADAAMAAwADAAK
+AAoACgAKAAsADAANAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADAAMAAwADAAMAAwA
+DAAMAAoACAAGAAQAAwACAAEAAAD///7//f/8//n/+P/3//b/9f/0//P/8v/v/+7/7f/s
+/+r/6P/m/+T/4v/i/+L/4v/j/+T/5f/m/+j/6v/s/+7/7v/u/+7/7v/w//L/9P/2//j/
++v/8//7/AAAAAAAAAAAAAAAAAAAAAP7//v/+//7//v/+//7//v///wAAAQACAP///v/9
+//z//P/8//z//P/6//r/+v/6//z//P/8//z/+//6//n/+P/2//b/9v/2//X/9P/z//L/
+9P/2//b/8v/0//r/AAAGAA4AFgAYABoAIAAwAEYAXgB+AKYA0gACAS4BUgFwAYwBpAGi
+AXQBMAH2AMoAkABMABQA5v++/5j/eP9c/1D/VP9a/2T/bv9+/47/mv+m/7L/uP+6/77/
+xv/O/9D/1v/g/+r/8v/6/wIABgAAAPr/+P/y/+b/3P/W/9T/0v/U/9j/4v/q//D/9v/8
+//7//v/+//7//v/+//7//v/8//z//P/8//3//v///wAAAAAAAAAAAAACAAIAAgACAAIA
+AgACAAIAAwAEAAUABgAGAAYABgAGAAkACgALAAwADAAMAAwADAANAA4ADwAQABIAEgAS
+ABIAFAAUABQAFAAVABYAFwAYABkAGgAbABwAHQAeAB8AIAAhACIAIwAkACcAKAApACoA
+LAAuADAAMgA0ADYAOAA6ADsAPAA9AD4AQABCAEQARgBJAEoASwBMAE4AUABSAFQAVwBY
+AFkAWgBcAF4AYABiAGQAZABkAGQAYgBiAGIAYgBhAGAAXwBeAFwAWgBYAFYAUQBOAEsA
+SABFAEIAPwA8ADcANAAxAC4AKwAoACUAIgAfABwAGQAWABIAEAAOAAwACAAGAAQAAgD/
+//7//f/8//r/+P/2//T/8v/y//L/8v/x//D/7//u/+z/7P/s/+z/6//q/+n/6P/q/+r/
+6v/q/+r/6v/q/+r/6P/o/+j/6P/m/+b/5v/m/+b/5v/m/+b/5v/m/+b/5v/l/+T/4//i
+/+L/4v/i/+L/4f/g/9//3v/e/97/3v/e/9z/3P/c/9z/3P/c/9z/3P/a/9r/2v/a/9z/
+3P/c/9z/2v/a/9r/2v/Y/9j/2P/Y/9b/1v/W/9b/2P/Y/9j/2P/W/9b/1v/W/9T/1P/U
+/9T/0v/S/9L/0v/S/9L/0v/S/9T/1P/U/9T/1v/W/9b/1v/Z/9r/2//c/97/3v/e/97/
+2//a/9n/2P/X/9b/1f/U/9L/0v/S/9L/0f/Q/8//zv/M/8z/zP/M/8v/yv/J/8j/yv/K
+/8r/yv/M/8z/zP/M/8n/yP/H/8b/xP/C/8D/wP/A/8D/wv/C/8L/wv/C/8L/wv/C/8D/
+wP/A/8D/wv/C/8L/wv/A/8D/v/+//8D/wP/A/8D/w//D/8L/wf/B/8L/wv/C/8H/wf/B
+/8D/wP/A/8D/wP/C/8L/wv/D/8H/wf/B/8T/wv/C/8H/wf/B/8H/wv/C/8L/wv/C/8H/
+wf/B/8H/wv/E/8T/xP/E/8L/w//D/8P/w//E/8T/xP/E/8P/w//F/8X/xf/F/8X/xf/F
+/8X/xv/G/8b/xv/G/8f/yP/I/8j/yf/L/9T/3//n/+7/9/8GABkAMgBWAIQAuADrABQB
+OwFnAY4BpAGbAXsBVwE0AfwAsQBZAPT/j/9W/07/U/9c/2j/b/94/4n/mf+h/6f/rf+0
+/7r/wP/D/8X/xv/F/8X/xf/H/8j/yP/I/8j/yP/I/8j/yP/I/8j/yP/L/8v/yv/K/8v/
+y//K/8r/y//K/8r/yv/K/8n/yP/H/8b/x//I/8n/yf/J/8n/x//H/8f/yP/I/8j/yv/K
+/8v/y//M/8z/y//K/8v/zP/O/9D/0v/S/9H/0f/U/9T/1f/V/9X/1f/W/9b/1v/X/9n/
+2f/b/9v/3P/c/9z/3f/e/97/3v/f/9//4P/i/+L/4v/i/+P/4//j/+T/5P/m/+b/5v/m
+/+f/5v/l/+f/5v/l/+X/5f/l/+T/4//i/9//3//f/97/3f/c/9n/2f/Z/9b/1f/V/9P/
+0P/N/8z/yf/L/8v/yP/F/8T/w//C/8L/wv/C/8L/wv/C/8L/wv/D/8T/xf/G/8j/yP/I
+/8j/y//O/9H/1P/W/9j/2v/c/9//4P/h/+L/5f/m/+f/6P/p/+r/6//s/+z/7P/s/+z/
+7P/s/+z/7P/s/+z/7P/s/+7/7v/u/+7/8P/w//D/8P/u/+7/7v/u/+7/7v/u/+7/8P/w
+//D/8P/u//L/+P/6//7/AgAIABAAGAAcACQANgBIAFwAfgCuAOAACAEsAUwBaAF8AXgB
+UgEcAeoAvgCOAFoALAD+/9z/wv+o/4r/eP90/3j/fv+C/4r/lP+c/6T/rP+0/7r/wv/G
+/87/2P/e/+T/8P/6/wIACAAKAAgABAD8//j/8v/m/9j/1v/W/9j/3P/k/+z/8v/6//z/
+/P/+//7//v/+//7//P/8//z//P/9//7///8AAAAAAAAAAAAAAAAAAAAAAAACAAIAAgAC
+AAQABAAEAAQABgAGAAYABgAIAAgACAAIAAsADAANAA4ADgAOAA4ADgARABIAEwAUABUA
+FgAXABgAGgAaABoAGgAbABwAHQAeAB8AIAAhACIAJQAmACcAKAArACwALQAuADAAMAAw
+ADAAMgA0ADYAOAA6ADwAPgBAAEMARABFAEYASABKAEwATgBPAFAAUQBSAFQAVgBYAFoA
+XABcAFwAXABdAF4AXwBgAGEAYgBjAGQAZQBmAGcAaABlAGQAYwBiAF8AXABZAFYAUQBO
+AEsASABDAEAAPQA6ADcANAAxAC4ALAAqACgAJgAjACAAHQAaABkAGAAXABYAEwASABEA
+EAAOAAwACgAIAAUABAADAAIAAQAAAP///v/+//7//v/+//7//v/+//7//v/+//7//v/8
+//z//P/8//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+P/4//j/+P/4//j/
++P/4//j/+P/4//j/+v/6//r/+v/5//j/9//2//j/9v/4//j/+P/4//r/+v/5//n/+f/4
+//f/9v/5//n/+P/3//f/+P/4//j/+f/5//n/+P/2//b/9v/2//b/9v/2//f/9f/1//X/
++P/4//j/9//3//f/9//4//j/9v/2//b/9f/z//P/8//0//T/9P/0//T/9P/1//X/9f/1
+//b/9v/2//b/9f/1//f/9f/1//X/9f/1//X/9f/2//T/9P/0//T/9f/2//b/9v/1//n/
+/v8FABEAHgAtAEAAWQB2AJgAwADyACMBSAFvAZcBugHMAb8BlwFvAU4BEgG5AFsA9P+b
+/3j/dv93/37/kP+h/7D/v//L/9P/2//h/+j/6v/u//X/+f/4//n/+f/5//v/+//6//n/
++P/6//r/+v/6//v//P/9/wEAAQAAAAAAAQABAAAAAAABAAIAAgACAAIAAgACAAIAAgAC
+AAIAAgABAAEAAQD/////AQACAAIAAgAEAAQABQAFAAUABAACAAAAAgACAAMABAAIAAgA
+BwAHAAYABgAHAAcACAAJAAsADAAMAA0ADwAPAA8ADwAQABAAEgATABQAFAAUABUAFQAW
+ABYAFgAWABYAFgAVABQAFAAWABgAGAAYABgAGQAYABcAFAASABAADwAQABEAEQARABAA
+DQANAA0ACgAJAAgABQACAAEA/f/7//3/+//4//X/8v/x//H/8f/v/+7/7v/s/+z/7P/s
+/+3/7//u/+7/7//y//L/9f/2//f/+P/5//v//v8AAAEAAwAEAAUABgAGAAUABgAHAAcA
+CAAKAAoACgAJAAgABwAGAAkACQAJAAgABwAGAAUABAAFAAYABwAJAAcABwAHAAcABQAF
+AAYABgAIAAgACAAIAAgACQAKAAoACAAIAAgACAAKAAsADAAMAAoADAAMAAwADAANAA0A
+DQAMAAwACwALAAsACgAKAAoACgAMAAwACwAMAAwADAAMAAoACgAJAAgACAAHAAcABwAH
+AAcABwAHAAQAAwADAAQABgAEAAQABQADAAEAAAAAAAIAAgABAAAA/v/+//7//v8AAP//
+/v/+//3//f/8//r/+v/7//v/+f/7//v/+//6//r/+v/6//r/+v/4//j/+f/4//j/9//0
+//f/+//5//j/9f/1//T/9P/2//b/9v/2//z/+v/3//n//P/+////AQABAAMAAAD+//3/
++//5//j/+P/4//j/+f/2//T/8//z//H/8v/y//T/8v/w//D/7//u/+7/7P/s/+7/7v/u
+/+7/8P/w//D/8P/u/+z/6v/o/+f/5v/l/+T/5v/m/+b/5v/m/+X/5f/m/+T/5P/k/+X/
+4//i/+H/4f/k/+T/5P/l/+f/5//m/+b/5P/k/+T/5P/i/+L/4//j/+H/4f/k/+T/5v/l
+/+X/5f/i/+L/4f/g/+P/5P/k/+X/5P/j/+P/4v/i/+L/4v/i/+H/4f/h/+H/4v/i/+L/
+4v/j/+P/5f/l/+T/4//i/+H/3//f/+D/4P/g/+D/4P/h/+L/4v/i/+X/5//s//X//f8I
+ABcAJgA5AFwAhgC4AO4AGwFAAWkBlwG2AbwBpwF/AVsBKAHcAIUAKwDM/33/YP9i/2n/
+dP+A/4n/lv+j/63/uf/D/8f/zP/Q/9b/1//Z/97/3f/d/93/3//e/97/3v/e/+D/4P/g
+/+D/4P/g/+D/4//i/+D/3//f/+H/4P/g/+H/4v/i/+L/4v/g/+D/4P/g/+D/4P/g/9//
+3//f/93/3f/f/+D/4P/g/97/3v/f/9//3v/e/93/3P/e/97/3//g/+D/4P/f/9//4P/g
+/+H/4f/f/9//4P/g/+D/4f/j/+P/4//j/+T/5P/k/+X/5v/m/+j/6f/p/+r/6v/q/+r/
+6v/r/+v/6//s/+z/7v/u/+7/7P/t/+z/6//r/+r/6f/p/+v/6//q/+n/6v/n/+f/5//k
+/+P/4v/f/+D/3//b/9n/2//Z/9b/0//S/9H/0f/R/9D/zv/N/8r/yP/I/8j/x//I/8b/
+xv/G/8b/yP/I/8j/yP/K/8r/yv/K/8v/zP/N/87/zv/O/87/zv/Q/9D/0P/Q/9L/0v/S
+/9L/0P/Q/9D/0P/Q/9D/0P/Q/9D/0P/Q/9D/zv/O/87/zv/O/87/zv/O/87/zv/O/87/
+zP/M/8z/zP/K/8r/yv/K/8j/yP/I/8j/yP/I/8j/yP/I/8j/yP/I/8r/xv/M/9D/0v/U
+/9j/3P/g/+b/7v/4/wQAFgAwAFQAfgCmAM4A7AAIASoBRgFMATgBEAHgALIAggBOACAA
++P/I/5j/eP9k/1T/SP9I/1D/Wv9o/3j/hP+O/5j/nP+S/4r/kP+Y/6L/rv+8/8T/zP/W
+/97/3P/U/87/xv++/7T/rP+o/6b/pP+m/67/tP+8/8T/xP/G/8j/yP/I/8j/yP/K/8r/
+yv/K/8r/yv/K/8r/yP/I/8j/yP/K/8r/yv/K/8z/zP/M/8z/zv/O/87/zv/O/87/zv/O
+/8//0P/R/9L/0//U/9X/1v/X/9j/2f/a/9z/3P/c/9z/3f/e/9//4P/h/+L/4//k/+f/
+6P/p/+r/7P/s/+z/7P/u/+7/7v/u//H/8v/z//T/9f/2//f/+P/7//z//f/+////AAAB
+AAIABQAGAAcACAAJAAoACwAMAA0ADgAPABAAFAAWABgAGgAbABwAHQAeAB8AIAAhACIA
+IwAkACUAJgAoACoALAAuADAAMAAwADAALgAsACoAKAAlACIAHwAcABkAFgATABAACwAI
+AAUAAgD+//z/+v/4//b/9P/y//D/7P/q/+j/5v/k/+T/5P/k/+H/4P/f/97/2//a/9n/
+2P/V/9T/0//S/9L/0v/S/9L/0v/S/9L/0v/Q/9D/0P/Q/9L/0v/S/9L/0P/Q/9D/0P/S
+/9L/0v/S/9L/0v/S/9L/0P/Q/9D/0P/S/9L/0v/S/9T/1P/U/9T/1v/W/9b/1v/U/9T/
+1P/U/9T/1P/U/9T/1f/W/9f/2P/a/9j/2P/Z/9r/2//c/9z/3P/b/9v/3f/e/9//4P/h
+/+H/4P/f/9//4P/g/+D/4f/h/+H/4P/h/+L/4//k/+b/5v/m/+f/5f/l/+X/6P/q/+r/
+6f/p/+r/6//t/+7/8P/w//D/7//x//H/8f/y//T/9P/0//T/9P/1//X/9f/3//j/+P/4
+//b/9f/1//f/+f/5//n/+f/5//n/+f/6//v//P/9//7///8AAAAAAAD/////BAANABcA
+IgAxAEQAVwBwAIwArgDSAPsAIAFHAXEBnAG+AcUBrQGPAXwBWgEPAakAPgDb/6D/kP+R
+/5b/ov+v/7z/zf/b/+H/5//v//T/+v/+/wEABQAEAAMAAwADAAUACAAIAAgACAAIAAgA
+CAAIAAoACgAKAA0ACwAKAAoACwANAAwADAANAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAN
+AA8ADwANAA0ADQAOAA4ADgAOAA4ADwAPABAAEAAPAA4ADgAOAA8AEAAQABAADwAPABIA
+EgATABMAEgARABEAEAASABMAFQAVABUAFQAWABYAFgAXABgAGAAWABcAFwAYABgAGAAY
+ABgAGQAZABkAGgAZABoAGQAYABgAGQAYABcAFgAUABIAEQARABEAEAAPAA0ACQAIAAcA
+BgAFAAQAAQACAAEA/f/7//v/+f/2//P/8v/x//H/8f/z//L/8v/w/+7/7v/u/+//8P/w
+//H/8//1//b/+v/8////AAABAAMABgAIAAkACwAOAA8AEAAQABAAEAAQAA8AEAASABIA
+EgASABIAEgASABEAEQARABAAEgASABIAEgASABIAEgATABIAEQAQAA8ADwAPABAAEAAS
+ABIAEgASABAAEQASABIAEgASABIAEgASABMAFAAUABQAFgAWABYAFgAXABcAFwAaABoA
+GQAZABkAGAAYABgAGAAaABoAGQAYABgAGAAYABgAGAAXABYAFgAVABUAFQAVABUAFQAV
+ABYAFQAVABYAFAASABIAEwAVABMAEgASABIAEgARABAAEAAQABAAEAAOAA0ADAAMAAsA
+CwAKAAgACgALAAsACQALAAsACwAKAAgACAAIAAgACgAIAAgACQAMAAwACwAIAAkADQAL
+AAoABwAHAAYABgAIAAgACAAIAAoACAAFAAcACAAIAAcABwAHAAkABgAEAAUABQAFAAYA
+BgAGAAYABwAKAAoACwANAA8AEAAQABIAFAASABIAEQAQAA4ADgAOAA0ADAALAAoACQAI
+AAcABgAEAAQABAAEAAYABgAGAAYAAwACAAEAAAADAAQABQAGAAUABAADAAIA///+//3/
+/P/6//r/+v/6//z//P/8//z/+//6//n/+P/5//r/+//8//7//v/+//7//v/+//7//v/9
+//3//v/+/wAAAAABAAEAAAD/////AAAAAAAAAQABAP///v/+//7//v/+//7//v/+////
+/////wEABAAEAAQAAwADAAMAAwAEAAQABAAEAAQAAwADAAMABQAGAAYABgAFAAQAAwAD
+AAMAAwADAAQABQAGAAcABwAFAAcABwAHAAcABwAHAAcACQAKAAoACgAKAAoACwAMAAwA
+DAANABEAFgAdACEAKgA5AEgAVwB0AJwAzAD+AC0BVAF9AakB0AHkAdsBtwGVAW4BMAHf
+AIUAIADH/5b/kP+V/57/qv+1/8D/z//d/+X/6//z//r//v8EAAcACQAKAAsACwALAA0A
+DgAOAA4ADgAOAA4ADgAOAA4ADgAOABEAEQAQABAAEQARABAAEAARABAAEAAQABAAEAAQ
+ABAAEAAQABAAEAAPABEAEQAPAA8AEAAQAA8ADgAQABAAEQARABIAEgARABAAEAAQABEA
+EgATABIAEAAPABIAEgATABMAEQARABIAEgASABMAFQAVABMAEwAUABQAFgAXABgAGAAY
+ABkAGQAaABwAHAAcABwAHwAfAB8AIAAiACQAJAAkACcAKQApACkAKAAmACQAIwAjACMA
+IgAhACAAHQAdAB0AHAAbABoAFwAVABMADgALAAsACQAGAAMA/v/9//3//f/8//r/+f/2
+//L/8P/u/+3/6//q/+r/6v/q/+r/6v/q/+3/7v/v//D/8P/w//D/8P/y//L/8v/y//T/
+9P/0//T/9P/0//T/9P/z//L/8f/w//D/8P/w//D/8P/w//D/8P/u/+7/7v/u//D/8P/w
+//D/7v/u/+7/7v/s/+z/7P/s/+z/7P/s/+z/6v/q/+r/6v/o/+j/6P/o/+r/6v/q/+r/
+6v/q/+r/6v/q/+j/7P/0//j/+P/6//z/AAAEAAwAGgAqAD4AWgB+AKYAzgDwAAwBKgFK
+AWQBaAFOAR4B6ACyAHwATAAiAPT/wv+W/3r/bP9k/2D/aP92/4D/iP+Y/6T/rP+y/7L/
+rP+o/6z/tP++/8j/zv/W/97/6v/y//T/8v/u/+j/4P/Y/9D/yP/E/8L/xP/K/9L/3P/g
+/+T/6v/s/+r/6v/q/+r/6v/q/+r/6v/o/+j/6P/o/+j/6P/o/+j/6f/q/+v/7P/q/+r/
+6v/q/+z/7P/s/+z/7v/u/+7/7v/v//D/8f/y//L/8v/y//L/9P/0//T/9P/2//b/9v/2
+//j/+P/4//j/+v/6//r/+v/7//z//f/+/wEAAgADAAQABgAGAAYABgAHAAgACQAKAAsA
+DAANAA4AEQASABMAFAAWABYAFgAWABgAGgAcAB4AIAAgACAAIAAjACQAJQAmACcAKAAp
+ACoALQAuAC8AMAAxADIAMwA0ADUANgA3ADgANgA2ADYANgAzADIAMQAwAC0ALAArACoA
+JgAkACIAIAAdABoAFwAUABAADgAMAAoABgAEAAIAAAD8//r/+P/2//T/8v/w/+7/7P/q
+/+j/5v/l/+T/4//i/+H/4P/f/97/3P/c/9z/3P/a/9r/2v/a/9r/2v/a/9r/2P/Y/9j/
+2P/Y/9j/2P/Y/9j/2P/Y/9j/2v/a/9r/2v/a/9r/2v/a/9n/2P/X/9b/1v/W/9b/1v/W
+/9b/1v/W/9T/1P/U/9T/0v/S/9L/0v/S/9L/0v/S/9D/0P/Q/9D/zv/O/87/zv/Q/9D/
+0P/Q/8//zv/N/8z/zP/M/8z/zP/M/8z/zP/M/8r/yv/K/8r/yv/K/8r/yv/J/8j/x//G
+/8j/yP/I/8j/xv/G/8b/xv/G/8b/xv/G/8j/yP/I/8j/yP/I/8j/yP/G/8b/xv/G/8T/
+xP/E/8T/xP/E/8T/xP/E/8T/xP/E/8L/wv/C/8L/wv/C/8L/wv/A/8D/wP/A/8L/wv/C
+/8L/wP/A/8D/wP++/77/vv++/77/vv++/77/vv++/77/vv++/77/vv++/77/vv+8/7z/
+vP+8/7z/vP+8/7z/vP+8/7z/vP+8/7z/vP+8/7z/vP+8/7z/vP+8/7z/vP+8/7z/vP+8
+/7r/uv+6/7r/vP+8/7z/vP+8/7z/vP+8/7z/vP+8/7z/vP+8/7z/vP++/77/vv++/77/
+vv++/77/vv++/77/vv++/77/vv++/7//wP/B/8L/wP/A/8D/wP/A/8D/wP/A/8L/wv/C
+/8L/xP/E/8T/xP/C/8L/wv/C/8L/wv/C/8L/w//E/8X/xv/G/8b/xv/G/8j/yP/I/8j/
+yv/K/8r/yv/M/8z/zP/M/83/zv/P/9D/0P/Q/9D/0P/Q/9D/0P/Q/9D/0P/Q/9D/0v/S
+/9L/0v/R/9D/z//O/8z/zP/M/8v/y//M/8z/zP/M/83/zf/M/8n/yf/K/8r/yP/J/8n/
+yf/I/8j/yP/I/8r/yv/K/8r/yf/J/8n/yf/M/8z/zP/L/83/zf/N/87/zv/O/87/zv/P
+/8//z//P/87/zv/O/87/z//Q/9L/0//U/9X/1//Y/9j/2P/X/9f/2f/Z/9n/2f/b/9v/
+2//b/97/3v/e/97/3v/f/+D/4P/g/+P/5//q//P/+/8AAAcAFAAlAD4AXACCAK4A2wAC
+ASkBWwGQAbIBuQGpAZMBggFeARsBwwBWAOX/mv+A/4H/iP+S/5v/qP+1/7//xf/P/9X/
+2P/e/+T/5//p/+z/7//v/+//8f/y//L/8v/y//L/8v/y//L/8//0//X/+f/4//b/9f/1
+//b/9v/3//n/+P/4//j/+P/4//j/+P/4//j/+P/4//f/+P/5//j/+f/6//r/+f/4//j/
++P/5//n/+v/6//n/+P/6//r/+//8//3//P/6//n/+v/6//v/+//7//v//P/8//r/+//9
+//3//////wAAAAD+////AAAAAP7//////wAAAAAAAAAAAAABAAEAAQACAAAAAgACAAIA
+AgADAAIAAQABAAAA/////wEAAQAAAP//AAD9//3//f/+//3//P/5//v/+//4//f/+f/3
+//T/8f/y//P/9v/1//T/8//y//D/8P/w//D/7v/u/+7/7v/v//D/8f/y//X/9v/3//j/
++//8//3//v8AAAIABAAGAAkACgALAAwADQAOAA8AEAARABIAEwAUABYAFgAWABYAGAAY
+ABgAGAAYABgAGAAYABoAGgAaABoAGgAaABoAGgAcABwAHAAcABwAHAAcABwAHAAcABwA
+HAAcABwAHAAgACQAKAAsADIAOAA+AEgAVABmAHwAmADCAPQAJgFMAW4BkgGuAbgBoAFq
+ATIBCAHeALAAgABUAC4ADgD0/9T/vP+0/7b/uP+6/8D/yv/Q/9j/4P/o//D/+v/8//7/
+BgAQABYAHgAqADIANgA8AD4ANAAuACwAJAAcABIACgAIAAgACgASABoAIgAqAC4ALgAw
+ADAAMAAwADAAMQAyADMANAA0ADQANAA0ADUANgA3ADgAOQA6ADsAPAA9AD4APwBAAEIA
+QgBCAEIARABEAEQARABGAEYARgBGAEgASABIAEgASQBKAEsATABOAE4ATgBOAFAAUABQ
+AFAAUwBUAFUAVgBUAFQAVABUAFUAVgBXAFgAWQBaAFsAXABeAF4AXgBeAF8AYABhAGIA
+ZABmAGgAagBsAGwAbABsAG4AbgBuAG4AcAByAHQAdgB3AHgAeQB6AH0AfgB/AIAAgQCC
+AIMAhACFAIYAhwCIAIgAiACIAIgAhgCGAIYAhgCFAIQAgwCCAIAAfgB8AHoAdwB0AHEA
+bgBsAGoAaABmAGQAYgBgAF4AXABaAFgAVgBSAFAATgBMAEkASABHAEYARABCAEAAPgA8
+ADwAPAA8ADoAOgA6ADoAOgA6ADoAOgA4ADgAOAA4ADYANgA2ADYANAA0ADQANAA0ADQA
+NAA0ADIAMgAyADIAMgAyADIAMgAwADAAMAAwAC4ALgAuAC4ALgAuAC4ALgAuAC4ALgAu
+AC0ALAArACoALAAsACwALAAuAC4ALgAuAC0ALAArACoAKAAoACgAKAAoACgAKAAoACYA
+JgAmACYAJgAmACYAJgAoACgAKAAoACgAKAAoACgAKgAqACoAKgAsACwALAAsACwALAAs
+ACwAKgAqACoAKgApACgAJwAmACYAJgAmACYAIwAiACEAIAAeAB4AHgAeABwAHAAcABwA
+GwAaABkAGAAYABgAGAAYABcAFgAVABQAEgASABIAEgATABQAFQAWABUAFAATABIAFAAU
+ABQAFAAUABQAFAAUABQAFAAUABQAEgAQABIAEgASABIAFAAUABMAEwAUABQAFAAUABQA
+EwARAA8AEAASABMAFAAUABMAEgAQABAAEAAQABAAEQASABMAFQATABMAEwAWABQAFAAT
+ABMAEwATABQAFAASABIAEgARABMAEwATABQAEgASABIAEgAQABEAEQARABMAFAAUABQA
+FAATABMAFQATABMAEwATABMAEwATABQAFAAUABQAFAATABQAFAAUABUAFwAaACEAKwAy
+ADsASgBbAHgAmADAAPAAGwE+AWMBjwG2Ac4B0QGxAYcBZAE0Ae0AnQA8AOH/qP+U/5P/
+nP+s/7f/wv/R/9//6f/v//P//P8CAAYACwARABAAEQARABEAEwAWABYAFgAWABYAFgAW
+ABYAFgAWABYAGQAXABYAFgAXABcAFgAWABcAFgAWABYAFgAYABgAGAAYABgAGAAYABcA
+FwAXABUAFQAXABgAGAAYABYAFgAXABcAGgAaABkAGAAaABoAGwAcABwAHAAbABsAGgAa
+ABsAGwAeAB8AIQAiACIAIwAlACUAJAAjACMAIgAiACMAJAAkACQAJQAlACYAJgAmACYA
+JgAnACcAJwAoACgAKgAqACoAKQArACsAKwAsACoAKAAnACcAJwAmACUAJAAhACEAIQAg
+AB8AHgAbABwAGwAXABUAFQATABAADQAMAAsACwALAAcABgAEAAMAAgABAAAA/v/+//7/
+/v8AAAAAAAAAAAMABAAFAAYACQAKAAsADAAPABAAEQASABMAFAAVABYAGAAYABgAGAAZ
+ABoAGwAcABoAGgAaABoAGAAYABgAGAAaABoAGgAaABgAGAAYABgAGgAaABoAGgAaABoA
+GgAaABgAGAAYABgAFgAWABYAFgAWABYAFgAWABgAGgAcAB4AIgAoACoALgA0ADoAQABM
+AGAAdgCWAL4A7AAYAT4BZAGKAagBtgGqAYIBUAEkAfoAyACUAGQANgAQAPT/1v+8/67/
+sP+2/7j/wP/Q/9j/3P/m//D/9P/0//T/9v8AAAoACgAOABYAIAAoADAAOAAyACoAKAAk
+ACAAFgAMAAYAAgAAAAQACgAQABgAHgAiACYAKAAoACgAKAAmACYAJgAmACgAKAAoACgA
+KgAqACoAKgAsACwALAAsACwALAAsACwALQAuAC8AMAAyADIAMgAyADUANgA3ADgAOgA6
+ADoAOgA7ADwAPQA+AEAAQABAAEAAQwBEAEUARgBIAEgASABIAEkASgBLAEwATQBOAE8A
+UABSAFQAVgBYAFsAXABdAF4AXwBgAGEAYgBkAGYAaABqAGwAbgBwAHIAdAB2AHgAegB8
+AH4AgACCAIYAiACKAIwAjwCQAJEAkgCVAJYAlwCYAJoAmgCaAJoAmACYAJgAmACXAJYA
+lQCUAA==
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>10000</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>5000</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V5</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>1657677768</LeadDataCRC32>
+         <WaveFormData>
+7v/u/+7/7v/u/+7/7v/u//D/8P/w//D/8P/w//D/8P/t/+z/6//q/+f/5v/l/+T/5P/k
+/+T/5P/k/+T/5P/k/+P/4v/h/+D/4P/g/+D/4P/e/97/3v/e/+D/4P/g/+D/3v/e/97/
+3v/c/9z/3P/c/9z/3P/c/9z/2v/a/9r/2v/b/9z/3f/e/93/3P/b/9r/2P/Y/9j/2P/Y
+/9j/2P/Y/9j/2P/Y/9j/1//W/9X/1P/S/9L/0v/S/9D/zv/M/8r/yP/I/8j/yP/H/8b/
+xf/E/8D/vv+8/7r/uP+2/7T/sv+v/67/rf+s/6n/qP+n/6b/pf+k/6P/ov+g/6D/oP+g
+/57/nv+e/57/nv+e/57/nv+h/6T/p/+q/7D/tP+4/7z/v//C/8X/yP/O/9L/1v/a/+D/
+5P/o/+z/8P/y//T/9v/5//r/+//8//7//v/+//7///8AAAEAAgAEAAQABAAEAAMAAgAB
+AAAAAAAAAAAAAAD+//7//v/+/wAAAAAAAAAA/v/+//7//v/9//z/+//6//r/+v/6//r/
++v/8//z/9v/2//z/BAAQAB4AKAAoACYALAA6AEoAWgBwAJIAsgDOAOAA6ADqAOwA2ACa
+AC4AtP9e/zD//P6+/pr+kP6G/nz+eP58/or+pP7A/tz+9P4Q/y7/Rv9Y/2r/fP+K/5j/
+pP+u/7L/vP/E/8z/0v/Y/97/4v/i/+D/4v/g/97/2v/a/9z/4P/k/+z/9v/+/wIABgAM
+AA0ADgAPABAAEAAQABAAEAAQABAAEAAQABEAEgATABQAFAAUABQAFAAWABYAFgAWABgA
+GAAYABgAGQAaABsAHAAeAB4AHgAeACAAIgAkACYAKAAoACgAKAArACwALQAuADAAMAAw
+ADAAMgA0ADYAOAA6ADwAPgBAAEIARABGAEgATABOAFAAUgBWAFgAWgBcAGEAZABnAGoA
+bwByAHUAeAB9AIAAgwCGAIkAjACPAJIAlQCYAJsAngChAKQApwCqAK4AsACyALQAtgC2
+ALYAtgC4ALgAuAC4ALYAtACyALAArQCqAKcApACgAJwAmACUAI4AigCGAIIAfAB2AHAA
+agBkAF4AWABSAE0ASABDAD4AOgA2ADIALgAqACYAIgAeABoAGAAWABQAEQAOAAsACAAH
+AAYABQAEAAEAAAD///7//f/8//v/+v/6//r/+v/6//j/+P/4//j/9v/2//b/9v/4//j/
++P/4//b/9v/2//b/9v/2//b/9v/0//T/9P/0//b/9v/2//b/9v/2//b/9v/1//T/8//y
+//L/8v/y//L/8P/w//D/8P/y//L/8v/y//D/8P/w//D/8v/y//L/8v/y//L/8v/y//L/
+8v/y//L/8P/w//D/8P/y//L/8v/y//D/8P/w//D/8v/y//L/8v/y//L/8v/y//T/9P/0
+//T/8v/y//L/8v/y//L/8v/y//T/9P/0//T/9f/2//f/+P/7//z//f/+//7//v/+//7/
+/f/8//v/+v/4//j/+P/4//j/+P/4//j/9//2//X/9P/0//T/9P/0//L/8v/y//L/9P/0
+//T/9P/2//b/9v/2//P/8v/x//D/8P/w/+//7v/t/+z/7P/s/+z/7P/u/+7/7v/u/+z/
+7P/s/+z/7v/u/+7/7v/s/+z/7P/s/+z/7P/s/+z/7v/u/+7/7f/v/+//8P/w/+3/7f/u
+/+7/7P/s/+3/7f/u/+//8P/y//L/8v/z//T/9P/0//T/9P/z//P/9P/0//T/9P/0//T/
+8//z//P/9P/0//T/9P/0//T/9P/0//T/9f/1//b/9v/2//b/9v/2//f/9//2//b/9v/2
+//b/9v/2//b/9//3//r//P/6//r/+f/7////BAACAP7/+f/5/wEAGgBCAHAAqADmACMB
+YQG0ARICXwKSAqsCrwKeAmkCCAKIAfQAcwAgAPP/2v/O/8n/xf/E/8r/zv/N/8//0f/U
+/9n/3//i/+P/4v/l/+b/5v/m/+b/5v/m/+f/5f/l/+X/5f/l/+X/5f/m/+b/5v/m/+b/
+5v/m/+b/5v/m/+b/5v/n/+X/4//j/+L/5P/k/+X/5f/k/+T/5P/j/+H/4v/i/+L/4v/i
+/+L/4v/i/+H/4f/g/+D/4f/h/+H/4v/i/+D/3//h/+L/4v/i/9//3//f/97/3v/f/9//
+3//h/+D/4P/f/93/3v/e/93/2//b/9v/2v/a/9n/2f/Z/9v/2f/Z/9n/1//X/9b/1f/S
+/9L/0f/Q/9D/z//P/87/y//K/8j/yP/D/8P/wP+//73/u/+5/7b/t/+1/7P/sv+w/63/
+rP+q/6j/pf+l/6X/pP+j/6L/of+g/6D/oP+g/6D/ov+i/6L/ov+l/6j/q/+u/7H/tP+3
+/7r/v//E/8n/zv/T/9b/2f/c/9//4v/l/+j/7P/u//D/8v/1//b/9//4//r/+v/6//r/
++v/6//r/+v/4//j/+P/4//j/+P/4//j/+P/4//j/+P/3//b/9f/0//L/8v/y//L/8v/y
+//L/8v/u//L/9v/6/wAACAAQABgAHAAeACYANABAAEoAZACKAKoAvADGAMwA0ADEAJQA
+PgDk/57/av84/wj/6P7Y/s7+xv68/rr+vv7I/tz+9P4G/xj/LP8+/0z/XP9s/3z/jP+Y
+/6T/rv+2/7z/xP/K/9D/1P/W/9j/2v/a/9r/2v/W/9D/0P/Y/9z/4P/o/+7/9v/8//7/
+/P8AAAAAAAAAAAAAAgACAAIAAgAEAAQABAAEAAYABgAGAAYABgAGAAYABgAIAAgACAAI
+AAoACgAKAAoACwAMAA0ADgAQABAAEAAQABMAFAAVABYAFwAYABkAGgAdAB4AHwAgACIA
+JAAmACgAKwAsAC0ALgAxADIAMwA0ADYAOAA6ADwAQABCAEQARgBJAEwATwBSAFUAVgBX
+AFgAXQBgAGMAZgBpAGwAbwByAHQAdgB4AHoAfgCAAIIAhACGAIgAigCMAI0AjgCPAJAA
+jwCOAI0AjACLAIoAiQCIAIUAhACDAIIAgAB+AHwAegB1AHIAbwBsAGUAYABbAFYAUQBM
+AEcAQgA8ADgANAAwACwAKAAkACAAHAAaABgAFgATABAADQAKAAcABgAFAAQAAQAAAP//
+/v/8//r/+P/2//P/8v/x//D/7v/u/+7/7v/s/+z/7P/s/+r/6v/q/+r/7P/s/+z/7P/q
+/+r/6v/q/+r/6v/q/+r/6v/q/+r/6v/q/+r/6v/q/+r/6v/q/+r/6P/o/+j/6P/q/+r/
+6v/q/+r/6v/q/+r/7P/s/+z/7P/q/+r/6v/q/+r/6P/q/+r/6v/q/+r/6v/q/+r/6v/q
+/+r/6v/s/+z/7P/r/+v/6//s/+z/6//r/+z/7P/o/+j/6f/p/+n/6f/p/+r/6P/o/+n/
+6v/s/+z/7P/s/+3/7f/u/+7/6//q/+n/6P/p/+n/6f/q/+z/7P/s/+z/6v/q/+r/6v/r
+/+v/7P/s/+7/7v/u/+7/7f/t/+z/7P/s/+z/7P/s/+r/6v/r/+v/7P/u/+z/7P/r/+3/
+8f/0//b/+P/5//v/BwAiAEYAdACuAOwAKwFrAbwBFAJfAo4CmwKdApACUQLgAVgBzgBf
+ABgA6f/M/8D/vf+//8T/xv/I/8n/zf/P/9D/0//X/9z/3f/e/93/3v/e/97/3P/c/9z/
+3f/d/93/3f/d/93/3f/d/97/3v/e/97/3v/e/97/3v/e/97/3v/e/9//3//d/93/3P/c
+/9z/3f/d/9z/3P/c/9v/3f/e/97/3v/e/97/3v/e/97/3f/d/9z/3v/f/9//3//i/+L/
+4P/f/97/3v/d/9z/3f/d/93/3P/c/93/3f/d/93/3P/c/9v/2//c/9z/2//d/93/3f/c
+/9r/2f/Z/9n/2P/V/9T/0//T/9P/0v/R/9L/0v/R/9D/zP/J/8f/xP/F/8T/wv/C/73/
+vf+6/7n/tf+z/7H/rv+s/6n/pv+k/6T/of+g/57/nP+b/5v/m/+b/5v/nP+c/53/nv+f
+/6L/p/+p/6v/r/+z/7n/v//C/8b/y//P/9H/1//c/+H/5//n/+r/7f/u//H/8//3//j/
++P/7//z//f/9//3//P/8//3///8AAAEA/v/9//z/+//8//3//v////3//f/+//7/+//5
+//n/+v/8//z//P/9//3//f/9//3//f/8//z//f/7//3//f/9////AAAAAAAAAQACAAIA
+AwADAAIAAgACAAAA///+//7/AAACAAMAAwABAAEAAgACAAIAAgABAAEA//////7//v//
+//////////3//P/8//7/AAAAAAAAAAD+//7//f/6//7///////7//v/+//7//v//////
+/v/+//7//v/8//z//P/9//3/+//7//z//f/9/wAAAAAAAP///f/8//z/+//6//r/+P/4
+//n//f/+//3//P/7//v/+//8//z//P/9/wEAAQD/////BAAGAAYABgAIAAoABwAFAAQA
+AgAAAP//AgACAAIAAwAAAP/////+//z/+//7//z//f/9//v//f/9//v/+v/6//v//P/9
+//7//P/8//z//P/5//j/9//2//T/9P/0//T/9P/0//T/9P/2//b/9v/2//T/9P/0//T/
+9P/0//P/8//1//b/9v/1//f/+P/4//b/9P/1//X/9f/z//P/9P/0//T/9f/2//b/+P/4
+//j/9//0//T/8//y//X/9v/3//f/9v/1//X/9P/0//T/9P/0//b/9v/2//f/9//4//j/
++P/6//r/+v/7//r/+P/3//b/9v/2//b/9v/4//n/+f/6//r/+v/8/////////wIAAAD8
+//3///8NACwAWACOAM4ADgFLAZUB8AFIAosCsgK9ArUCjgI5AsABMAGiADkA/v/d/87/
+xv/D/8P/xv/I/8j/zf/T/9P/1v/d/+H/4P/h/+j/5//o/+j/6P/m/+b/5v/n/+n/6f/p
+/+n/6f/p/+n/6v/o/+j/6P/o/+r/6v/q/+r/6v/q/+r/6//r/+n/6f/o/+b/5v/n/+f/
+5v/m/+b/5f/n/+j/6P/o/+b/5v/m/+b/5v/l/+X/5P/i/+P/4//j/+T/5P/i/+H/4//k
+/+T/5P/j/+P/4//i/+D/4f/h/+H/4f/g/+D/3//f/+D/4P/f/9//3//f/97/4P/f/9//
+3//h/9//3//f/9//3//e/93/2v/a/9n/2P/X/9X/1P/S/9P/0v/Q/9D/z//P/8z/y//J
+/8f/xf/C/8H/v/+9/7z/vv+7/7r/uP+4/7f/t/+3/7j/t/+3/7b/tv+2/7T/tP+2/7n/
+uv+7/7z/v//C/8X/yP/N/9D/0//W/9v/3v/h/+T/5//q/+3/8P/z//T/9f/2//n/+v/7
+//z//v/+//7//v/+//7//v/+/wAAAAAAAAAA/v/+//7//v/8//z//P/8//7//v/+//7/
+/f/8//v/+v/6//r/+v/6//j/+P/4//j/+P/4//j/+P/4//j/+P/4//b/9P/6/wAAAgAG
+AA4AEAAQABYAHgAmADIAQABUAHIAkgCsAMAAygDQANoA2AC0AGoAEgDI/5T/Zv8w/wz/
++P7m/tD+xP7E/sj+1P7k/vr+Ev8s/0j/XP9s/3r/iP+Q/5b/oP+s/7j/wv/K/9D/1v/c
+/+L/4v/i/+D/4P/e/9z/2v/a/97/4v/o//D/9v/8/wQABAAGAAgACgAKAAoACgAMAAwA
+DAAMAA4ADgAOAA4ADAAMAAwADAAPABAAEQASABIAEgASABIAFAAUABQAFAAWABYAFgAW
+ABgAGAAYABgAGwAcAB0AHgAfACAAIQAiACMAJAAlACYAJwAoACkAKgAtAC4ALwAwADIA
+NAA2ADgAOwA8AD0APgBAAEIARABGAEoATABOAFAAUgBUAFYAWABbAF4AYQBkAGYAaABq
+AGwAcAByAHQAdgB4AHoAfAB+AIEAggCDAIQAhgCIAIoAjACOAI4AjgCOAIwAjACMAIwA
+iQCIAIcAhgCEAIQAhACEAIAAfgB8AHoAdgByAG4AagBkAGAAXABYAFMATgBJAEQAPgA6
+ADYAMgAtACoAJwAkACIAIAAeABwAGAAWABQAEgAQABAAEAAQAA4ADAAKAAgABgAEAAIA
+AAD9//z/+//6//r/+v/6//r/+v/6//r/+v/4//j/+P/4//j/+P/4//j/9v/2//b/9v/2
+//b/9v/2//j/+P/4//j/9v/2//b/9v/0//T/9P/0//b/9v/2//b/9P/0//T/9P/0//T/
+9P/0//L/8v/y//L/8v/y//L/8v/0//T/9P/0//T/9P/0//L/8v/y//L/9P/0//T/9P/0
+//T/9P/z//L/8f/x//D/8f/x//L/8v/y//L/8//z//P/8//z//T/8//y//L/8v/0//T/
+9P/0//P/8//0//T/9P/0//T/9P/z//P/8//0//T/9P/0//T/8v/y//L/8v/z//P/9P/0
+//L/8v/y//L/8//z//L/8v/y//L/8v/y//T/9P/1//X/9P/2//T/9P/1//P/8//4//z/
+/P/7////BwAYADYAWgCCALYA7QApAXABwgERAkwCZQJvAnACTwL6AYAB/gCPADwABwDm
+/9b/zf/J/8r/zP/O/8//z//R/9T/1//b/97/3//e/93/3v/e/97/4P/g/+D/4f/f/9//
+3//f/+H/4f/h/+L/4P/g/+D/4P/i/+L/4v/i/+L/4v/i/+P/4//h/+H/4P/i/+L/4//j
+/+D/4P/g/9//4f/i/+L/4v/g/+D/4P/g/+D/3//f/97/3P/d/93/3f/e/97/3P/b/93/
+3v/e/97/3P/b/9r/2P/a/9v/2//b/93/3P/c/9v/2f/a/9r/2f/Z/9n/2f/Y/9b/1f/V
+/9X/1//V/9X/1f/S/9H/z//N/87/zv/N/8z/y//J/8j/xv/D/8L/wP/A/7v/u/+4/7f/
+tf+z/7H/rv+t/6v/qf+o/6r/p/+m/6T/ov+h/6H/of+i/6H/of+g/6H/ov+j/6b/q/+t
+/6//s/+3/73/w//G/8j/zf/R/9P/2P/c/+D/5f/l/+j/6//s/+7/7//y//L/8P/z//T/
+9f/0//X/9f/2//b/9//3//f/9//3//f/9//3//f/9//3//b/9f/1//T/8//x//H/8v/z
+//T/9f/3//X/9f/1//X/8//y//L/8//z//X/9f/1//X/9v/2//b/9f/2//b/9//5//j/
++P/4//j/9//2//b/9v/4//n/+f/1//X/9v/2//j/+P/3//f/+f/5//j/+P/3//f/9//3
+//n/+P/4//r/+P/4//j/+P/6//r/+f/2//j/+f/5//j/+P/4//j/+P/3//f/9v/2//T/
+9P/y//L/8//1//b/9f/z//T/9f/1//b/9v/2//X/9f/2//j/+f/6//r/+P/4//b/+f/5
+//f/9P/z//P/8//2//b/9v/3//f/9//1//X/9v/4//j/+P/6//z/+f/3//n/+P/3//f/
++P/4//j/+f/6//v//f/+/wAA/////wAAAwADAAEAAwADAAEAAgAAAP7//v/+//7//P/8
+//z//P/7//r/+f/4//n/+v/7//z/+f/4//f/9v/4//r//P/+//v/+v/5//j/9f/0//P/
+8v/y//L/8v/y//T/9P/0//T/8//y//H/8P/x//L/8//0//b/9v/2//b/9P/0//T/9P/0
+//T/9P/0//b/9v/2//b/9P/z//P/8//0//T/8//z//T/9P/y//L/8f/x//H/8f/z//T/
+9P/0//f/+P/4//j/+P/4//f/9//4//j/+P/4//j/+P/3//f/+f/6//r/+v/5//j/9//2
+//b/9v/3//f/+f/6//v//P/6//r/+//7//j/+P/4//j/+f/6//v//P/7//v//P/+//z/
+/P/9//3///8AAPz/+P/3//f/AQAYAEQAegCyAO4AKwFvAcIBHAJpApgCqwKtApYCUwLq
+AWQB1gBdABAA5f/Q/8b/w//D/8b/yP/O/8//0f/V/9r/3f/h/+b/5//m/+f/6P/o/+j/
+6P/o/+j/6f/p/+n/6f/p/+n/6f/p/+r/7P/s/+z/7P/r/+r/6f/o/+j/6P/o/+n/6//p
+/+n/6P/o/+j/6f/p/+r/6v/q/+n/6P/o/+f/5v/o/+j/6P/o/+j/5//n/+b/5v/n/+f/
+5//o/+j/5v/l/+X/5v/m/+b/5f/l/+X/5P/m/+f/5//n/+b/5P/j/+H/4f/i/+L/4f/i
+/+P/5P/k/+T/4//j/+P/5f/j/+P/4//l/+X/5P/j/+P/5P/k/+T/4f/f/97/3P/b/9r/
+2P/Y/9f/1//U/9P/0v/R/9D/zv/M/8n/xv/E/8L/v/++/7z/uP+3/7f/t/+1/7P/sv+w
+/6//rv+t/67/rv+t/7D/sv+0/7b/uP+6/7//wv/F/8j/zf/Q/9P/1v/Z/9z/3//i/+b/
+6P/q/+z/7//w//H/8v/0//T/9P/0//L/8v/y//L/8//0//X/9v/0//T/9P/0//X/9v/3
+//j/9//2//X/9P/y//L/8v/y//L/8v/y//L/8P/w//D/8P/u/+7/7v/u/+7/7v/u/+7/
+7v/u/+7/7v/s/+z/8v/6//7/AgAEAAQABgAIABAAHgAqADgAUABwAI4ApgC2ALwAwADI
+AMAAlABCAOL/kv9Y/yj/+v7W/sL+rv6e/pr+ov6w/sT+3P78/hL/Kv9C/1b/ZP9y/37/
+iP+Q/5j/ov+s/7L/uP++/8b/zP/S/9b/1v/Y/9b/1v/W/9T/0v/S/9b/3P/i/+r/9P/2
+//r//v8AAAAAAAAAAAAAAAAAAAAAAAACAAIAAgACAAMABAAFAAYACAAIAAgACAAIAAgA
+CAAIAAoACgAKAAoADAAMAAwADAAPABAAEQASABQAFAAUABQAFQAWABcAGAAbABwAHQAe
+AB8AIAAhACIAJQAmACcAKAAqACwALgAwADMANgA5ADwAPgBAAEIARABIAEoATABOAFEA
+VABXAFoAXgBgAGIAZABoAGoAbABuAHMAdgB5AHwAfgCAAIIAhACGAIgAigCMAI8AkACR
+AJIAlACUAJQAlACTAJIAkQCQAI8AjgCNAIwAiQCGAIMAgAB8AHgAdABwAGoAZgBiAF4A
+WgBWAFIATgBJAEQAPwA6ADYAMgAuACoAJQAiAB8AHAAZABYAEwAQAA4ADAAKAAgABAAC
+AAAA/v/8//z//P/8//v/+v/5//j/9v/2//b/9v/0//T/9P/0//L/8v/y//L/8P/w//D/
+8P/w//D/8P/w//L/8v/y//L/8v/y//L/8v/y//L/8v/y//H/8P/v/+7/7//w//H/8v/w
+//D/8P/w/+7/7v/u/+7/7v/u/+7/7v/u/+7/7v/u/+7/7v/u/+7/7P/s/+z/7P/s/+z/
+7P/s/+z/7P/s/+z/6v/q/+r/6v/q/+r/6v/q/+r/6v/q/+r/7P/s/+z/7P/q/+r/6v/q
+/+r/6v/q/+r/6v/q/+r/6v/q/+r/6v/q/+z/7P/s/+z/7P/s/+z/7P/q/+r/6v/q/+r/
+6v/q/+r/6P/o/+j/6P/q/+r/6v/q/+j/6P/o/+j/6v/q/+r/6v/q/+r/6v/q/+z/7P/s
+/+z/7P/s/+z/7P/r/+r/6f/o/+n/6v/r/+z/6v/s/+z/7P/s/+z/7P/s/+z/7P/s/+z/
+7P/s/+z/7P/s/+z/6v/q/+r/6v/q/+r/6v/q/+z/7P/s/+z/7P/s/+z/7P/s/+z/7P/s
+/+z/7P/s/+z/7P/s/+z/7P/s/+z/7P/s/+z/7P/s/+z/7P/s/+z/7P/s/+z/7P/s/+7/
+7v/u/+7/7v/u/+7/7v/s/+z/7P/s/+7/7v/u/+7/7v/u/+7/7v/u/+7/7v/u//D/8P/w
+//D/8P/w//D/8P/u/+7/7v/u/+7/7v/u/+7/7v/u/+7/7v/u/+7/7v/u//D/8P/w//D/
+8v/y//L/8v/0//T/9P/0//b/9v/2//b/9v/2//b/9v/2//b/9v/2//T/9P/0//T/9f/2
+//f/+P/3//b/9f/0//T/9P/0//T/8v/y//L/8v/w//D/8P/w/+//7//v//D/7v/t/+3/
+7v/u/+z/7P/t/+3/7f/t/+3/7P/s/+z/7f/u/+7/7v/u/+7/7f/t/+7/7v/u/+7/7v/w
+/+//7//v/+7/7v/u/+7/8P/w//D/8P/y//P/8//0//L/8v/y//L/8v/z//P/8v/y//L/
+8v/y//T/9P/0//X/8//0//b/9P/2//f/9//3//z//P/2//H/8//7/xAAMABWAIQAuADt
+ACUBcgHKARcCTgJtAnkCdAJRAgYCmgEYAZUANgABAOb/2P/R/83/zv/Q/9D/0f/T/9f/
+2P/b/+H/4v/h/+T/5f/m/+b/5v/m/+b/5v/n/+X/5f/l/+X/5v/n/+j/6v/p/+j/5//m
+/+j/6P/o/+j/6P/o/+j/6f/p/+f/5//m/+T/5P/l/+X/5f/m/+f/5//m/+b/5f/k/+T/
+5P/k/+T/5v/l/+X/5P/k/+X/5f/l/+T/5P/i/+H/4//k/+T/5P/j/+P/4//i/+H/4f/g
+/9//3//e/97/3f/f/+D/4P/f/93/3f/d/9z/3P/b/9v/2//b/9n/2f/Z/9n/2f/Y/9f/
+1v/W/9X/1P/V/9P/0v/Q/9H/0P/O/87/zf/N/8r/yf/J/8f/xf/C/8P/wf+//77/vP+5
+/7j/tv+2/7X/tv+0/7T/tP+0/7P/sv+x/7D/sf+y/7P/tP+3/7j/uf+6/73/wP/D/8b/
+y//O/9H/1P/Z/9z/3//i/+X/6P/r/+7/8P/y//T/9v/5//r/+//8//3//v///wAAAgAC
+AAIAAgACAAIAAgACAAIAAgACAAIAAAAAAAAAAAAAAAAAAAAAAP7//v/+//7//v/+//7/
+/v/8//z//P/+/wQACgASABgAHgAiACgANABCAFIAZgCIAK4AygDcAOoA9AD4AOQApgBK
+APj/wP+Q/1z/MP8Y/wr//v7u/ub+5P7o/vb+DP8c/yz/Pv9Q/2D/cP96/4r/nv+q/7L/
+uv/E/8z/0P/Y/97/4v/m/+j/5v/m/+j/5v/m/+L/4P/g/+T/6P/y//z/AgAIAAoACgAM
+AA4ADgAOAA4AEAAQABAAEAASABIAEgASABQAFAAUABQAFgAWABYAFgAYABgAGAAYABoA
+GgAaABoAGwAcAB0AHgAgACAAIAAgACIAIgAiACIAJAAmACgAKgAsACwALAAsAC0ALgAv
+ADAAMgA0ADYAOAA5ADoAOwA8AD4AQABCAEQARgBIAEoATABQAFIAVABWAFgAWgBcAF4A
+YQBkAGcAagBsAG4AcAByAHUAdgB3AHgAewB+AIEAhACHAIgAiQCKAI0AjgCPAJAAkACQ
+AJAAkACSAJIAkgCSAI4AjACKAIgAhACCAIAAfgB7AHgAdQByAG4AagBmAGIAXABYAFQA
+UABMAEgARABAAD0AOgA3ADQAMAAuACwAKgAnACQAIQAeAB0AHAAbABoAFgAUABIAEAAO
+AA4ADgAOABAAEAAQABAAEAAQABAAEAAOAA4ADgAOAAwADAAMAAwACgAKAAoACgAMAAwA
+DAAMAAwADAAMAAwACwAKAAkACAAKAAoACgAKAAgACAAIAAgACgAKAAoACgAIAAgACAAI
+AAgACAAIAAgACgAKAAoACgAKAAoACgAKAAgACAAIAAgACAAIAAgACAAGAAYABgAGAAYA
+BgAGAAYABgAGAAYABgAIAAgACAAIAAkACgALAAwADgAOAA4ADgAQABAAEAAQABAAEAAQ
+ABAAEgASABIAEgARABAADwAOABAAEAAQABAADgAOAA4ADgAMAAwADAAMAAoACgAKAAoA
+CQAIAAcABgAIAAgACAAIAAcABgAFAAQABAAEAAQABAAGAAYABgAGAAQABAAEAAQABgAG
+AAYABgAIAAgACAAIAAgACAAIAAgACAAGAAYABgAGAAYACAAIAAgACAAJAAoACwAMAAsA
+CgAJAAcACAAJAAsADAAJAAkACgAKAAgACAAJAAkACgALAAwADgAOAA4ADwAQAA4ADgAO
+AA4ADQANAA4ADgAOAA4ADgAOAA0ADQANAA4AEAAQABAAEAAQABAAEAAQABEAEQASABIA
+EgASABIAEgAVABUAFAAUABQAFAAUABQAFAAUABUAFQAVABYAEwASABMAFQAXABoAHAAa
+ABUAEwAdADAAUgB+ALQA7AAlAWUBtAEKAlkCkgKpAqkCnAJtAhICmgEQAZMAPgALAPD/
+5v/j/+P/5P/o/+r/7f/t/+3/8v/5//v/AAAFAAQABQAGAAYABgAIAAgACAAJAAcABwAH
+AAcABwAHAAcACAAGAAYABgAGAAgACAAIAAgACAAIAAgACQALAAkACQAIAAgACAAJAAkA
+BgAGAAYABQAGAAgACQAKAAgACAAIAAgACQAJAAoACgAIAAkACQAJAAoACgAIAAcABwAI
+AAgACAAIAAkACgAKAAoACwALAAsACQAIAAgABwAFAAYABgAFAAUABQAFAAQABgAFAAUA
+BQAHAAUABQAFAAUABQAEAAMAAgACAAEAAAD///3//P/6//n/+P/2//b/8//z//D/7//t
+/+v/6f/m/+X/4//h/+D/4P/d/9z/2v/a/9n/2f/Z/9j/1f/U/9L/0v/S/9L/0//U/9X/
+1v/Y/9r/3P/e/+L/5v/q/+7/8//2//n//P8AAAQACAAMAA8AEgAVABgAGgAcAB4AIAAj
+ACQAJQAmACgAKAAoACgAKAAoACgAKAAoACgAKAAoACYAJgAmACYAJgAmACYAJgAmACYA
+JgAmACYAJgAmACYAJAAkACQAJAAiACIAIgAiACIAIgAkACgAMAA4AD4ARgBKAE4AVgBi
+AG4AfACWALgA3AD2AAgBFAEiASQBDgHKAGgACgDG/5L/Xv8u/w7//v70/ur+4v7k/vD+
+BP8e/zb/TP9m/3z/iv+c/6z/uP/I/9T/3P/q//L/9v/6/wIACAAOABIAGAAaABgAGAAa
+ABoAGAAUABYAGAAaAB4AJgAqADIAOAA6AD4AQABAAEAAQABAAEAAQABAAEIAQgBCAEIA
+QwBEAEUARgBIAEgASABIAEoASgBKAEoASwBMAE0ATgBPAFAAUQBSAFMAVABVAFYAVwBY
+AFkAWgBdAF4AXwBgAGEAYgBjAGQAaABqAGwAbgBxAHIAcwB0AHYAeAB6AHwAgACCAIQA
+hgCJAIwAjwCSAJYAmACaAJwAnwCiAKUAqACtALAAswC2ALkAvAC/AMIAxgDIAMoAzADR
+ANQA1wDaAN4A4ADiAOQA5wDoAOkA6gDoAOgA6ADoAOUA5ADjAOIA4ADeANwA2gDVANIA
+zwDMAA==
+         </WaveFormData>
+      </LeadData>
+      <LeadData>
+         <LeadByteCountTotal>10000</LeadByteCountTotal>
+         <LeadTimeOffset>0</LeadTimeOffset>
+         <LeadSampleCountTotal>5000</LeadSampleCountTotal>
+         <LeadAmplitudeUnitsPerBit>4.88</LeadAmplitudeUnitsPerBit>
+         <LeadAmplitudeUnits>MICROVOLTS</LeadAmplitudeUnits>
+         <LeadHighLimit>2147483647</LeadHighLimit>
+         <LeadLowLimit>268435456</LeadLowLimit>
+         <LeadID>V6</LeadID>
+         <LeadOffsetFirstSample>0</LeadOffsetFirstSample>
+         <FirstSampleBaseline>0</FirstSampleBaseline>
+         <LeadSampleSize>2</LeadSampleSize>
+         <LeadOff>FALSE</LeadOff>
+         <BaselineSway>FALSE</BaselineSway>
+         <LeadDataCRC32>2633781003</LeadDataCRC32>
+         <WaveFormData>
+6v/q/+r/6v/q/+r/6v/q/+r/6v/q/+r/6v/q/+r/6v/p/+j/5//m/+P/4v/h/+D/4P/g
+/+D/4P/g/+D/4P/g/+D/4P/g/+D/3v/e/97/3v/c/9z/3P/c/9z/3P/c/9z/2//a/9n/
+2P/X/9b/1f/U/9T/1P/U/9T/1P/U/9T/1P/U/9T/1P/U/9H/0P/P/87/0P/Q/9D/0P/Q
+/9D/0P/Q/87/zv/O/87/y//K/8n/yP/G/8b/xv/G/8T/wv/A/77/vP+8/7z/vP+5/7j/
+t/+2/7L/sP+u/6z/qf+o/6f/pv+j/6L/of+g/57/nv+e/57/nP+c/5z/nP+a/5r/mv+a
+/5r/mv+a/5r/nP+c/5z/nP+f/6L/pf+o/6//tP+5/77/wf/E/8f/yv/Q/9T/2P/c/+D/
+5P/o/+z/7//y//X/+P/7//z//f/+/wAAAAAAAAAAAQACAAMABAAFAAYABwAIAAUABAAD
+AAIABAAEAAQABAACAAIAAgACAAMABAAFAAYABQAEAAMAAgAAAAAAAAAAAP7//v/+//7/
+/v8AAAAA/P/6/wAACAAYACoAMgAsACIAIAAmACYAIAAgACYAJgAiABYA/v/m/9D/sv94
+/yr/3v6q/pT+fv5g/lL+WP5e/mL+av54/oz+pv7E/uL++v4U/zD/Rv9Y/2r/fP+O/5z/
+qP+u/7T/vv/G/8r/0P/W/9j/2v/c/9r/2v/c/9z/2v/e/+L/5v/q//L/+v8CAAYACAAM
+AA0ADgAPABAAEAAQABAAEAASABIAEgASABQAFAAUABQAFAAUABQAFAAVABYAFwAYABkA
+GgAbABwAHgAeAB4AHgAfACAAIQAiACUAJgAnACgAKwAsAC0ALgAvADAAMQAyADMANAA1
+ADYAOAA6ADwAPgBCAEQARgBIAEwATgBQAFIAVgBYAFoAXABhAGQAZwBqAG8AcgB1AHgA
+fACAAIQAiACNAJAAkwCWAJkAnACfAKIApQCoAKsArgCyALQAtgC4ALkAugC7ALwAvgC+
+AL4AvgC9ALwAuwC6ALUAsgCvAKwApwCiAJ0AmACSAI4AigCGAIAAfAB4AHQAbABmAGAA
+WgBTAE4ASQBEAD8AOgA1ADAAKwAoACUAIgAeABoAFgASABAADgAMAAoACAAGAAQAAgAA
+AAAAAAAAAP3//P/7//r/+f/4//f/9v/2//b/9v/2//T/9P/0//T/8v/y//L/8v/0//T/
+9P/0//L/8v/y//L/8P/w//D/8P/u/+7/7v/u/+7/7v/u/+7/7v/u/+7/7v/s/+z/7P/s
+/+7/7v/u/+7/7P/s/+z/7P/u/+7/7v/u/+3/7P/r/+r/7P/s/+z/7P/s/+z/7P/s/+r/
+6v/q/+r/6f/o/+f/5v/o/+j/6P/o/+b/5v/m/+b/5v/m/+b/5v/m/+b/5v/m/+b/5v/m
+/+b/5P/k/+T/5P/k/+T/5P/k/+X/5v/n/+j/6v/q/+r/6v/t/+7/7//w//D/8P/w//D/
+7v/u/+7/7v/u/+7/7v/u/+7/7v/u/+7/7f/s/+v/6v/q/+r/6v/q/+r/6v/q/+r/7P/s
+/+z/7P/s/+z/7P/s/+r/6P/m/+T/5P/i/+H/4P/f/97/3//g/+H/4v/i/+L/4v/i/+D/
+4P/g/+D/4v/i/+L/4v/h/+H/4f/h/+H/4v/i/+L/4v/j/+P/5P/k/+X/5f/l/+P/4//k
+/+T/4v/i/+P/4//j/+P/4//j/+X/5v/m/+b/5f/l/+X/5f/l/+X/5f/l/+T/5P/k/+T/
+5v/m/+b/5//p/+n/6f/p/+n/6f/p/+n/5//o/+r/6v/s/+r/6v/r/+n/6f/p/+n/6f/p
+/+n/6f/r/+v/7P/s/+7/7v/v/+//7f/t//H/8//u/+b/3f/X/9z/8P8PADMAXwCVAMsA
+BwFTAawB9QEsAlICZgJtAlECFwLBAVcB6wCWAFgAMQAWAAQA9f/r/+T/2//S/8//z//R
+/9P/1//Y/9b/1P/U/9T/1P/U/9b/1v/W/9b/1v/V/9X/1f/T/9P/0//T/9X/1f/V/9X/
+1//X/9f/1//V/9X/1f/V/9X/1f/V/9P/1P/U/9X/1f/T/9P/0v/S/9L/0v/S/9L/0v/S
+/9L/0//T/9P/0f/Q/9L/0//T/9P/0//T/9H/0f/T/9P/0//R/8//z//P/87/zv/P/8//
+z//O/8//0P/Q/87/zv/O/8z/y//L/8v/y//L/8r/yf/J/8j/yP/H/8f/x//H/8X/xP/B
+/8H/wP+//77/vf+9/77/uv+4/7j/t/+0/7P/s/+x/67/rf+s/6n/qv+o/6b/pP+k/6L/
+n/+f/53/m/+d/5//nP+a/5r/mv+a/5r/mv+a/5r/m/+c/53/nv+h/6T/p/+q/63/sP+z
+/7b/vP/A/8T/yP/M/9D/1P/Y/9v/3v/h/+T/6P/q/+z/7v/x//L/8//0//T/9P/0//T/
+9v/2//b/9v/0//T/9P/0//X/9v/3//j/+P/4//j/+P/2//b/9v/2//T/9P/0//T/9P/0
+//T/9P/y//L/9v/8/wQADAAUABoAHAAaABwAIAAcABYAHgAsADIALAAeAA4AAADo/7j/
+dv82/wj/5v7I/q7+oP6e/qL+ov6i/qj+tP7C/tj+8v4G/xj/Kv88/0z/XP9q/3z/jv+Y
+/6T/rv+2/7z/wP/E/8j/yv/M/9D/0v/U/9b/2P/W/9L/1v/e/+L/5v/u//L/+v/+//7/
+/v8CAAQABAAEAAQABAAEAAQABAAFAAYABwAIAAgACAAIAAgACgAKAAoACgAMAAwADAAM
+AA0ADgAPABAAEQASABMAFAAWABYAFgAWABkAGgAbABwAHQAeAB8AIAAiACQAJgAoACoA
+LAAuADAAMwA0ADUANgA6ADwAPgBAAEIARABGAEgATABOAFAAUgBWAFoAXgBiAGUAZgBn
+AGgAbQBwAHMAdgB5AHwAfwCCAIYAiACKAIwAkACSAJQAlgCZAJoAmwCcAJ4AngCeAJ4A
+nACaAJgAlgCUAJIAkACOAIwAigCIAIYAgwCAAH0AegB2AHIAbgBqAGUAYABbAFYAUQBM
+AEcAQgA9ADoANwA0AC8ALAApACYAIwAgAB0AGgAYABYAFAASAA8ADgANAAwACQAIAAcA
+BgADAAIAAQAAAP3//P/7//r/+P/4//j/+P/4//j/+P/4//b/9v/2//b/9v/2//b/9v/2
+//b/9v/2//T/9P/0//T/9P/0//T/9P/2//b/9v/2//b/9v/2//b/9P/0//T/9P/0//T/
+9P/0//T/9P/0//T/9f/2//f/+P/3//b/9f/0//b/9P/0//T/9P/0//f/9//3//f/9v/2
+//X/9P/0//X/9f/2//j/+f/5//n/+f/5//r/+v/2//b/9//3//X/9f/1//X/9//4//j/
++P/7//v/+//7//v/+//7//v/+P/4//j/+P/4//j/+P/5//n/+f/5//n/+f/5//n/+f/5
+//r//P/8//7//P/8//3/+//7//v/+//9//3//f/9//r/+f/5//j/+P/4//n/+f/7//v/
+/f/9//7//P/3//P/+v8MACkATwB9ALMA6wApAXUBygEXAk4CbgKEAo0CbQIjAsMBWQH9
+AK4AbgBBACQAEgALAAUA+v/x/+r/5f/j/+P/4//l/+b/5v/m/+b/5v/m/+b/5P/k/+T/
+5P/m/+X/5f/l/+P/4//j/+P/5f/l/+X/5f/l/+X/5f/l/+X/5f/l/+X/4//j/+P/4f/g
+/+D/4f/h/9//3//e/97/4P/g/+D/4P/e/97/3v/f/93/3f/b/9r/2//d/97/3//f/9//
+3f/d/9r/2f/Y/9X/2P/Z/9r/2v/Y/9n/2f/Z/9f/1//X/9b/1v/W/9b/1P/V/9X/1f/V
+/9P/0v/R/9H/z//O/8z/y//J/8n/x//G/8X/xf/E/8P/v/+9/7z/vP+4/7b/tv+1/7L/
+sf+x/6//rP+r/6r/p/+k/6L/oP+e/5z/mv+X/5f/lf+V/5X/lf+W/5b/lv+V/5f/mv+e
+/6H/pv+o/6z/r/+z/7j/vf/D/8X/y//P/9P/2f/d/9//5P/m/+n/7P/t/+7/8v/1//b/
++v/8//7//v///wAAAQABAAUABQAFAAUAAgABAAAA//8BAAEAAQABAAEAAQABAAEA////
+//7//v/8//z//f/+/wAA/v/8//z/+//8//z//P/6//z//P/8//7///////////////7/
+/v/8//z//P/8//z/+//6//r/+//9//7//v/9//3///////7//v/9//3//f/9//3//f/+
+//7//v/+//z//P/8/wAAAgD////////9//7//v/9//3//v/+//3///////////8CAAIA
+AAD////////+//v//f8AAP//+//7//z//P/9//7///8AAAEA///////////9//3//f/8
+//7///////7/////////AAAAAAEAAQACAAMAAwADAAMABwAHAAcABwAJAAoACgAIAAUA
+BQAEAAQABQAFAAMABQAEAAQABgAGAAQAAwADAAQABAADAAMAAwAEAAMABAAEAAYABgAG
+AAYABAAEAAQABAABAAAA///+//3//P/7//r//P/8//z//f/9//3//f/9//z//P/8//v/
+/f/8//z//P/9//3//f/9////AAAAAP7//v/////////9//3//f/9//7//v/+////AQAB
+AAEAAQAAAP///v/8//3//v///wAA///+//7//f/+////AAABAP//////////AAACAAIA
+AgACAAIAAwADAAEAAQABAAEAAQABAAEAAQACAAQABQAGAAYABQAHAAkACQAHAAcAAgD8
+//f/9f/8/xYAOQBjAJkA0QAJAU0BpwH8AT0CagKKApgCiQJVAgcCpQE3AdUAiABUADcA
+JAAUAAsAAQD2/+v/6v/p/+f/5//r/+//7P/u//L/8P/w//D/8P/u/+7/7v/u//D/7//v
+/+//7//v/+//7//v/+//7//v/+//7//v/+//8f/x//H/8f/x//H/8f/v/+7/7v/v/+//
+7f/t/+z/7P/u/+7/7v/u/+z/7P/s/+3/7f/t/+v/6v/q/+v/6//r/+n/6f/n/+f/5//n
+/+f/5f/n/+f/5//m/+b/5//n/+f/5f/l/+X/5P/k/+T/5P/i/+H/4f/h/+H/4f/g/9//
+3//g/+D/3//f/9//3//d/9z/2f/Z/9j/1//X/9X/1P/U/9T/0v/S/9H/zv/N/83/y//I
+/8f/xv/D/8L/wP++/7z/vf+8/7r/u/+7/7v/u/+7/7z/vP+8/7v/u/+6/7r/vf++/8H/
+wv/D/8T/yf/M/8//0v/Y/9z/4P/k/+n/7P/v//L/9f/4//v//v8CAAQABgAIAAsADAAN
+AA4AEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABIAEgASABIA
+EAAQABAAEAAPAA4ADQAMAAwADAAMAAwACgAKAAoACgAMAAwADAAMAAoACAAOABQAGAAg
+ACgAJAAgACAAJAAoACoAKAAqADYAQABEAEAAMAAgABgABgDa/5r/WP8o/wz/9P7Y/sb+
+wv7A/rz+vP7C/s7+3P7y/gj/IP86/1L/aP92/4T/lP+e/6b/tP++/8j/zv/W/9r/3v/i
+/+b/6P/q/+r/6v/q/+r/6v/u//L/9v/6/wIACgAQABQAFAAWABoAGgAaABoAGgAcABwA
+HAAcABwAHAAcABwAHgAeAB4AHgAfACAAIQAiACIAIgAiACIAIwAkACUAJgAmACYAJgAm
+ACcAKAApACoAKwAsAC0ALgAxADIAMwA0ADUANgA3ADgAOwA8AD0APgBBAEIAQwBEAEgA
+SgBMAE4AUABSAFQAVgBYAFoAXABeAGEAZABnAGoAbgBwAHIAdAB3AHoAfQCAAIQAhgCI
+AIoAjQCQAJMAlgCZAJoAmwCcAJ0AngCfAKAAoQCiAKMApACiAKIAogCiAKAAngCcAJoA
+lgCUAJIAkACOAIwAigCIAIMAgAB9AHoAdABwAGwAaABjAF4AWQBUAE4ASgBGAEIAPgA6
+ADYAMgAuACwAKgAoACQAIgAgAB4AHAAaABgAFgAVABQAEwASAA8ADgANAAwACgAIAAYA
+BAADAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAD+//7//v/+//z//P/8//z//P/8//z//P/6
+//r/+v/6//r/+v/6//r/+P/4//j/+P/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/
++v/6//j/+P/4//j/+P/4//j/+P/4//j/+P/6//r/+v/6//n/+f/5//n/+f/6//r/+v/5
+//n/+P/4//j/+f/5//n/+f/5//r/+v/4//j/+f/5//v/+//7//v/+f/6//r/+v/7//v/
++//7//v/+//7//v//P/8//z//P/6//r/+v/7//n/+f/5//n/+f/5//n/+f/7//z//v/+
+//z/+v/6//v/+//7//v/+//7//v/+//7//v/+//8//z//P/8//3//f/9//v/+////wAA
+/P/5//X/9v8EAB0AOwBdAIcAuQDxADEBgAHPAQoCMAJIAlsCTwIZAsEBYQELAb4AfABR
+ADQAHAANAAcAAAD1/+7/5//j/+P/5f/n/+j/6v/o/+b/5v/m/+b/6P/o/+j/6P/o/+f/
+5//n/+f/5//n/+f/5f/l/+X/5f/n/+f/5//n/+f/5//n/+f/5f/l/+X/4//k/+T/5f/l
+/+P/4//i/+L/5P/k/+T/5P/g/+D/4P/h/+H/4f/f/97/3v/f/9//3//d/93/2//b/93/
+3f/d/9v/2f/Z/9n/2P/W/9f/1//X/9f/1//X/9b/1v/W/9b/1P/V/9X/1f/V/9P/0v/R
+/9H/0P/Q/8//z//O/83/yv/I/8n/yf/I/8f/xf/D/8L/wv/A/77/vv+9/7n/t/+2/7P/
+sv+x/7D/rf+u/6z/qv+o/6r/qP+l/6X/o/+j/6P/o/+k/6T/pP+j/6X/pv+o/6n/rP+u
+/7L/tf+7/8D/xf/L/83/0//X/9v/3//j/+X/6v/s/+//8v/z//P/9v/4//j/+P/6//z/
+/P/7//z//f/9////////////AQABAAEAAQABAAEAAQABAP///f/7//n/+//7//r/+v/8
+//z//f/+//7//P/6//r/+P/4//f/9v/4//r/+v/6//j/+f/5//n/+//7//r/+v/6//r/
++v/6//r/+f/4//j/+f/7//z//P/5//n/+//7//z//P/7//v/+//7//v/+//+//7//v/+
+//7//v/+/wIAAgD//////////wAAAAD/////AAAAAP///f/9//3//f/+//7//P/7//v/
++//6//f//P8AAAAA/f/9//7//v////7//f/8//v//f/9//3//f/////////+//z//f/9
+//z/+f/5//n/+v/8//3//f/+//3//f/9//3//f/9//3//f///wAAAAD+///////+//7/
+//////3///8CAAIABAAEAAQAAwADAAQABgAFAAUABQAEAAMABAAEAAIAAgACAAIAAAAA
+AAAAAAAAAAAAAAAAAAIAAgACAAIAAQAAAP///v8BAAIAAwAEAAMAAgABAAAA/v/8//r/
++P/2//b/9v/2//f/+P/5//r/+P/4//j/+P/6//r/+v/6//z//P/8//z/+//6//r/+f/5
+//n/+f/6//z//P/7//v/+P/4//j/+f/5//n/+f/5//r/+v/4//j/9//3//f/9//5//n/
++f/6//r/+v/7//v/+//7//v/+//7//v/+v/6//r/+v/6//r//P/9//3//f/8//v/+v/5
+//n/+f/5//r//f/+/////v/8//3//f/9//3//f/9//3//f/9//3//f/+//7//v/+////
+AQABAAEAAwABAPr/8v/r/+f/7P/+/yEATQB9ALEA6QApAXkB1AEdAlICdgKOAo0CZwIh
+AsMBVQHpAJQAWgAzABoACAD9//f/8P/n/+D/3f/f/9//4f/j/+T/5P/m/+T/5P/k/+T/
+5v/m/+b/5v/k/+P/4//j/+X/5f/l/+X/5f/l/+X/5f/j/+P/4//j/+P/4//j/+P/4//j
+/+P/4f/g/+D/4f/h/+P/4//i/+L/4f/g/9//3v/d/97/3//h/9//3//d/9z/2v/b/9v/
+2//d/93/2//b/9v/2//b/9n/2f/Z/9n/2P/Y/9n/2f/Z/9X/1f/V/9T/1P/U/9T/0v/T
+/9P/0//T/9P/0v/R/9H/0v/S/9H/0f/T/9P/0f/Q/8//z//O/83/y//J/8j/yP/E/8L/
+wv/B/8D/v/+//73/vf+9/73/u/+5/7b/s/+w/7D/rv+r/6v/p/+n/6f/p/+k/6T/pP+j
+/6D/oP+h/6H/o/+i/6X/qP+q/6z/rv+w/7b/uv++/8L/x//K/83/0P/V/9j/2//e/+H/
+5P/n/+r/7f/u/+//8P/x//L/8//0//T/9P/0//T/9P/0//T/9P/0//T/9P/0//b/9v/2
+//b/9P/0//T/9P/0//T/9P/0//T/9P/0//T/8v/y//L/8v/w//D/8P/w//D/8P/w//D/
+8v/y//L/8v/u/+7/9P/8/wQACgAOAAgAAgACAAQACgAKAAoAEAAaACIAIAASAPz/6P/c
+/8T/lP9S/xD/4P7C/qz+lv6I/oT+gv6C/oj+lv6s/sT+3v78/hT/LP9E/1b/Zv90/4L/
+jv+Y/6L/rP+2/7z/vv/C/8j/zP/Q/9T/1v/W/9j/2v/Y/9j/2v/e/+T/6v/u//T//P8A
+AAIABgAIAAoACgAKAAoADAAMAAwADAAMAAwADAAMAA4ADgAOAA4AEQASABMAFAASABIA
+EgASABMAFAAVABYAGAAYABgAGAAbABwAHQAeACEAIgAjACQAJQAmACcAKAArACwALQAu
+ADEAMgAzADQANwA4ADkAOgA9AEAAQwBGAEkATABPAFIAVgBYAFoAXABhAGQAZwBqAG8A
+cgB1AHgAewB+AIEAhACHAIoAjQCQAJUAmACbAJ4AogCkAKYAqACpAKoAqwCsAK4ArgCu
+AK4ArACsAKwArACoAKYApACiAJ4AnACaAJgAlACQAIwAiACDAH4AeQB0AG0AaABjAF4A
+WgBWAFIATgBIAEQAQAA8ADcANAAxAC4AKwAoACUAIgAfABwAGQAWABMAEgARABAADgAM
+AAoACAAHAAYABQAEAAQABAAEAAQAAwACAAEAAAAAAAAAAAAAAP7//v/+//7//P/8//z/
+/P/6//r/+v/6//v//P/9//7//v/+//7//v/8//z//P/8//r/+v/6//r//P/8//z//P/8
+//z//P/8//z//P/8//z//P/8//z//P/8//z//P/8//r/+v/6//r//P/8//z//P/8//z/
+/P/8//r/+v/6//r/+P/4//j/+P/5//r/+//8//r/+v/6//r/+v/6//r/+v/4//j/+P/4
+//n/+v/7//z/+v/6//r/+v/4//j/+P/4//n/+v/7//z/+v/6//r/+v/6//r/+v/6//r/
++v/6//r/+P/4//j/+P/5//r/+//8//v/+v/5//j/+P/4//j/+P/4//j/+P/4//r/+v/6
+//r/+v/6//r/+v/4//j/+P/4//r/+v/6//r/+P/6//z//P/8//z//P/8//z//P/6//r/
++v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/8//z//P/8
+//r/+v/6//r/+v/6//r/+v/4//j/+P/4//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/
++v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//z//P/8
+//z//P/8//z//P/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/+v/6//r/
++//8//3//v/8//z//P/8//3//v///wAA/v/+//7//v/+//7//v/+//7//v/+//7///8A
+AAEAAgAAAAAAAAAAAP7//////////f/9//7//v/8//v/+//6//n/+P/4//f/9//3//f/
++P/2//T/9P/1//X/9f/1//X/9f/1//b/9v/2//f/9//3//X/9f/1//X/9//2//b/9v/2
+//b/9v/2//X/9f/1//X/9f/1//X/9f/3//f/+P/6//j/+P/2//b/9//3//f/9//3//f/
+9//3//f/9//3//j/+P/4//j/+f/5//v/+//5//v/+v/y/+f/4//o//r/FwA1AFkAhwC3
+AO0AMQGGAdEBCAIuAkgCUwJDAhECxwFnAf0ApABmAD8AIgAOAAUA///0/+n/4P/f/9//
+3f/h/+P/5P/i/+T/5P/k/+T/5P/i/+L/4v/i/+L/4f/h/+H/4//j/+P/4//h/+H/4f/h
+/+P/4//j/+P/4f/h/+H/4f/h/+H/4f/f/97/3v/f/9//4f/h/+D/4P/e/97/3v/e/9z/
+3P/c/93/3f/d/9v/2v/a/9v/2//b/9n/2f/X/9f/2f/Z/9n/1//X/9f/1//W/9X/1f/U
+/9P/0v/T/9T/1P/U/9T/1P/S/9H/0f/R/9H/z//O/83/zf/O/87/zf/N/83/zf/L/8r/
+yf/J/8j/x//F/8P/wv/C/8L/wP/A/7//vv+9/73/u/+4/7f/tv+z/7T/sv+w/67/rv+s
+/6n/qf+p/6n/rP+r/6r/qf+o/6j/qP+o/6j/qP+o/6j/qP+q/6z/rv+w/7X/uP+7/77/
+wf/E/8f/yv/O/9L/1v/a/93/4P/j/+b/6v/s/+7/8P/z//T/9f/2//f/+P/5//r//P/8
+//z//P/8//z//P/8//z//P/8//z/+v/6//r/+v/8//z//P/8//r/+v/6//r/+v/6//r/
++v/6//r/+P/6/wAACAAQABgAGgAaAB4AJAAoACwAMAA8AEoATgBKAEAANgAmAAYAyP+C
+/0j/Iv8C/+L+zP7E/sL+wv6+/rz+xP7Q/uL++P4M/xz/MP9C/1T/ZP9w/4D/lP+i/6j/
+sv++/8T/yP/M/9D/0v/W/9r/2P/Y/9r/3P/c/97/3P/g/+b/6v/y//j//v8CAAQABgAI
+AAoACgAKAAoADAAMAAwADAAOAA4ADgAOAA8AEAARABIAFAAUABQAFAAWABYAFgAWABgA
+GAAYABgAGwAcAB0AHgAgACAAIAAgACIAIgAiACIAJAAmACgAKgArACwALQAuAC8AMAAx
+ADIANgA4ADoAPAA9AD4APwBAAEQARgBIAEoATgBQAFIAVABYAFoAXABeAGIAZABmAGgA
+bQBwAHMAdgB4AHoAfAB+AIAAggCEAIYAigCMAI4AkACRAJIAkwCUAJUAlgCXAJgAlwCW
+AJUAlACTAJIAkQCQAIsAiACFAIIAfgB6AHYAcgBtAGoAZwBkAF4AWgBWAFIATABIAEQA
+QAA7ADgANQAyAC0AKgAnACQAIAAeABwAGgAWABQAEgAQAA0ADAALAAoABwAGAAUABAAE
+AAQABAAEAAIAAgACAAIAAgACAAIAAgAAAAAAAAAAAAAAAAAAAAAA/v/+//7//v/+//7/
+/v/+//7//v/+//7//f/8//v/+v/8//z//P/8//z//P/8//z//P/8//z//P/6//r/+v/6
+//j/+P/4//j/+f/6//v//P/8//z//P/8//r/+v/6//r/+P/4//j/+P/4//j/+P/4//b/
+9v/2//b/+P/4//j/+P/6//r/+v/6//v//P/9//7//v/+//7//v8AAAAAAAAAAP7//v/+
+//7//v/+//7//v/8//z//P/8//7//v/+//7//v/+//7//v/8//z//P/8//r/+v/6//r/
++P/4//j/+P/2//b/9v/2//X/9P/z//L/8v/y//L/8v/0//T/9P/0//L/8v/y//L/8v/y
+//L/8v/0//T/9P/0//b/9v/2//b/9P/0//L/8v/y//L/9f/1//X/9f/3//j/+P/4//b/
+9f/z//L/8//1//b/9//2//X/9f/0//T/9P/1//X/9//3//f/9//3//j/+P/4//f/9//3
+//f/9//3//f/9//2//b/9v/2//j/+P/4//n/+f/5//n/+f/5//n/+f/5//n/+v/8//z/
+/P/6//r/+//7//v/+//7//3//f/9//3//f/9//7//v/9//z//P/7//v/+//9//3//v/6
+/+//6f/s//z/FQA5AGcAmwDPAAsBWQGwAf8BOgJgAnYCewJhAiUCzwFlAfkAoABgADUA
+HAAMAAMA+f/w/+n/5P/f/9v/3f/h/+P/5P/o/+j/5v/m/+b/5v/m/+b/5v/m/+b/5f/l
+/+X/4//j/+P/4//h/+H/4f/h/+P/4//j/+P/4//j/+P/4//l/+X/5f/j/+D/4P/h/+H/
+4f/h/+D/4P/i/+L/4v/i/97/3v/e/9//4P/h/+D/4P/e/9//3//f/93/3f/b/9v/3f/d
+/93/2//d/93/3f/c/9z/3f/d/93/2//b/9v/2v/Y/9j/2P/W/9X/1f/V/9X/1//W/9X/
+1f/W/9b/1f/V/9P/0//R/9D/z//P/87/zf/L/8n/yP/I/8b/xP/E/8P/vv+9/73/u/+6
+/7n/uP+1/7T/sv+w/67/rv+s/6n/qf+o/6n/qv+r/6r/qP+m/6b/pv+m/6b/qf+q/6v/
+rP+w/7L/tP+2/7r/vv/C/8b/yv/O/9L/1v/b/97/4f/k/+n/7P/v//L/9v/4//r//P//
+/wAAAQACAAMABAAFAAYABgAGAAYABgAGAAYABgAGAAYABgAGAAYACAAIAAgACAAIAAgA
+CAAIAAYABgAGAAYABAAEAAQABAAEAAQABAAEAAQABAAEAAgAEgAeACQAKgAsACoALgAy
+ADAALAAwADoAQgBCADYAJAAYAAYA3v+g/1b/Ev/m/sj+qv6S/oj+iP6M/pD+kv6e/rL+
+zP7q/gL/HP80/0z/Xv9u/37/jP+e/6z/tv/C/8z/0P/U/9r/4P/k/+j/7P/u//D/8v/0
+//b/9P/0//b/+v/+/wQACgAOABQAGgAcACAAIAAgACAAIAAgACAAIAAgACMAJAAlACYA
+KAAoACgAKAApACoAKwAsACwALAAsACwALwAwADEAMgAzADQANQA2ADkAOgA7ADwAPwBA
+AEEAQgBFAEYARwBIAEsATABNAE4AUABSAFQAVgBYAFoAXABeAGEAZABnAGoAbgBwAHIA
+dAB5AHwAfwCCAIUAiACLAI4AkgCWAJoAngChAKQApwCqAK8AsgC1ALgAuwC+AMEAxADI
+AMoAzADOANAA0gDUANYA2ADYANgA2ADVANQA0wDSAM4AzADKAMgAwwDAAL0AugC2ALIA
+rgCqAA==
+         </WaveFormData>
+      </LeadData>
+   </Waveform>
+   <PharmaData>
+      <PharmaRRinterval>766</PharmaRRinterval>
+      <PharmaUniqueECGID>SCD08172514PA17112008113422</PharmaUniqueECGID>
+      <PharmaPPinterval>769</PharmaPPinterval>
+      <PharmaCartID>SCD08172514PA</PharmaCartID>
+   </PharmaData>
+</RestingECG>
